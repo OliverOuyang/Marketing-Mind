@@ -40,15 +40,15 @@
 | 00 | [营销思维底层](modules/00-foundations/README.md) | 营销到底是什么？为什么人会买？ | 已写 |
 | 01 | [用户洞察](modules/01-customer-insight/README.md) | 谁会买？他们真正要完成什么任务？ | 已写 |
 | 02 | [定位与差异化](modules/02-positioning/README.md) | 在对方脑子里，我占哪个位置？ | 已写 |
-| 03 | [价值主张与报价](modules/03-value-proposition/README.md) | 怎么让"选我"成为显而易见的好交易？ | 骨架 |
-| 04 | [文案与说服](modules/04-copywriting/README.md) | 怎么写/说，才能让人看完就想行动？ | 骨架 |
-| 05 | [渠道与增长](modules/05-channels-growth/README.md) | 去哪里找人？怎么低成本放大？ | 骨架 |
-| 06 | [个人品牌](modules/06-personal-brand/README.md) | 怎么把"我"变成一个值得被记住的品牌？ | 骨架 |
-| 07 | [销售与谈判](modules/07-sales-negotiation/README.md) | 怎么推进成交，怎么谈到好结果？ | 骨架 |
-| 08 | [机会捕捉](modules/08-opportunity/README.md) | 怎么发现机会、判断机会、快速下注？ | 骨架 |
-| 09 | [综合实战](modules/09-capstone/README.md) | 拿一个真实的东西，从 0 卖出去 | 骨架 |
+| 03 | [价值主张与报价](modules/03-value-proposition/README.md) | 怎么让"选我"成为显而易见的好交易？ | 已写 |
+| 04 | [文案与说服](modules/04-copywriting/README.md) | 怎么写/说，才能让人看完就想行动？ | 已写 |
+| 05 | [渠道与增长](modules/05-channels-growth/README.md) | 去哪里找人？怎么低成本放大？ | 已写 |
+| 06 | [个人品牌](modules/06-personal-brand/README.md) | 怎么把"我"变成一个值得被记住的品牌？ | 已写 |
+| 07 | [销售与谈判](modules/07-sales-negotiation/README.md) | 怎么推进成交，怎么谈到好结果？ | 已写 |
+| 08 | [机会捕捉](modules/08-opportunity/README.md) | 怎么发现机会、判断机会、快速下注？ | 已写 |
+| 09 | [综合实战](modules/09-capstone/README.md) | 拿一个真实的东西，从 0 卖出去 | 已写 |
 
-"已写"= 内容较完整，可以直接学；"骨架"= 目标、框架、阅读、练习已列好，细节会在学到时和导师一起补全。
+10 个模块都已写完：每个模块都有学习目标、核心概念、框架、案例速读、推荐阅读、练习题（含加难度版本）和通关标准，可以直接学。
 
 ## 三、目录结构
 
