@@ -115,8 +115,8 @@
 ## 案例速读
 
 - **Chris Voss 的人质谈判**：FBI 谈判专家把"让对方说'你说得对'"作为突破口，同样适用于商业和日常谈判。
-- **实习薪资谈判**：一个学生拿到 offer 后没有直接要更多钱，而是问"在这个薪资范围外，有没有可能在 ___ 方面调整？"最后拿到了提前转正评估和额外的学习预算。关注利益，不卡在立场。
-- **二手交易**：卖家标价 3000，买家直接说"2000 卖吗"容易谈崩；更好的做法是先问"这个用了多久？有什么毛病吗？"（发现需求），再基于对方的出售原因（急着搬家）提一个"今天就能带走"的报价。
+- **实习薪资谈判**：一个学生拿到 offer 后没有直接要更多钱，而是问"在这个薪资范围外，有没有可能在 ___ 方面调整？"最后拿到了提前转正评估和额外的学习预算（示例）。关注利益，不卡在立场。
+- **二手交易**：卖家标价 3000，买家直接说"2000 卖吗"容易谈崩；更好的做法是先问"这个用了多久？有什么毛病吗？"（发现需求），再基于对方的出售原因（急着搬家）提一个"今天就能带走"的报价（示例）。
 
 ## 推荐阅读
 
@@ -124,6 +124,16 @@
 - Roger Fisher 等《谈判力》（Getting to Yes）：原则谈判和 BATNA 的原典。
 - Neil Rackham《销售巨人》（SPIN Selling）：读第 4–5 章就够。
 - Bob Moesta《Demand-Side Sales 101》：选读，站在买方视角看销售，和 01 模块的 JTBD 连起来。
+
+### 资料库笔记
+
+每篇开头有"30 秒读懂"和可信度说明，出题和点评以笔记为准。全部资料见 [library/INDEX.md](../../library/INDEX.md)。
+
+- [谈判力（另译：寸土必争 / 达成协议）](../../library/notes/07-sales-negotiation/fisher-ury-getting-to-yes.md)（Roger Fisher, William Ury, Bruce Patton）：谈判时别死守"我要多少"，要弄清双方"为什么想要"，一起想出更多方案，用公平的外部标准来定；你的底气来自谈不成时的最好退路（BATNA）。
+- [做那些不可规模化的事](../../library/notes/07-sales-negotiation/graham-do-things-that-dont-scale.md)（Paul Graham）：创业公司不会自己火起来。一开始要亲手一个一个地拉用户，并且对他们好到夸张，这些事没法规模化，但正是它们让项目转起来。
+- [创始人的企业销售课](../../library/notes/07-sales-negotiation/koomen-enterprise-sales-for-founders.md)（Pete Koomen（Y Combinator Group Partner，Optimizely 联合创始人兼 CTO））：找到产品市场契合之前，销售只能创始人自己做。销售不是忽悠，而是先问清客户的问题、预算和谁拍板，再讲一个贴合他的方案，敢报高价，并负责到客户真正用起来。
+- [销售巨人](../../library/notes/07-sales-negotiation/rackham-spin-selling.md)（Neil Rackham）：卖贵的东西，靠的不是开场白和逼单，而是会提问：先了解现状，再问难处，接着问难处带来的后果，最后让客户自己说出解决它有什么价值（SPIN）。
+- [掌控谈话](../../library/notes/07-sales-negotiation/voss-never-split-the-difference.md)（Chris Voss, Tahl Raz）：谈判主要是处理情绪和获取信息，不是讲道理比输赢。先让对方觉得被理解，听到他说"就是这样"，再用"怎么""什么"开头的问题，让对方自己去想办法解决你的难题。
 
 ## 练习题
 

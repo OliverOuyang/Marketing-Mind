@@ -92,9 +92,10 @@ Austin Kleon《秀出你的工作》的核心：
 ## 案例速读
 
 - **Ali Abdaal**：医学生时期在 YouTube 分享学习方法，定位极窄（"医学生的高效学习"），证据就是自己的成绩和视频本身。后来扩展到生产力领域。
-- **Pieter Levels**：在 Twitter 上公开"一年做 12 个产品"，过程、收入、失败全公开。公开本身就是渠道，Nomad List 和 Remote OK 都借此起步。
+- **Pieter Levels**：2014 年在博客和 Twitter 上公开"12 个月做 12 个产品"，过程、收入、失败全公开。公开本身就是渠道，Nomad List 和 Remote OK 都借此起步。
 - **Julia Evans**：把自己学编程过程中的笔记画成小漫画（Wizard Zines），"教别人"让她成为技术圈知名的讲解者。
-- **求职场景**：一个学生在求职前 3 个月每周发一篇"拆解一家目标公司的增长打法"，面试时面试官说"我看过你写我们的那篇"。
+- **求职场景**：一个学生在求职前 3 个月每周发一篇"拆解一家目标公司的增长打法"，面试时面试官说"我看过你写我们的那篇"（示例）。
+- **仓库里的人物画像**：[BaiFu](../../cases/profiles/baifu.md)、[Sac](../../cases/profiles/sac.md)：两个独立创作者怎么用公开作品和复盘攒下个人品牌。
 
 ## 推荐阅读
 
@@ -102,6 +103,16 @@ Austin Kleon《秀出你的工作》的核心：
 - Reid Hoffman《至关重要的关系》（The Startup of You）：把自己当创业公司经营。
 - Eric Jorgenson《纳瓦尔宝典》（The Almanack of Naval Ravikant）：读"财富"部分关于杠杆和"产品化自己"。
 - Paul Jarvis《一人企业》（Company of One）：选读，关于小而美的个人事业。
+
+### 资料库笔记
+
+每篇开头有"30 秒读懂"和可信度说明，出题和点评以笔记为准。全部资料见 [library/INDEX.md](../../library/INDEX.md)。
+
+- [至关重要的关系（另译：自创业时代）](../../library/notes/06-personal-brand/hoffman-startup-of-you.md)（Reid Hoffman, Ben Casnocha）：把自己的职业当成一家创业公司来经营：永远在迭代，手上有 A、B、Z 三套计划，把人脉当作信息和机会的来源，并敢于承担算得清的风险。
+- [一千个铁杆粉丝](../../library/notes/06-personal-brand/kelly-1000-true-fans.md)（Kevin Kelly）：创作者不需要百万粉丝，大约 1,000 个"你出什么就买什么"的铁杆粉丝，每人每年给你约 100 美元，而且钱直接付给你，就够养活自己。
+- [秀出你的工作](../../library/notes/06-personal-brand/kleon-show-your-work.md)（Austin Kleon）：不要只在做完时才发布，要每天分享一点过程，教别人你学会的东西，标明你的灵感来源。这样在你还不是专家的时候，别人就开始认识你了。
+- [纳瓦尔宝典（财富篇）＋《如何致富（不靠运气）》推文串](../../library/notes/06-personal-brand/naval-almanack-how-to-get-rich.md)（Eric Jorgenson（编）；Naval Ravikant（原话））：不靠运气变富的办法：找到别人学不来的本事，用自己的名字承担结果，借助代码和内容这类复制成本为零的工具放大它，并且拥有一份股权，而不是只出租时间。
+- [公开学习（附：捡起他们放下的东西）](../../library/notes/06-personal-brand/swyx-learn-in-public.md)（swyx (Shawn Wang)）：别只是默默地学。把学习过程写出来、讲出来，写给三个月前的自己看，让懂行的人来纠正你、带你，机会会慢慢找上门。
 
 ## 练习题
 

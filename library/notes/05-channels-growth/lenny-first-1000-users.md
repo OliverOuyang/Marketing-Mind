@@ -9,6 +9,9 @@ priority: 必读
 access: 原文已下载（私有）
 source_url: https://www.lennysnewsletter.com/p/how-the-biggest-consumer-apps-got
 local_file: library-raw/lenny-first-1000-users.md
+source_level: 一手
+verified: 已读原文
+updated: 2026-10-20
 ---
 
 # How the biggest consumer apps got their first 1,000 users（前 1,000 个用户）
@@ -17,9 +20,12 @@ local_file: library-raw/lenny-first-1000-users.md
 >
 > 文章开头有一个链接指向作者的更新版（"Updated version of this post here"），本笔记依据的是最早的版本。
 
-## 一句话
+## 30 秒读懂
 
-头部消费应用拿到前 1,000 个用户的方法，可以归纳成 **7 种策略**。关键发现是：**大多数公司只靠一种策略，没有一家用了超过三种**。前提是你先**把目标用户定义得足够窄**。
+- **一句话**：大公司拿到前 1,000 个用户，基本都只靠一种办法，没有谁同时用了三种以上。先想清楚你的用户到底是谁、在哪，再挑一种办法做透。
+- **举个例子**：Facebook 上线当晚，只是把网址发到哈佛 Kirkland 宿舍约 300 人的邮件列表，24 小时内就有 1,200 到 1,500 人注册（§3）。DoorDash 第一版只是一个放 PDF 菜单的网页，加上在斯坦福贴的传单，用来测试有没有人真的要外卖（§1）。
+- **什么时候用**：产品刚做出来、一个用户都没有，不知道第一批人从哪里来时。
+- **可信度**：一手。Lenny's Newsletter 免费原文已读（私有保存），内容是各公司创始人或早期员工的原话汇编；属于事后回忆，有幸存者偏差。
 
 ## 核心论点
 

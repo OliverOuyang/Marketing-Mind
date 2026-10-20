@@ -9,6 +9,9 @@ priority: 推荐
 access: 仅笔记（版权书）
 source_url: https://storybrand.com/
 local_file: library-raw/storybrand-7-part-framework-workbook.pdf
+source_level: 一手（官方节选/摘要）
+verified: 部分原文
+updated: 2026-10-20
 ---
 
 # Building a StoryBrand（StoryBrand 七要素）
@@ -17,13 +20,16 @@ local_file: library-raw/storybrand-7-part-framework-workbook.pdf
 >
 > 书里另外两个工具，one-liner 和 Grunt Test，在工作簿里没有完整展开，只按书的内容概述，不写页码。
 
-## 一句话
+## 30 秒读懂
 
-**顾客是英雄，你是向导。** 顾客不关心你的故事，只关心自己的故事。品牌信息要把顾客放进一个清晰的 7 步故事里：一个**想要**某样东西的角色，遇到一个**问题**，碰见一位**向导**，向导给了他一个**计划**，并**召唤他行动**，帮他**避免失败**，最终**成功**。"If you confuse, you lose!"（工作簿 p.7）
+- **一句话**：顾客才是故事的主角，你只是帮他的向导。介绍产品时别讲自己多厉害，而是讲清楚：他想要什么、卡在哪、你怎么帮他、下一步做什么、不做会怎样、做了会变成什么样。说不清楚，就卖不出去（"If you confuse, you lose!"）。
+- **举个例子**：工作簿里的示范网站 Circuit e-bikes，首屏写"Life is Too Short to Sit in Traffic"，下面是三步计划"Get fitted / Choose a bike / Lead the pack"，"FIND A DEALER"按钮反复出现（工作簿 p.69，虚构示范页）。
+- **什么时候用**：写首页、落地页、自我介绍或项目介绍的第一屏时。
+- **可信度**：一手（官方节选/摘要）。书为版权书，未读原书；依据 StoryBrand 官方免费发放的课程工作簿（原文已读），one-liner 与 Grunt Test 按书概述，细节以原书为准。
 
 ## 核心论点
 
-1. **大脑只做两件事：Survive & Thrive，以及 Conserve Calories**（工作簿 p.7）。处理信息要消耗热量，所以与"活下去、过得更好"无关的信息会被自动忽略。普通人每天接触超过 3,000 条商业信息（工作簿 p.8）。所以清晰比聪明更重要。
+1. **大脑只做两件事：Survive & Thrive，以及 Conserve Calories**（工作簿 p.7）。处理信息要消耗热量，所以与"活下去、过得更好"无关的信息会被自动忽略。工作簿称普通人每天接触超过 3,000 条商业信息（工作簿 p.8；工作簿未给出数据来源，待核实）。所以清晰比聪明更重要。
 2. **Principle 1：顾客才是英雄**（工作簿 p.10、p.30–33）。故事从英雄"想要"某样东西开始，所以品牌要先说出顾客想要什么，并且只说**一件**。更深一层是 **aspirational identity**："All human beings desire to transform."（工作簿 p.31）
 3. **Principle 2：问题分三层，再加一个反派**（工作簿 p.34–38）。
    - **External**：外在的具体麻烦。

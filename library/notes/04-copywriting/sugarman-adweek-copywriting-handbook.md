@@ -2,22 +2,28 @@
 title: "The Adweek Copywriting Handbook: The Ultimate Guide to Writing Powerful Advertising and Marketing Copy from One of America's Top Copywriters"
 title_zh: 文案训练手册
 author: Joseph Sugarman
-year: 2007（前身为 1998 年的 Advertising Secrets of the Written Word）
+year: 2006（Wiley 官网标注 2006 年 12 月出版；前身为 1998 年的 Advertising Secrets of the Written Word）
 type: book
 modules: ["04"]
 priority: 推荐
 access: 仅笔记（版权书）
-source_url: https://books.google.com/books/about/The_Adweek_Copywriting_Handbook.html?id=xiLHDwAAQBAJ
+source_url: https://www.wiley.com/en-us/The+Adweek+Copywriting+Handbook%3A+The+Ultimate+Guide+to+Writing+Powerful+Advertising+and+Marketing+Copy+from+One+of+America%27s+Top+Copywriters-p-9780470051245
 local_file: ""
+source_level: 二手
+verified: 未读原文
+updated: 2026-10-20
 ---
 
 # The Adweek Copywriting Handbook（文案训练手册）
 
 > 来源说明：这本书受版权保护，本笔记只整理框架。Sugarman 在书中用编号的 "axiom" 来组织观点，**本笔记只引用最有名、各版本都一致的第 1、2 条**，其余观点不编号，也不写页码。"心理触发器"（psychological triggers）在不同版本里数量不同，大约 20 多到 30 个，这里只挑最常用的几个。module 04 的 README 推荐阅读前 8 章左右。
 
-## 一句话
+## 30 秒读懂
 
-一篇广告里的每一个元素，标题、图片、副标题，都只为了一件事：**让读者读第一句**。第一句只为了让人读第二句，以此类推。好的文案是一条"**滑梯**"（slippery slide），读者一旦开始读，就停不下来，一直滑到下单。
+- **一句话**：广告里的每个元素，标题、图片、副标题，都只为一件事：让人读第一句。第一句只为让人读第二句。好文案像一条滑梯，读者一开始读就停不下来，一直滑到下单。
+- **举个例子**：一个学生给教授发合作邮件，第一句写"我读了您上周的论文，手上有一组数据也许能帮上忙"，比"您好，我是某某大学大三学生"更能让人读第二句（示例）。
+- **什么时候用**：写销售页、长邮件、README 这类需要读者一路读下去的文字时。
+- **可信度**：二手。版权书，未读原书；只引用各版本一致的第 1、2 条公理，其余按书的公开介绍整理，细节以原书为准。
 
 ## 核心论点
 
@@ -94,6 +100,7 @@ local_file: ""
 
 ## 获取方式
 
-- 出版社：Wiley，2007。https://books.google.com/books/about/The_Adweek_Copywriting_Handbook.html?id=xiLHDwAAQBAJ （Wiley 出版，Google Books 书目页）
+- 出版社：Wiley，2006 年 12 月。官方书页：https://www.wiley.com/en-us/The+Adweek+Copywriting+Handbook%3A+The+Ultimate+Guide+to+Writing+Powerful+Advertising+and+Marketing+Copy+from+One+of+America%27s+Top+Copywriters-p-9780470051245
+- Google Books 书目页：https://books.google.com/books/about/The_Adweek_Copywriting_Handbook.html?id=xiLHDwAAQBAJ
 - 借阅：Open Library 检索 https://openlibrary.org/search?q=adweek+copywriting+handbook+sugarman ；也可以在 UC Berkeley Library 检索。
 - 没有找到合法的免费全文。网上流传的 PDF 都是盗版，没有使用。

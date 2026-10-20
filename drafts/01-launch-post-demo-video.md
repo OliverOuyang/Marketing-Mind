@@ -1,6 +1,6 @@
 # 发布帖：demo-video 技能（中英各一版）
 
-- 用的方法：baifu-lens 模式一 · 发布帖 7 个零件 + 按平台改说法
+- 用的方法：baifu-lens（现 marketing-mind 写作模式） · 发布帖 7 个零件 + 按平台改说法
 - 推的对象：Oliver-Skills 里的 [demo-video](https://github.com/OliverOuyang/Oliver-Skills/blob/main/skills/demo-video/SKILL.md)
 - 读者：接外包、投标、做开源的独立开发者；他们的顾虑是"录演示视频太费时间，录出来还糊"
 - 目标：Star 仓库，或者直接装上试一次

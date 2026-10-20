@@ -9,15 +9,21 @@ priority: 推荐
 access: 全文（仓库）
 source_url: https://seths.blog/wp-content/uploads/2008/12/2000Ideavirus.pdf
 local_file: texts/godin-unleashing-the-ideavirus.pdf
+source_level: 一手
+verified: 已读原文
+updated: 2026-10-20
 ---
 
 # Unleashing the Ideavirus（Seth Godin, 2000）
 
 > 协议依据：PDF 第 1 页作者声明 "You have permission to post this, email this, print this and pass it along for free to anyone you like, as long as you make no changes or edits to its contents or digital format."——所以仓库保存的是作者官网（seths.blog）发布的**原始 PDF，未作任何修改**（197 页，约 0.9MB）。笔记页码 = PDF 页眉/页脚页码（与 PDF 页序一致）。注意：作者保留成书出版权，"The right to bind this and sell it as a book… is strictly reserved"。
 
-## 一句话
+## 30 秒读懂
 
-打扰式营销越来越贵、越来越无效；未来属于那些**让消费者彼此推销**的人——做一个"值得传播"的想法，选一个你能**统治**的小群体（hive），让最可信的人（sneezers）容易地传出去，然后用 permission 把注意力留住。
+- **一句话**：硬塞给人的广告越来越没用。更好的办法是做一个值得别人转述的东西，先在一个小圈子里做到人人都知道，再让圈子里最可信的人替你传出去。
+- **举个例子**：Hotmail 在每封邮件底部自动加一行"免费注册 Hotmail"，用户每发一封信就替它做一次推广，"viral marketing"这个词就是从这里来的（p.55–56）。
+- **什么时候用**：设计口碑、推荐机制，或想让开源项目、作品被主动转发时。
+- **可信度**：一手。作者官网免费发布、允许原样转载的 PDF，全文已读并存入仓库。书写于 2000 年，不少案例公司已消失，原理比案例更可靠。
 
 ## 核心论点
 

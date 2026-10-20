@@ -9,6 +9,9 @@ priority: 必读
 access: 原文已下载（私有）
 source_url: https://www.slideshare.net/slideshow/startup-metrics-for-pirates-long-version/89026
 local_file: library-raw/mcclure-startup-metrics-for-pirates.md
+source_level: 一手
+verified: 已读原文
+updated: 2026-10-20
 ---
 
 # Startup Metrics for Pirates: AARRR!（海盗指标）
@@ -19,9 +22,12 @@ local_file: library-raw/mcclure-startup-metrics-for-pirates.md
 >
 > 作者在博文里写道："Please feel free to steal this talk & distribute to others"。
 
-## 一句话
+## 30 秒读懂
 
-把用户的生命周期拆成 5 步：**A**cquisition → **A**ctivation → **R**etention → **R**eferral → **R**evenue（读起来像海盗的 "AARRR!"）。为每一步定义**可测量的转化事件**，找出转化最差的那一步，集中优化它。不要盯着总访问量这种虚荣指标。
+- **一句话**：把用户从"第一次来"到"付钱"拆成 5 步：获取、激活、留存、推荐、收入（AARRR）。每一步都定义一个能数出来的动作，找到流失最多的那一步，先修它。
+- **举个例子**：McClure 的示例表把"注册账号""30 天内回访 3 次以上""推荐 1 个以上用户"都写成可计数的事件，并标上转化率（幻灯片 4，作者注明数字是虚构的）。放到小游戏上，可以数：多少人打开商店页、多少人下载、多少人玩满 10 分钟、多少人第二天还回来（示例）。
+- **什么时候用**：项目已经有一点流量，想知道用户到底卡在哪一步时。
+- **可信度**：一手。作者本人演讲幻灯片和原博文（Wayback 快照）已读（私有保存）；示例表里的数字是作者自己说明的虚构数，不能当行业基准。
 
 ## 核心论点
 

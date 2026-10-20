@@ -1,0 +1,1776 @@
+{
+  "name": "Marketing Mind",
+  "repo": "https://github.com/OliverOuyang/Marketing-Mind",
+  "skill": {
+    "name": "marketing-mind",
+    "path": "skills/marketing-mind/SKILL.md",
+    "modes": {
+      "mentor": "skills/marketing-mind/references/mentor.md",
+      "teardown": "skills/marketing-mind/references/teardown.md",
+      "writing": "skills/marketing-mind/references/writing.md",
+      "operations": "skills/marketing-mind/references/operations.md",
+      "video": "skills/marketing-mind/references/video.md",
+      "opportunity": "skills/marketing-mind/references/opportunity.md"
+    },
+    "lenses": [
+      "skills/marketing-mind/lenses/baifu.md",
+      "skills/marketing-mind/lenses/sac.md"
+    ]
+  },
+  "modules": [
+    {
+      "id": "00",
+      "title": "营销底层",
+      "question": "营销到底是什么？为什么人会买？",
+      "path": "modules/00-foundations/README.md"
+    },
+    {
+      "id": "01",
+      "title": "用户洞察",
+      "question": "谁会买？他们真正要完成什么任务？",
+      "path": "modules/01-customer-insight/README.md"
+    },
+    {
+      "id": "02",
+      "title": "定位与差异化",
+      "question": "在对方脑子里，我占哪个位置？",
+      "path": "modules/02-positioning/README.md"
+    },
+    {
+      "id": "03",
+      "title": "价值主张与报价",
+      "question": "怎么让\"选我\"成为显而易见的好交易？",
+      "path": "modules/03-value-proposition/README.md"
+    },
+    {
+      "id": "04",
+      "title": "文案与说服",
+      "question": "怎么写/说，才能让人看完就想行动？",
+      "path": "modules/04-copywriting/README.md"
+    },
+    {
+      "id": "05",
+      "title": "渠道与增长",
+      "question": "去哪里找人？怎么低成本放大？",
+      "path": "modules/05-channels-growth/README.md"
+    },
+    {
+      "id": "06",
+      "title": "个人品牌",
+      "question": "怎么把\"我\"变成一个值得被记住的品牌？",
+      "path": "modules/06-personal-brand/README.md"
+    },
+    {
+      "id": "07",
+      "title": "销售与谈判",
+      "question": "怎么推进成交，怎么谈到好结果？",
+      "path": "modules/07-sales-negotiation/README.md"
+    },
+    {
+      "id": "08",
+      "title": "机会捕捉",
+      "question": "怎么发现机会、判断机会、快速下注？",
+      "path": "modules/08-opportunity/README.md"
+    },
+    {
+      "id": "09",
+      "title": "综合实战",
+      "question": "拿一个真实的东西，从 0 卖出去",
+      "path": "modules/09-capstone/README.md"
+    }
+  ],
+  "cases": [
+    {
+      "date": "2026-10-20",
+      "title": "BaiFu × Auday：一个人，两种声音",
+      "path": "cases/2026-10-20-baifu-auday.md",
+      "type": "产品发布 + 个人走红",
+      "key_move": "产品官号先替自己说话，创始人再用长文\"认领\""
+    },
+    {
+      "date": "2026-10-20",
+      "title": "Sac《小王子：星辰之旅》：一个人、16 天的独立游戏发布周",
+      "path": "cases/2026-10-20-sac-little-prince.md",
+      "type": "独立游戏发布 + 个人走红",
+      "key_move": "预告定时首发，工具方和朋友首小时接力转发，第三天把做法当第二个产品发出去"
+    }
+  ],
+  "notes": [
+    {
+      "path": "library/notes/00-foundations/godin-this-is-marketing.md",
+      "title": "This Is Marketing: You Can't Be Seen Until You Learn to See",
+      "title_zh": "这才是营销",
+      "author": "Seth Godin",
+      "year": "2018（Portfolio/Penguin）",
+      "type": "book",
+      "modules": [
+        "00",
+        "02",
+        "06"
+      ],
+      "keywords": [
+        "营销底层",
+        "定位与差异化",
+        "个人品牌"
+      ],
+      "priority": "必读",
+      "access": "仅笔记（版权书）",
+      "source_level": "一手（官方节选/摘要）",
+      "verified": "部分原文",
+      "source_url": "https://seths.blog/tim",
+      "summary": "营销不是把声音喊得更大，而是先选定一小群人，帮他们实现他们想要的改变。先想清楚\"给谁、为了什么\"，再去做东西、讲故事。"
+    },
+    {
+      "path": "library/notes/00-foundations/godin-unleashing-the-ideavirus.md",
+      "title": "Unleashing the Ideavirus",
+      "title_zh": "释放创意病毒",
+      "author": "Seth Godin（Foreword by Malcolm Gladwell）",
+      "year": "2000",
+      "type": "ebook",
+      "modules": [
+        "00",
+        "05",
+        "06"
+      ],
+      "keywords": [
+        "营销底层",
+        "渠道与增长",
+        "个人品牌"
+      ],
+      "priority": "推荐",
+      "access": "全文（仓库）",
+      "source_level": "一手",
+      "verified": "已读原文",
+      "source_url": "https://seths.blog/wp-content/uploads/2008/12/2000Ideavirus.pdf",
+      "summary": "硬塞给人的广告越来越没用。更好的办法是做一个值得别人转述的东西，先在一个小圈子里做到人人都知道，再让圈子里最可信的人替你传出去。"
+    },
+    {
+      "path": "library/notes/00-foundations/kotler-marketing-management-stp-4p-4c.md",
+      "title": "Marketing Management（STP / 4P 相关章节）+ Lauterborn (1990) \"New Marketing Litany: Four P's Passé; C-Words Take Over\"（4C 出处）",
+      "title_zh": "营销管理（STP 与 4P）+ 4C 原始出处",
+      "author": "Philip Kotler & Kevin Lane Keller（后续版本加入 Alexander Chernev）；Robert F. Lauterborn",
+      "year": "1967 初版；16 版 2021 / Lauterborn 1990（Advertising Age, 1990-10-01）",
+      "type": "book",
+      "modules": [
+        "00",
+        "02"
+      ],
+      "keywords": [
+        "营销底层",
+        "定位与差异化"
+      ],
+      "priority": "推荐",
+      "access": "仅笔记（版权书）",
+      "source_level": "二手",
+      "verified": "未读原文",
+      "source_url": "https://www.pearson.com/en-us/subject-catalog/p/marketing-management/P200000006325",
+      "summary": "做营销的基本顺序是：先把市场分成几类人，挑一类做目标，想好要在他们心里留下什么印象，再用产品、价格、渠道、推广这四个手段把印象做实。4C 提醒你再从买方的角度检查一遍。"
+    },
+    {
+      "path": "library/notes/00-foundations/levitt-marketing-myopia.md",
+      "title": "Marketing Myopia",
+      "title_zh": "营销短视症",
+      "author": "Theodore Levitt",
+      "year": "1960（HBR 1960 年 7–8 月刊；2004 年 HBR \"Best of HBR\" 重印版 R0407L）",
+      "type": "article",
+      "modules": [
+        "00",
+        "01",
+        "08"
+      ],
+      "keywords": [
+        "营销底层",
+        "用户洞察",
+        "机会捕捉"
+      ],
+      "priority": "必读",
+      "access": "原文已下载（私有）",
+      "source_level": "一手",
+      "verified": "已读原文",
+      "source_url": "https://hbr.org/2004/07/marketing-myopia",
+      "summary": "生意停止增长，通常不是因为市场饱和，而是因为你把自己定义成\"我做的东西\"，而不是\"我满足的需要\"。铁路公司以为自己在做铁路，没意识到自己做的是运输，于是眼看着汽车和飞机把客人拿走。"
+    },
+    {
+      "path": "library/notes/00-foundations/sharp-how-brands-grow.md",
+      "title": "How Brands Grow: What Marketers Don't Know（附：Ehrenberg-Bass 研究所核心观点与 Sharp 2025 访谈）",
+      "title_zh": "品牌如何增长",
+      "author": "Byron Sharp（Ehrenberg-Bass Institute for Marketing Science）",
+      "year": "2010（Oxford University Press）；Part 2 与 Jenni Romaniuk 合著 2016；辅助访谈 2025",
+      "type": "book",
+      "modules": [
+        "00",
+        "02",
+        "05"
+      ],
+      "keywords": [
+        "营销底层",
+        "定位与差异化",
+        "渠道与增长"
+      ],
+      "priority": "推荐",
+      "access": "仅笔记（版权书）",
+      "source_level": "一手（官方节选/摘要）",
+      "verified": "部分原文",
+      "source_url": "https://marketingscience.info",
+      "summary": "在成熟品类里，品牌变大主要靠让更多人来买，尤其是偶尔才买一次的人，而不是让老顾客更忠诚。关键是让人想买时想得起你、买得到你，并且一眼认出是你。"
+    },
+    {
+      "path": "library/notes/00-foundations/smith-1956-segmentation-vs-differentiation.md",
+      "title": "Product Differentiation and Market Segmentation as Alternative Marketing Strategies",
+      "title_zh": "产品差异化与市场细分：两种可替代的营销战略",
+      "author": "Wendell R. Smith",
+      "year": "1956（Journal of Marketing, Vol. 21, No. 1, July 1956, pp. 3–8）",
+      "type": "paper",
+      "modules": [
+        "00",
+        "02"
+      ],
+      "keywords": [
+        "营销底层",
+        "定位与差异化"
+      ],
+      "priority": "选读",
+      "access": "仅笔记（付费墙）",
+      "source_level": "二手",
+      "verified": "未读原文",
+      "source_url": "https://journals.sagepub.com/doi/10.1177/002224295602100102",
+      "summary": "面对需求各不相同的顾客，企业有两条路：一是靠广告让大家相信\"我的不一样\"（差异化），二是承认顾客本来就分成好几类，为每一类调整产品（细分）。这篇 1956 年的短文让\"市场细分\"成了营销学的正式概念。"
+    },
+    {
+      "path": "library/notes/01-customer-insight/christensen-know-your-customers-jobs-to-be-done.md",
+      "title": "Know Your Customers' \"Jobs to Be Done\"（附：Competing Against Luck 核心框架）",
+      "title_zh": "了解客户的\"待办任务\"（附《与运气竞争》）",
+      "author": "Clayton M. Christensen, Taddy Hall, Karen Dillon, David S. Duncan",
+      "year": "2016（HBR 2016 年 9 月刊，Reprint R1609D；同年 10 月出版书 Competing Against Luck）",
+      "type": "article",
+      "modules": [
+        "01",
+        "00",
+        "03"
+      ],
+      "keywords": [
+        "用户洞察",
+        "营销底层",
+        "价值主张与报价"
+      ],
+      "priority": "必读",
+      "access": "原文已下载（私有）",
+      "source_level": "一手",
+      "verified": "已读原文",
+      "source_url": "https://hbr.org/2016/09/know-your-customers-jobs-to-be-done",
+      "summary": "人买东西，不是因为他\"属于某类人\"，而是因为在某个具体处境下想让自己的生活往前走一步。这件想完成的事叫 job。年龄、收入这类画像只和购买相关，并不是购买的原因。"
+    },
+    {
+      "path": "library/notes/01-customer-insight/christensen-marketing-malpractice-milkshake.md",
+      "title": "Marketing Malpractice: The Cause and the Cure（奶昔案例）+ HBS Working Knowledge: Clay Christensen's Milkshake Marketing",
+      "title_zh": "营销失职：病因与解药（奶昔案例）",
+      "author": "Clayton M. Christensen, Scott Cook, Taddy Hall（HBR 2005）；Carmen Nobel（HBS Working Knowledge 2011 报道）",
+      "year": "2005 / 2011",
+      "type": "article",
+      "modules": [
+        "01",
+        "00",
+        "02"
+      ],
+      "keywords": [
+        "用户洞察",
+        "营销底层",
+        "定位与差异化"
+      ],
+      "priority": "必读",
+      "access": "原文已下载（私有）",
+      "source_level": "一手（官方节选/摘要）",
+      "verified": "部分原文",
+      "source_url": "https://www.library.hbs.edu/working-knowledge/clay-christensens-milkshake-marketing",
+      "summary": "按产品类别或人口特征切市场，找到的只是\"相关\"；真正让人掏钱的，是他想完成的一件事（job）。所以细分市场应该按 job 来切。"
+    },
+    {
+      "path": "library/notes/01-customer-insight/fitzpatrick-the-mom-test.md",
+      "title": "The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you",
+      "title_zh": "妈妈测试",
+      "author": "Rob Fitzpatrick",
+      "year": "2013",
+      "type": "book",
+      "modules": [
+        "01",
+        "07",
+        "08"
+      ],
+      "keywords": [
+        "用户洞察",
+        "销售与谈判",
+        "机会捕捉"
+      ],
+      "priority": "必读",
+      "access": "仅笔记（版权书）",
+      "source_level": "一手（官方节选/摘要）",
+      "verified": "部分原文",
+      "source_url": "https://www.momtestbook.com",
+      "summary": "别问别人\"我的点子好不好\"，要问他过去实际做过什么。只要你不提自己的点子，连最爱你的妈妈也没法用客套话骗你。"
+    },
+    {
+      "path": "library/notes/01-customer-insight/klement-when-coffee-and-kale-compete.md",
+      "title": "When Coffee and Kale Compete: Become Great at Making Products People Will Buy（附：Klement 的 JTBD 免费文章与 Job Story）",
+      "title_zh": "当咖啡和羽衣甘蓝竞争",
+      "author": "Alan Klement",
+      "year": "2016（第 1 版）/ 2018（第 2 版）；辅助文章 2013、2016、2018",
+      "type": "ebook",
+      "modules": [
+        "01",
+        "03",
+        "02"
+      ],
+      "keywords": [
+        "用户洞察",
+        "价值主张与报价",
+        "定位与差异化"
+      ],
+      "priority": "推荐",
+      "access": "仅笔记（书未获取，作者文章已下载至私有文件夹）",
+      "source_level": "一手（官方节选/摘要）",
+      "verified": "部分原文",
+      "source_url": "http://www.whencoffeeandkalecompete.com",
+      "summary": "Job 不是一项任务，而是一个人想把现在的处境变得更好、却被某些限制卡住的过程。人买的是\"更好的自己\"，所以功能毫不相干的东西也会互相竞争，比如咖啡和羽衣甘蓝。"
+    },
+    {
+      "path": "library/notes/01-customer-insight/moesta-demand-side-sales-101.md",
+      "title": "Demand-Side Sales 101: Stop Selling and Help Your Customers Make Progress（附：Four Forces of Progress / Switch Interview 官方免费资料）",
+      "title_zh": "需求侧销售 101",
+      "author": "Bob Moesta（with Greg Engle）；辅助原文 Bob Moesta & Chris Spiek",
+      "year": "2020（书）；辅助：Business of Software 2013 演讲、JTBD Radio 访谈、jobstobedone.org",
+      "type": "book",
+      "modules": [
+        "01",
+        "07",
+        "03"
+      ],
+      "keywords": [
+        "用户洞察",
+        "销售与谈判",
+        "价值主张与报价"
+      ],
+      "priority": "推荐",
+      "access": "仅笔记（版权书）",
+      "source_level": "一手（官方节选/摘要）",
+      "verified": "部分原文",
+      "source_url": "https://jobstobedone.org/the-four-forces",
+      "summary": "人不是被推销动的。当\"对现状的不满 + 新方案的吸引\"大过\"对新东西的担心 + 旧习惯\"时，人会自己换过去。所以推广的重点常常不是多加卖点，而是帮对方消除担心、降低换的麻烦。"
+    },
+    {
+      "path": "library/notes/01-customer-insight/ulwick-jobs-to-be-done-theory-to-practice.md",
+      "title": "Jobs to be Done: Theory to Practice（附：Outcome-Driven Innovation 官方公开要点）",
+      "title_zh": "待办任务：从理论到实践（结果导向创新 ODI）",
+      "author": "Anthony W. Ulwick（Strategyn）",
+      "year": "2016（IDEA BITE PRESS）",
+      "type": "book",
+      "modules": [
+        "01",
+        "03",
+        "02"
+      ],
+      "keywords": [
+        "用户洞察",
+        "价值主张与报价",
+        "定位与差异化"
+      ],
+      "priority": "选读",
+      "access": "仅笔记（版权书）",
+      "source_level": "一手（官方节选/摘要）",
+      "verified": "部分原文",
+      "source_url": "https://jobs-to-be-done-book.com",
+      "summary": "把 job 看成一串稳定的步骤，再请用户给每一步的\"成功标准\"打两个分：有多重要、现在有多满意。重要但不满意的地方，就是最值得改进的机会。"
+    },
+    {
+      "path": "library/notes/01-customer-insight/vohra-superhuman-product-market-fit-engine.md",
+      "title": "How Superhuman Built an Engine to Find Product/Market Fit",
+      "title_zh": "Superhuman 如何搭建一台\"寻找 PMF 的引擎\"（Sean Ellis 40% 测试）",
+      "author": "Rahul Vohra（First Round Review）",
+      "year": "2018（2018-11-12）",
+      "type": "article",
+      "modules": [
+        "01",
+        "05",
+        "03"
+      ],
+      "keywords": [
+        "用户洞察",
+        "渠道与增长",
+        "价值主张与报价"
+      ],
+      "priority": "推荐",
+      "access": "原文已下载（私有）",
+      "source_level": "一手",
+      "verified": "已读原文",
+      "source_url": "https://www.firstround.com/review/how-superhuman-built-an-engine-to-find-product-market-fit",
+      "summary": "判断产品有没有找到市场，可以直接问用户：\"如果以后再也不能用了，你会有多失望？\"选\"非常失望\"的人达到 40%，通常说明产品站住了；没到就围绕最爱它的那群人继续改。"
+    },
+    {
+      "path": "library/notes/02-positioning/dunford-hordes-giant-ghost.md",
+      "title": "April Dunford explains how to master positioning for growth (The Hordes, the Giant, and the Ghost)",
+      "title_zh": "定位对抗三类对手：群敌、巨头、幽灵",
+      "author": "April Dunford（Product Marketing Alliance 演讲整理稿）",
+      "year": "2021",
+      "type": "talk",
+      "modules": [
+        "02",
+        "07"
+      ],
+      "keywords": [
+        "定位与差异化",
+        "销售与谈判"
+      ],
+      "priority": "推荐",
+      "access": "原文已下载（私有）",
+      "source_level": "一手",
+      "verified": "已读原文",
+      "source_url": "https://www.productmarketingalliance.com/mastering-positioning-for-growth",
+      "summary": "客户买东西要过三关：先从一大堆差不多的选项里筛出短名单（群敌），再在短名单里和大牌比（巨头），最后还要战胜\"算了，先不换\"（幽灵）。每一关要用不同的打法。"
+    },
+    {
+      "path": "library/notes/02-positioning/dunford-obviously-awesome.md",
+      "title": "Obviously Awesome: How to Nail Product Positioning so Customers Get It, Buy It, Love It",
+      "title_zh": "《显而易见的好》（暂无通行中译名）",
+      "author": "April Dunford",
+      "year": "2019",
+      "type": "book",
+      "modules": [
+        "02",
+        "03",
+        "06"
+      ],
+      "keywords": [
+        "定位与差异化",
+        "价值主张与报价",
+        "个人品牌"
+      ],
+      "priority": "必读",
+      "access": "仅笔记（版权书）",
+      "source_level": "一手（官方节选/摘要）",
+      "verified": "部分原文",
+      "source_url": "https://www.aprildunford.com/obviously-awesome",
+      "summary": "定位就是给产品搭一个\"语境\"：选对和谁比、属于哪一类，让目标客户一看就自动得出正确的判断。找定位的起点是问一句：\"如果没有我，客户会用什么？\""
+    },
+    {
+      "path": "library/notes/02-positioning/kim-mauborgne-blue-ocean-strategy.md",
+      "title": "Blue Ocean Strategy (HBR, October 2004) + 官方工具：Strategy Canvas / Four Actions / ERRC Grid",
+      "title_zh": "蓝海战略",
+      "author": "W. Chan Kim & Renée Mauborgne",
+      "year": "2004（HBR 文章）；2005（同名书）",
+      "type": "article",
+      "modules": [
+        "02",
+        "08"
+      ],
+      "keywords": [
+        "定位与差异化",
+        "机会捕捉"
+      ],
+      "priority": "推荐",
+      "access": "仅笔记（付费墙）",
+      "source_level": "一手（官方节选/摘要）",
+      "verified": "部分原文",
+      "source_url": "https://hbr.org/2004/10/blue-ocean-strategy",
+      "summary": "与其和对手在同样几项指标上拼刺刀，不如重新组合顾客看重的东西：砍掉一些、减少一些、加强一些、新创一些，同时压成本、提价值，开出一块暂时没人竞争的市场。"
+    },
+    {
+      "path": "library/notes/02-positioning/moore-crossing-the-chasm.md",
+      "title": "Crossing the Chasm: Marketing and Selling Disruptive Products to Mainstream Customers",
+      "title_zh": "《跨越鸿沟》",
+      "author": "Geoffrey A. Moore",
+      "year": "1991（第 3 版 2014）",
+      "type": "book",
+      "modules": [
+        "02",
+        "05",
+        "08"
+      ],
+      "keywords": [
+        "定位与差异化",
+        "渠道与增长",
+        "机会捕捉"
+      ],
+      "priority": "推荐",
+      "access": "仅笔记（版权书）",
+      "source_level": "二手",
+      "verified": "未读原文",
+      "source_url": "https://geoffreyamoore.com/book/crossing-the-chasm/",
+      "summary": "新产品从少数尝鲜者走向普通大众，中间有一道\"鸿沟\"，因为两群人买东西的理由完全不同。跨过去的办法是集中全部力量，先拿下一个很小但很具体的细分市场，在那里做到第一、提供完整方案，再一个个拿下相邻市场。"
+    },
+    {
+      "path": "library/notes/02-positioning/porter-what-is-strategy.md",
+      "title": "What Is Strategy?",
+      "title_zh": "什么是战略？",
+      "author": "Michael E. Porter",
+      "year": "1996（Harvard Business Review, Nov–Dec 1996）",
+      "type": "article",
+      "modules": [
+        "02",
+        "08"
+      ],
+      "keywords": [
+        "定位与差异化",
+        "机会捕捉"
+      ],
+      "priority": "推荐",
+      "access": "原文已下载（私有）",
+      "source_level": "一手",
+      "verified": "已读原文",
+      "source_url": "https://hbr.org/1996/11/what-is-strategy",
+      "summary": "比别人做得更好不等于有战略。战略是选择和对手不一样的做事方式，明确放弃一些东西，并让各项活动互相配合，使对手没法整套照抄。"
+    },
+    {
+      "path": "library/notes/02-positioning/ries-trout-positioning-battle-for-your-mind.md",
+      "title": "Positioning: The Battle for Your Mind",
+      "title_zh": "《定位：争夺用户心智的战争》",
+      "author": "Al Ries & Jack Trout",
+      "year": "1981（20 周年版 2001）",
+      "type": "book",
+      "modules": [
+        "02",
+        "06"
+      ],
+      "keywords": [
+        "定位与差异化",
+        "个人品牌"
+      ],
+      "priority": "推荐",
+      "access": "仅笔记（版权书）",
+      "source_level": "二手",
+      "verified": "未读原文",
+      "source_url": "https://ries.com/books/",
+      "summary": "定位不是你对产品做了什么，而是你在潜在客户脑子里占了什么位置。信息太多的时代，只有极度简化的信息、加上心智里还空着的位置，才能打进去。这一点对个人求职同样成立。"
+    },
+    {
+      "path": "library/notes/02-positioning/ries-trout-positioning-era-cometh.md",
+      "title": "The Positioning Era Cometh (Advertising Age, 1972, three-part series)",
+      "title_zh": "定位时代来临",
+      "author": "Al Ries & Jack Trout",
+      "year": "1972",
+      "type": "article",
+      "modules": [
+        "02",
+        "04"
+      ],
+      "keywords": [
+        "定位与差异化",
+        "文案与说服"
+      ],
+      "priority": "必读",
+      "access": "原文已下载（私有）",
+      "source_level": "一手",
+      "verified": "已读原文",
+      "source_url": "https://ries.com/about/positioning-articles",
+      "summary": "在信息爆炸的社会里，广告靠的不是创意，而是在客户心里占一个和对手相对照的位置。还有一条铁律：不要正面硬拼已经站稳的领导者。"
+    },
+    {
+      "path": "library/notes/02-positioning/thiel-cs183-last-mover-advantage.md",
+      "title": "Peter Thiel's CS183: Startup — Class 4 Notes Essay: The Last Mover Advantage",
+      "title_zh": "彼得·蒂尔 CS183 第 4 课笔记：最后行动者优势（竞争是失败者的游戏）",
+      "author": "Blake Masters（记录 Peter Thiel 2012 年 4 月 11 日斯坦福课堂）",
+      "year": "2012",
+      "type": "essay",
+      "modules": [
+        "02",
+        "08",
+        "06"
+      ],
+      "keywords": [
+        "定位与差异化",
+        "机会捕捉",
+        "个人品牌"
+      ],
+      "priority": "推荐",
+      "access": "全文（仓库）",
+      "source_level": "二手",
+      "verified": "已读原文",
+      "source_url": "https://blakemasters.tumblr.com/post/21169325300/peter-thiels-cs183-startup-class-4-notes-essay",
+      "summary": "完全竞争的市场里谁都赚不到钱。更好的做法是先找一个小到你能独占的市场，做到最好，再向相邻市场扩张；同时要诚实估计自己的市场有多大、有多独特。"
+    },
+    {
+      "path": "library/notes/03-value-proposition/ariely-loewenstein-prelec-2003-coherent-arbitrariness.md",
+      "title": "\"Coherent Arbitrariness\": Stable Demand Curves without Stable Preferences",
+      "title_zh": "\"连贯的任意性\"：没有稳定偏好的稳定需求曲线",
+      "author": "Dan Ariely, George Loewenstein, Drazen Prelec",
+      "year": "2003（Quarterly Journal of Economics, 118(1): 73–105）",
+      "type": "paper",
+      "modules": [
+        "03",
+        "07"
+      ],
+      "keywords": [
+        "价值主张与报价",
+        "销售与谈判"
+      ],
+      "priority": "推荐",
+      "access": "原文已下载（私有）",
+      "source_level": "一手",
+      "verified": "已读原文",
+      "source_url": "https://doi.org/10.1162/00335530360535153",
+      "summary": "一样东西\"值多少钱\"，人心里其实没数。第一个看到的数字，哪怕是社保号尾数这种毫不相关的数，就能把报价整体拉高或压低；但起点定下之后，\"多一点就多付一点\"的判断又很有条理。所以市场价格看着井然有序，起点却可能是随便来的。"
+    },
+    {
+      "path": "library/notes/03-value-proposition/ariely-predictably-irrational-ch1-2.md",
+      "title": "Predictably Irrational: The Hidden Forces That Shape Our Decisions — Ch.1 The Truth about Relativity & Ch.2 The Fallacy of Supply and Demand",
+      "title_zh": "《怪诞行为学》第 1 章（相对性）与第 2 章（锚定）",
+      "author": "Dan Ariely",
+      "year": "2008（修订扩充版 2009）",
+      "type": "book",
+      "modules": [
+        "03",
+        "04"
+      ],
+      "keywords": [
+        "价值主张与报价",
+        "文案与说服"
+      ],
+      "priority": "必读",
+      "access": "仅笔记（版权书）",
+      "source_level": "二手",
+      "verified": "未读原文",
+      "source_url": "https://danariely.com/books/",
+      "summary": "人很少判断一样东西\"本身值多少\"，而是拿身边容易比较的东西来比（相对性）；第一次看到的价格会像刚孵出的小鹅认妈妈一样，变成以后的参照（锚定）。卖家可以用它设计价格档位，买家要知道自己正在被这样设计。"
+    },
+    {
+      "path": "library/notes/03-value-proposition/ariely-wallsten-1995-asymmetric-dominance.md",
+      "title": "Seeking Subjective Dominance in Multidimensional Space: An Explanation of the Asymmetric Dominance Effect",
+      "title_zh": "在多维空间中寻求主观占优：对\"非对称占优效应\"（诱饵效应）的解释",
+      "author": "Dan Ariely & Thomas S. Wallsten",
+      "year": "1995（Organizational Behavior and Human Decision Processes, 63(3)）",
+      "type": "paper",
+      "modules": [
+        "03",
+        "04"
+      ],
+      "keywords": [
+        "价值主张与报价",
+        "文案与说服"
+      ],
+      "priority": "选读",
+      "access": "原文已下载（私有）",
+      "source_level": "一手",
+      "verified": "已读原文",
+      "source_url": "https://doi.org/10.1006/obhd.1995.1075",
+      "summary": "两个选项各有优劣、难以取舍时，再加一个\"跟 A 很像但明显差一点\"的选项，人就会更多地选 A。这个陪衬选项几乎没人要，但它给了人一个轻松选 A 的理由，这就是诱饵效应。"
+    },
+    {
+      "path": "library/notes/03-value-proposition/hormozi-100m-offers.md",
+      "title": "$100M Offers: How to Make Offers So Good People Feel Stupid Saying No",
+      "title_zh": "《1 亿美元报价》",
+      "author": "Alex Hormozi",
+      "year": "2021",
+      "type": "book",
+      "modules": [
+        "03",
+        "07",
+        "04"
+      ],
+      "keywords": [
+        "价值主张与报价",
+        "销售与谈判",
+        "文案与说服"
+      ],
+      "priority": "必读",
+      "access": "仅笔记（版权书）",
+      "source_level": "二手",
+      "verified": "未读原文",
+      "source_url": "https://www.acquisition.com/books",
+      "summary": "别靠降价卖东西，而是把报价做得\"好到对方拒绝都觉得自己傻\"：先找一群真正着急、付得起钱的人，再让结果更诱人、更可信、来得更快、更省事，最后加上真实的稀缺、赠品和保证。这样就能收高价。"
+    },
+    {
+      "path": "library/notes/03-value-proposition/osterwalder-value-proposition-design.md",
+      "title": "Value Proposition Design: How to Create Products and Services Customers Want",
+      "title_zh": "《价值主张设计》",
+      "author": "Alexander Osterwalder, Yves Pigneur, Gregory Bernarda, Alan Smith（Strategyzer）",
+      "year": "2014",
+      "type": "book",
+      "modules": [
+        "03",
+        "01"
+      ],
+      "keywords": [
+        "价值主张与报价",
+        "用户洞察"
+      ],
+      "priority": "必读",
+      "access": "仅笔记（版权书）",
+      "source_level": "一手（官方节选/摘要）",
+      "verified": "部分原文",
+      "source_url": "https://www.strategyzer.com/library/value-proposition-design-2",
+      "summary": "先老老实实观察客户要完成什么事、被什么困扰、想得到什么，再设计你的产品怎么帮他，最后拿证据检验两边是否真的对得上。不要从\"我的产品有什么功能\"出发，去想象客户需要它。"
+    },
+    {
+      "path": "library/notes/03-value-proposition/patio11-dont-call-yourself-a-programmer.md",
+      "title": "Don't Call Yourself A Programmer, And Other Career Advice",
+      "title_zh": "别再自称\"程序员\"——以及其他职业建议",
+      "author": "Patrick McKenzie (patio11)",
+      "year": "2011",
+      "type": "essay",
+      "modules": [
+        "03",
+        "06",
+        "07"
+      ],
+      "keywords": [
+        "价值主张与报价",
+        "个人品牌",
+        "销售与谈判"
+      ],
+      "priority": "必读",
+      "access": "原文已下载（私有）",
+      "source_level": "一手",
+      "verified": "已读原文",
+      "source_url": "https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/",
+      "summary": "公司雇工程师不是为了写代码，而是为了多赚钱或少花钱。所以别用\"我会 Java\"介绍自己，要说你帮别人带来了什么商业结果；沟通、销售、谈判也是工程师的核心技能。"
+    },
+    {
+      "path": "library/notes/03-value-proposition/patio11-growing-consulting-business.md",
+      "title": "Growing One's Consulting Business (How I went from $100-an-hour programming to $X0,000-a-week consulting)",
+      "title_zh": "如何从时薪 100 美元的程序员，变成周薪数万美元的顾问",
+      "author": "Patrick McKenzie (patio11)",
+      "year": "约 2012（Kalzumeus 邮件通讯存档）",
+      "type": "essay",
+      "modules": [
+        "03",
+        "07",
+        "06"
+      ],
+      "keywords": [
+        "价值主张与报价",
+        "销售与谈判",
+        "个人品牌"
+      ],
+      "priority": "必读",
+      "access": "原文已下载（私有）",
+      "source_level": "一手",
+      "verified": "已读原文",
+      "source_url": "https://training.kalzumeus.com/newsletters/archive/consulting_1",
+      "summary": "客户为结果付钱，不为你花的时间付钱。所以按周报价而不是按小时，预算不够就砍范围、不砍价，每做出一个可量化的成果就把它变成案例，再往上涨价。"
+    },
+    {
+      "path": "library/notes/03-value-proposition/ramanujam-monetizing-innovation.md",
+      "title": "Monetizing Innovation: How Smart Companies Design the Product around the Price",
+      "title_zh": "《创新变现：先定价，再做产品》",
+      "author": "Madhavan Ramanujam & Georg Tacke（Simon-Kucher & Partners）",
+      "year": "2016",
+      "type": "book",
+      "modules": [
+        "03",
+        "07"
+      ],
+      "keywords": [
+        "价值主张与报价",
+        "销售与谈判"
+      ],
+      "priority": "选读",
+      "access": "仅笔记（版权书）",
+      "source_level": "一手（官方节选/摘要）",
+      "verified": "部分原文",
+      "source_url": "https://www.simon-kucher.com/en/insights/monetizing-innovation",
+      "summary": "别等产品做完再想卖多少钱。在动手做之前就去问客户\"愿意付多少\"，让付费意愿决定做什么功能、卖给谁、怎么收费。"
+    },
+    {
+      "path": "library/notes/03-value-proposition/tversky-kahneman-1974-judgment-under-uncertainty.md",
+      "title": "Judgment under Uncertainty: Heuristics and Biases",
+      "title_zh": "不确定性下的判断：启发式与偏差",
+      "author": "Amos Tversky & Daniel Kahneman",
+      "year": "1974（Science, Vol. 185, No. 4157, pp. 1124–1131）",
+      "type": "paper",
+      "modules": [
+        "03",
+        "07",
+        "01"
+      ],
+      "keywords": [
+        "价值主张与报价",
+        "销售与谈判",
+        "用户洞察"
+      ],
+      "priority": "推荐",
+      "access": "原文已下载（私有）",
+      "source_level": "一手",
+      "verified": "已读原文",
+      "source_url": "https://www.science.org/doi/10.1126/science.185.4157.1124",
+      "summary": "人在拿不准的时候，会用几条省力的\"捷径\"做判断：看它像不像、看自己容易想起什么、从一个现成的数字出发再调整。捷径大多好用，但会犯有规律的错。对营销最有用的一条是：第一个出现的数字会把后面的估计拖向它，而且人总是调整得不够。"
+    },
+    {
+      "path": "library/notes/04-copywriting/cialdini-influence.md",
+      "title": "Influence: The Psychology of Persuasion（含 Cialdini & Goldstein 2002《The Science and Practice of Persuasion》）",
+      "title_zh": "影响力",
+      "author": "Robert B. Cialdini（论文合著：Noah J. Goldstein）",
+      "year": "1984（初版）；2021（New and Expanded 版，新增第七原则 Unity）；配套论文 2002",
+      "type": "book",
+      "modules": [
+        "04",
+        "07",
+        "06"
+      ],
+      "keywords": [
+        "文案与说服",
+        "销售与谈判",
+        "个人品牌"
+      ],
+      "priority": "必读",
+      "access": "仅笔记（版权书）",
+      "source_level": "一手（官方节选/摘要）",
+      "verified": "部分原文",
+      "source_url": "https://www.influenceatwork.com/",
+      "summary": "人在信息太多时会靠\"捷径\"决定要不要答应别人。Cialdini 总结了几条最常见的捷径：互惠、承诺与一致、社会认同、喜好、权威、稀缺，新版又加了\"自己人\"（Unity）。用好它们能让人更愿意说\"是\"，但前提是你指向的东西是真的，造假会反噬。"
+    },
+    {
+      "path": "library/notes/04-copywriting/graham-how-to-write-usefully.md",
+      "title": "How to Write Usefully（附 Writing, Briefly）",
+      "title_zh": "如何写出有用的文字（附：简短谈写作）",
+      "author": "Paul Graham",
+      "year": "2020（How to Write Usefully，2020-02）；2005（Writing, Briefly，2005-03）",
+      "type": "essay",
+      "modules": [
+        "04",
+        "06"
+      ],
+      "keywords": [
+        "文案与说服",
+        "个人品牌"
+      ],
+      "priority": "必读",
+      "access": "原文已下载（私有）",
+      "source_level": "一手",
+      "verified": "已读原文",
+      "source_url": "https://paulgraham.com/useful.html",
+      "summary": "有用的文字要同时做到四点：说得对、话题重要、读者没想到、说得足够有力。四项是相乘关系，任何一项为零，整篇就没用。\"有力\"指的是在不说错的前提下把话说到最强，不是夸张。"
+    },
+    {
+      "path": "library/notes/04-copywriting/graham-write-simply.md",
+      "title": "Write Simply",
+      "title_zh": "写得简单",
+      "author": "Paul Graham",
+      "year": "2021（2021-03）",
+      "type": "essay",
+      "modules": [
+        "04",
+        "06"
+      ],
+      "keywords": [
+        "文案与说服",
+        "个人品牌"
+      ],
+      "priority": "推荐",
+      "access": "仅笔记（免费原文在线，未存私有副本）",
+      "source_level": "一手",
+      "verified": "已读原文",
+      "source_url": "https://paulgraham.com/simply.html",
+      "summary": "用平常的词、简单的句子写，读者省下读字的力气，才有力气想你的观点，也更可能读到最后。"
+    },
+    {
+      "path": "library/notes/04-copywriting/halbert-boron-letters.md",
+      "title": "The Boron Letters",
+      "title_zh": "博伦书信",
+      "author": "Gary C. Halbert（附 Bond Halbert 评注）",
+      "year": "1984（写作，1984 年 6–7 月）；© 2005 官方网页版",
+      "type": "ebook",
+      "modules": [
+        "04",
+        "05",
+        "08"
+      ],
+      "keywords": [
+        "文案与说服",
+        "渠道与增长",
+        "机会捕捉"
+      ],
+      "priority": "推荐",
+      "access": "原文已下载（私有）",
+      "source_level": "一手",
+      "verified": "已读原文",
+      "source_url": "https://www.thegaryhalbertletter.com/Boron/BoronLetterCh1.htm",
+      "summary": "先找一群\"饿着肚子\"、已经在为某类东西掏钱的人，再决定卖什么。判断人们想要什么，看他们怎么花钱，别听他们怎么说。然后写一封像私人信件一样的文案，把具体、可信的提议和清楚的下一步，交给最可能买的人。"
+    },
+    {
+      "path": "library/notes/04-copywriting/heath-made-to-stick.md",
+      "title": "Made to Stick: Why Some Ideas Survive and Others Die",
+      "title_zh": "让创意更有黏性",
+      "author": "Chip Heath & Dan Heath",
+      "year": "2007",
+      "type": "book",
+      "modules": [
+        "04",
+        "06",
+        "05"
+      ],
+      "keywords": [
+        "文案与说服",
+        "个人品牌",
+        "渠道与增长"
+      ],
+      "priority": "必读",
+      "access": "仅笔记（版权书）",
+      "source_level": "二手",
+      "verified": "未读原文",
+      "source_url": "https://heathbrothers.com/books/made-to-stick/",
+      "summary": "一个想法能不能被人记住，有 6 个可以学的特征：简单、出人意料、具体、可信、有情感、有故事（合称 SUCCESs）。最大的障碍是\"知识的诅咒\"：你懂了之后就想不起不懂是什么感觉，于是说得太抽象、太跳跃。"
+    },
+    {
+      "path": "library/notes/04-copywriting/hopkins-scientific-advertising.md",
+      "title": "Scientific Advertising",
+      "title_zh": "科学的广告",
+      "author": "Claude C. Hopkins",
+      "year": "1923",
+      "type": "book",
+      "modules": [
+        "04",
+        "05"
+      ],
+      "keywords": [
+        "文案与说服",
+        "渠道与增长"
+      ],
+      "priority": "必读",
+      "access": "全文（仓库）",
+      "source_level": "一手",
+      "verified": "已读原文",
+      "source_url": "https://archive.org/details/scientific-advertising",
+      "summary": "广告就是印在纸上的推销员，唯一的目的是卖出东西。用能追踪回应的办法（优惠券、给每个广告编号）去测试每个标题和卖点，让数据而不是个人品味来做决定。"
+    },
+    {
+      "path": "library/notes/04-copywriting/miller-building-a-storybrand.md",
+      "title": "Building a StoryBrand: Clarify Your Message So Customers Will Listen（含官方 StoryBrand 7-Part Framework 课程工作簿）",
+      "title_zh": "你的顾客需要一个好故事",
+      "author": "Donald Miller",
+      "year": "2017（书）；2018（官方课程工作簿）",
+      "type": "book",
+      "modules": [
+        "04",
+        "06",
+        "02"
+      ],
+      "keywords": [
+        "文案与说服",
+        "个人品牌",
+        "定位与差异化"
+      ],
+      "priority": "推荐",
+      "access": "仅笔记（版权书）",
+      "source_level": "一手（官方节选/摘要）",
+      "verified": "部分原文",
+      "source_url": "https://storybrand.com/",
+      "summary": "顾客才是故事的主角，你只是帮他的向导。介绍产品时别讲自己多厉害，而是讲清楚：他想要什么、卡在哪、你怎么帮他、下一步做什么、不做会怎样、做了会变成什么样。说不清楚，就卖不出去（\"If you confuse, you lose!\"）。"
+    },
+    {
+      "path": "library/notes/04-copywriting/ogilvy-on-advertising.md",
+      "title": "Ogilvy on Advertising（附 1982 年内部备忘录 How to Write）",
+      "title_zh": "奥格威谈广告",
+      "author": "David Ogilvy",
+      "year": "1983（初版）；1985（Vintage 平装版）；备忘录 1982-09-07",
+      "type": "book",
+      "modules": [
+        "04",
+        "05"
+      ],
+      "keywords": [
+        "文案与说服",
+        "渠道与增长"
+      ],
+      "priority": "推荐",
+      "access": "仅笔记（版权书）",
+      "source_level": "二手",
+      "verified": "部分原文",
+      "source_url": "https://www.penguinrandomhouse.com/books/124131/ogilvy-on-advertising-by-david-ogilvy",
+      "summary": "广告的任务是卖东西，不是展示才华；先把产品研究透，从里面找到一个具体的事实做标题，因为大多数人只看标题。"
+    },
+    {
+      "path": "library/notes/04-copywriting/schwartz-breakthrough-advertising.md",
+      "title": "Breakthrough Advertising",
+      "title_zh": "突破性广告",
+      "author": "Eugene M. Schwartz",
+      "year": "1966（初版）；现行官方重印版由 Brian Kurtz 出版",
+      "type": "book",
+      "modules": [
+        "04",
+        "02"
+      ],
+      "keywords": [
+        "文案与说服",
+        "定位与差异化"
+      ],
+      "priority": "推荐",
+      "access": "仅笔记（版权书）",
+      "source_level": "二手",
+      "verified": "未读原文",
+      "source_url": "https://breakthroughadvertisingbook.com/",
+      "summary": "文案不能凭空制造欲望，只能把人们心里已有的欲望引到你的产品上。标题怎么写取决于两件事：读者现在对你和他自己的问题知道多少，以及这个市场已经被同类承诺轰炸过多少次。"
+    },
+    {
+      "path": "library/notes/04-copywriting/shapiro-writing-well-handbook.md",
+      "title": "Writing Well（Julian Shapiro 在线写作手册，6 页 + Cheatsheet）",
+      "title_zh": "好好写作手册",
+      "author": "Julian Shapiro",
+      "year": "在线手册，持续更新（首发年份待核实；本笔记读的是 2026-10 的在线版本）",
+      "type": "ebook",
+      "modules": [
+        "04",
+        "06",
+        "05"
+      ],
+      "keywords": [
+        "文案与说服",
+        "个人品牌",
+        "渠道与增长"
+      ],
+      "priority": "必读",
+      "access": "仅笔记（免费原文在线，未存私有副本）",
+      "source_level": "一手",
+      "verified": "已读原文",
+      "source_url": "https://www.julian.com/guide/write/intro",
+      "summary": "好文章 = 新鲜的观点 × 让人有共鸣的表达；先用一个\"只讲一半的故事\"做开头把人勾住，再一遍遍改到清楚、简短、有悬念。"
+    },
+    {
+      "path": "library/notes/04-copywriting/sugarman-adweek-copywriting-handbook.md",
+      "title": "The Adweek Copywriting Handbook: The Ultimate Guide to Writing Powerful Advertising and Marketing Copy from One of America's Top Copywriters",
+      "title_zh": "文案训练手册",
+      "author": "Joseph Sugarman",
+      "year": "2006（Wiley 官网标注 2006 年 12 月出版；前身为 1998 年的 Advertising Secrets of the Written Word）",
+      "type": "book",
+      "modules": [
+        "04"
+      ],
+      "keywords": [
+        "文案与说服"
+      ],
+      "priority": "推荐",
+      "access": "仅笔记（版权书）",
+      "source_level": "二手",
+      "verified": "未读原文",
+      "source_url": "https://www.wiley.com/en-us/The+Adweek+Copywriting+Handbook%3A+The+Ultimate+Guide+to+Writing+Powerful+Advertising+and+Marketing+Copy+from+One+of+America%27s+Top+Copywriters-p-9780470051245",
+      "summary": "广告里的每个元素，标题、图片、副标题，都只为一件事：让人读第一句。第一句只为让人读第二句。好文案像一条滑梯，读者一开始读就停不下来，一直滑到下单。"
+    },
+    {
+      "path": "library/notes/04-copywriting/zinsser-on-writing-well.md",
+      "title": "On Writing Well: The Classic Guide to Writing Nonfiction（附 Writing English as a Second Language, 2009）",
+      "title_zh": "写作法宝：非虚构写作指南（中文译名待核实）",
+      "author": "William Zinsser",
+      "year": "1976（初版）；2006（30 周年纪念版，第 7 版）；附文 2009",
+      "type": "book",
+      "modules": [
+        "04",
+        "06"
+      ],
+      "keywords": [
+        "文案与说服",
+        "个人品牌"
+      ],
+      "priority": "必读",
+      "access": "仅笔记（版权书）",
+      "source_level": "一手（官方节选/摘要）",
+      "verified": "部分原文",
+      "source_url": "https://www.harpercollins.com/products/on-writing-well-30th-anniversary-edition-william-zinsser",
+      "summary": "好文章就是把每个句子里多余的词删掉，用短词、主动动词、具体的人和事，像跟朋友说话一样写。"
+    },
+    {
+      "path": "library/notes/05-channels-growth/andrew-chen-law-of-shitty-clickthroughs.md",
+      "title": "The Law of Shitty Clickthroughs（附 The Cold Start Problem 书目笔记）",
+      "title_zh": "点击率必烂定律（附：冷启动）",
+      "author": "Andrew Chen",
+      "year": "2012（博文）；2021（The Cold Start Problem，Harper Business）",
+      "type": "essay",
+      "modules": [
+        "05",
+        "08"
+      ],
+      "keywords": [
+        "渠道与增长",
+        "机会捕捉"
+      ],
+      "priority": "推荐",
+      "access": "原文已下载（私有）",
+      "source_level": "一手",
+      "verified": "已读原文",
+      "source_url": "https://andrewchen.com/the-law-of-shitty-clickthroughs/",
+      "summary": "任何营销渠道，刚开始效果都好，用的人一多就会变差，这是规律不是你做错了。与其把旧渠道再优化一点，不如早点找到别人还没用的新渠道。"
+    },
+    {
+      "path": "library/notes/05-channels-growth/balfour-four-fits.md",
+      "title": "The Four Fits（Why Product Market Fit Isn't Enough / Product Channel Fit / Channel Model Fit + 2025 AI-era update）",
+      "title_zh": "四个匹配：产品-市场、产品-渠道、渠道-模式、模式-市场",
+      "author": "Brian Balfour",
+      "year": "2017（原系列）；2025（AI 时代更新版）",
+      "type": "essay",
+      "modules": [
+        "05",
+        "03",
+        "02"
+      ],
+      "keywords": [
+        "渠道与增长",
+        "价值主张与报价",
+        "定位与差异化"
+      ],
+      "priority": "必读",
+      "access": "原文已下载（私有）",
+      "source_level": "一手",
+      "verified": "已读原文",
+      "source_url": "https://brianbalfour.com/essays/product-market-fit-isnt-enough",
+      "summary": "光有好产品不够。产品、用户、渠道、收费方式这四样要互相配得上，增长才会顺；而且是产品去适配渠道，渠道不会迁就你的产品。"
+    },
+    {
+      "path": "library/notes/05-channels-growth/berger-contagious.md",
+      "title": "Contagious: Why Things Catch On",
+      "title_zh": "疯传：让你的产品、思想、行为像病毒一样入侵",
+      "author": "Jonah Berger",
+      "year": "2013",
+      "type": "book",
+      "modules": [
+        "05",
+        "04",
+        "06"
+      ],
+      "keywords": [
+        "渠道与增长",
+        "文案与说服",
+        "个人品牌"
+      ],
+      "priority": "必读",
+      "access": "仅笔记（版权书）",
+      "source_level": "二手",
+      "verified": "未读原文",
+      "source_url": "https://jonahberger.com/books/contagious/",
+      "summary": "东西能火不是靠运气，而是因为它让人想聊、想转。Berger 总结了 6 个原因，合称 STEPPS：让分享者有面子、常被想起、能激起情绪、看得见、有用、有故事。"
+    },
+    {
+      "path": "library/notes/05-channels-growth/berger-milkman-2012-what-makes-online-content-viral.md",
+      "title": "What Makes Online Content Viral?",
+      "title_zh": "什么让网络内容疯传？",
+      "author": "Jonah Berger & Katherine L. Milkman",
+      "year": "2012（Journal of Marketing Research, 49(2)；作者主页 PDF 为 2011 年 Ahead of Print 版）",
+      "type": "paper",
+      "modules": [
+        "05",
+        "04"
+      ],
+      "keywords": [
+        "渠道与增长",
+        "文案与说服"
+      ],
+      "priority": "必读",
+      "access": "原文已下载（私有）",
+      "source_level": "一手",
+      "verified": "已读原文",
+      "source_url": "https://jonahberger.com/wp-content/uploads/2013/02/ViralityB.pdf",
+      "summary": "内容会不会被转发，关键不在正面还是负面，而在于它能不能让人\"激动起来\"。敬畏、愤怒、焦虑让人更想转，悲伤让人更不想转。"
+    },
+    {
+      "path": "library/notes/05-channels-growth/ellis-brown-hacking-growth.md",
+      "title": "Hacking Growth: How Today's Fastest-Growing Companies Drive Breakout Success",
+      "title_zh": "增长黑客",
+      "author": "Sean Ellis & Morgan Brown",
+      "year": "2017",
+      "type": "book",
+      "modules": [
+        "05",
+        "01"
+      ],
+      "keywords": [
+        "渠道与增长",
+        "用户洞察"
+      ],
+      "priority": "推荐",
+      "access": "仅笔记（版权书）",
+      "source_level": "二手",
+      "verified": "未读原文",
+      "source_url": "https://www.penguinrandomhouse.com/books/545936/hacking-growth-by-sean-ellis-founder-of-growthhackerscom-and-morgan-brown/",
+      "summary": "增长靠的不是某个绝招，而是一套固定流程：先确认产品是用户离不开的，再选一个最能代表用户价值的核心指标，然后每周不断做小实验。"
+    },
+    {
+      "path": "library/notes/05-channels-growth/lenny-first-1000-users.md",
+      "title": "How the biggest consumer apps got their first 1,000 users",
+      "title_zh": "头部消费级应用如何拿到前 1,000 个用户",
+      "author": "Lenny Rachitsky",
+      "year": "2020（免费月刊版；作者后来另发了更新版）",
+      "type": "article",
+      "modules": [
+        "05",
+        "06",
+        "08"
+      ],
+      "keywords": [
+        "渠道与增长",
+        "个人品牌",
+        "机会捕捉"
+      ],
+      "priority": "必读",
+      "access": "原文已下载（私有）",
+      "source_level": "一手",
+      "verified": "已读原文",
+      "source_url": "https://www.lennysnewsletter.com/p/how-the-biggest-consumer-apps-got",
+      "summary": "大公司拿到前 1,000 个用户，基本都只靠一种办法，没有谁同时用了三种以上。先想清楚你的用户到底是谁、在哪，再挑一种办法做透。"
+    },
+    {
+      "path": "library/notes/05-channels-growth/mcclure-startup-metrics-for-pirates.md",
+      "title": "Startup Metrics for Pirates: AARRR!",
+      "title_zh": "海盗指标：AARRR",
+      "author": "Dave McClure",
+      "year": "2007（Seattle Ignite 演讲 2007-08；博文 2007-09-06）",
+      "type": "talk",
+      "modules": [
+        "05",
+        "03"
+      ],
+      "keywords": [
+        "渠道与增长",
+        "价值主张与报价"
+      ],
+      "priority": "必读",
+      "access": "原文已下载（私有）",
+      "source_level": "一手",
+      "verified": "已读原文",
+      "source_url": "https://www.slideshare.net/slideshow/startup-metrics-for-pirates-long-version/89026",
+      "summary": "把用户从\"第一次来\"到\"付钱\"拆成 5 步：获取、激活、留存、推荐、收入（AARRR）。每一步都定义一个能数出来的动作，找到流失最多的那一步，先修它。"
+    },
+    {
+      "path": "library/notes/05-channels-growth/thompson-hit-makers.md",
+      "title": "Hit Makers: The Science of Popularity in an Age of Distraction（附 The Atlantic 文章 The Four-Letter Code to Selling Just About Anything）",
+      "title_zh": "爆款制造者（中文译名待核实）",
+      "author": "Derek Thompson",
+      "year": "2017（精装/电子版 2017-02-07；平装版 2018，副标题改为 How to Succeed in an Age of Distraction）",
+      "type": "book",
+      "modules": [
+        "05",
+        "04",
+        "06"
+      ],
+      "keywords": [
+        "渠道与增长",
+        "文案与说服",
+        "个人品牌"
+      ],
+      "priority": "推荐",
+      "access": "仅笔记（版权书）",
+      "source_level": "一手（官方节选/摘要）",
+      "verified": "部分原文",
+      "source_url": "https://www.penguinrandomhouse.com/books/531571/hit-makers-by-derek-thompson",
+      "summary": "东西火起来，很少是因为\"好东西自己会传开\"，而是因为它被足够多的人反复看到，而且它\"新得刚刚好\"，让人觉得又新鲜又眼熟。"
+    },
+    {
+      "path": "library/notes/05-channels-growth/weinberg-mares-traction.md",
+      "title": "Traction: How Any Startup Can Achieve Explosive Customer Growth",
+      "title_zh": "牵引力：获客渠道的系统化测试",
+      "author": "Gabriel Weinberg & Justin Mares",
+      "year": "2014（自出版，副标题 A Startup Guide to Getting Customers）；2015（Portfolio / Penguin 修订版）",
+      "type": "book",
+      "modules": [
+        "05"
+      ],
+      "keywords": [
+        "渠道与增长"
+      ],
+      "priority": "必读",
+      "access": "仅笔记（版权书）",
+      "source_level": "二手",
+      "verified": "未读原文",
+      "source_url": "https://www.penguinrandomhouse.com/books/319121/traction-by-gabriel-weinberg-and-justin-mares/",
+      "summary": "大多数创业者只顾做产品，只试自己熟悉的一两个渠道。正确做法是把 19 种获客渠道都过一遍，挑 3 个便宜地测试，找到那个真正有效的，再全力投入。"
+    },
+    {
+      "path": "library/notes/06-personal-brand/hoffman-startup-of-you.md",
+      "title": "The Start-up of You: Adapt to the Future, Invest in Yourself, and Transform Your Career",
+      "title_zh": "至关重要的关系（另译：自创业时代）",
+      "author": "Reid Hoffman, Ben Casnocha",
+      "year": "2012（2022 修订版）",
+      "type": "book",
+      "modules": [
+        "06",
+        "08",
+        "07"
+      ],
+      "keywords": [
+        "个人品牌",
+        "机会捕捉",
+        "销售与谈判"
+      ],
+      "priority": "推荐",
+      "access": "仅笔记（版权书）",
+      "source_level": "二手",
+      "verified": "未读原文",
+      "source_url": "https://www.startupofyou.com",
+      "summary": "把自己的职业当成一家创业公司来经营：永远在迭代，手上有 A、B、Z 三套计划，把人脉当作信息和机会的来源，并敢于承担算得清的风险。"
+    },
+    {
+      "path": "library/notes/06-personal-brand/kelly-1000-true-fans.md",
+      "title": "1,000 True Fans",
+      "title_zh": "一千个铁杆粉丝",
+      "author": "Kevin Kelly",
+      "year": "2008（原文，2008-03-04）；2016 修订版（收入 Tim Ferriss《Tools of Titans》）",
+      "type": "essay",
+      "modules": [
+        "06",
+        "05",
+        "08"
+      ],
+      "keywords": [
+        "个人品牌",
+        "渠道与增长",
+        "机会捕捉"
+      ],
+      "priority": "必读",
+      "access": "原文已下载（私有）",
+      "source_level": "一手",
+      "verified": "已读原文",
+      "source_url": "https://kk.org/thetechnium/1000-true-fans/",
+      "summary": "创作者不需要百万粉丝，大约 1,000 个\"你出什么就买什么\"的铁杆粉丝，每人每年给你约 100 美元，而且钱直接付给你，就够养活自己。"
+    },
+    {
+      "path": "library/notes/06-personal-brand/kleon-show-your-work.md",
+      "title": "Show Your Work! 10 Ways to Share Your Creativity and Get Discovered",
+      "title_zh": "秀出你的工作",
+      "author": "Austin Kleon",
+      "year": "2014",
+      "type": "book",
+      "modules": [
+        "06",
+        "04",
+        "05"
+      ],
+      "keywords": [
+        "个人品牌",
+        "文案与说服",
+        "渠道与增长"
+      ],
+      "priority": "必读",
+      "access": "仅笔记（版权书）",
+      "source_level": "一手（官方节选/摘要）",
+      "verified": "部分原文",
+      "source_url": "https://austinkleon.com/show-your-work",
+      "summary": "不要只在做完时才发布，要每天分享一点过程，教别人你学会的东西，标明你的灵感来源。这样在你还不是专家的时候，别人就开始认识你了。"
+    },
+    {
+      "path": "library/notes/06-personal-brand/naval-almanack-how-to-get-rich.md",
+      "title": "The Almanack of Naval Ravikant（Part I: Wealth）+ How to Get Rich (without getting lucky)",
+      "title_zh": "纳瓦尔宝典（财富篇）＋《如何致富（不靠运气）》推文串",
+      "author": "Eric Jorgenson（编）；Naval Ravikant（原话）",
+      "year": "2019（推文串 2018-05-31；播客合集页 2019-12-28）；2020（书）",
+      "type": "book",
+      "modules": [
+        "06",
+        "08",
+        "07"
+      ],
+      "keywords": [
+        "个人品牌",
+        "机会捕捉",
+        "销售与谈判"
+      ],
+      "priority": "必读",
+      "access": "原文已下载（私有）",
+      "source_level": "一手",
+      "verified": "已读原文",
+      "source_url": "https://www.navalmanack.com/ ；https://nav.al/rich",
+      "summary": "不靠运气变富的办法：找到别人学不来的本事，用自己的名字承担结果，借助代码和内容这类复制成本为零的工具放大它，并且拥有一份股权，而不是只出租时间。"
+    },
+    {
+      "path": "library/notes/06-personal-brand/swyx-learn-in-public.md",
+      "title": "Learn In Public (+ Pick Up What They Put Down)",
+      "title_zh": "公开学习（附：捡起他们放下的东西）",
+      "author": "swyx (Shawn Wang)",
+      "year": "2018（Learn In Public）；2020（Pick Up What They Put Down）",
+      "type": "essay",
+      "modules": [
+        "06",
+        "08"
+      ],
+      "keywords": [
+        "个人品牌",
+        "机会捕捉"
+      ],
+      "priority": "必读",
+      "access": "原文已下载（私有）",
+      "source_level": "一手",
+      "verified": "已读原文",
+      "source_url": "https://www.swyx.io/learn-in-public",
+      "summary": "别只是默默地学。把学习过程写出来、讲出来，写给三个月前的自己看，让懂行的人来纠正你、带你，机会会慢慢找上门。"
+    },
+    {
+      "path": "library/notes/07-sales-negotiation/fisher-ury-getting-to-yes.md",
+      "title": "Getting to Yes: Negotiating Agreement Without Giving In",
+      "title_zh": "谈判力（另译：寸土必争 / 达成协议）",
+      "author": "Roger Fisher, William Ury, Bruce Patton",
+      "year": "1981（第 2 版 1991 加入 Bruce Patton；第 3 版 2011）",
+      "type": "book",
+      "modules": [
+        "07"
+      ],
+      "keywords": [
+        "销售与谈判"
+      ],
+      "priority": "必读",
+      "access": "仅笔记（版权书）",
+      "source_level": "一手（官方节选/摘要）",
+      "verified": "部分原文",
+      "source_url": "https://www.pon.harvard.edu/shop/getting-to-yes-negotiating-agreement-without-giving-in/",
+      "summary": "谈判时别死守\"我要多少\"，要弄清双方\"为什么想要\"，一起想出更多方案，用公平的外部标准来定；你的底气来自谈不成时的最好退路（BATNA）。"
+    },
+    {
+      "path": "library/notes/07-sales-negotiation/graham-do-things-that-dont-scale.md",
+      "title": "Do Things that Don't Scale",
+      "title_zh": "做那些不可规模化的事",
+      "author": "Paul Graham",
+      "year": "2013（2013 年 7 月）",
+      "type": "essay",
+      "modules": [
+        "07",
+        "05",
+        "08"
+      ],
+      "keywords": [
+        "销售与谈判",
+        "渠道与增长",
+        "机会捕捉"
+      ],
+      "priority": "必读",
+      "access": "原文已下载（私有）",
+      "source_level": "一手",
+      "verified": "已读原文",
+      "source_url": "https://paulgraham.com/ds.html",
+      "summary": "创业公司不会自己火起来。一开始要亲手一个一个地拉用户，并且对他们好到夸张，这些事没法规模化，但正是它们让项目转起来。"
+    },
+    {
+      "path": "library/notes/07-sales-negotiation/koomen-enterprise-sales-for-founders.md",
+      "title": "Enterprise Sales for Founders（YC Startup School）",
+      "title_zh": "创始人的企业销售课",
+      "author": "Pete Koomen（Y Combinator Group Partner，Optimizely 联合创始人兼 CTO）",
+      "year": "2024（Startup School 视频，YC 冬季 2024 批次期间录制）",
+      "type": "talk",
+      "modules": [
+        "07",
+        "05",
+        "08"
+      ],
+      "keywords": [
+        "销售与谈判",
+        "渠道与增长",
+        "机会捕捉"
+      ],
+      "priority": "推荐",
+      "access": "原文已下载（私有）",
+      "source_level": "一手",
+      "verified": "已读原文",
+      "source_url": "https://www.ycombinator.com/library/LF-enterprise-sales-for-founders",
+      "summary": "找到产品市场契合之前，销售只能创始人自己做。销售不是忽悠，而是先问清客户的问题、预算和谁拍板，再讲一个贴合他的方案，敢报高价，并负责到客户真正用起来。"
+    },
+    {
+      "path": "library/notes/07-sales-negotiation/rackham-spin-selling.md",
+      "title": "SPIN Selling",
+      "title_zh": "销售巨人",
+      "author": "Neil Rackham",
+      "year": "1988",
+      "type": "book",
+      "modules": [
+        "07",
+        "01",
+        "03"
+      ],
+      "keywords": [
+        "销售与谈判",
+        "用户洞察",
+        "价值主张与报价"
+      ],
+      "priority": "必读",
+      "access": "仅笔记（版权书）",
+      "source_level": "一手（官方节选/摘要）",
+      "verified": "部分原文",
+      "source_url": "https://www.huthwaiteinternational.com/spin-methodology",
+      "summary": "卖贵的东西，靠的不是开场白和逼单，而是会提问：先了解现状，再问难处，接着问难处带来的后果，最后让客户自己说出解决它有什么价值（SPIN）。"
+    },
+    {
+      "path": "library/notes/07-sales-negotiation/voss-never-split-the-difference.md",
+      "title": "Never Split the Difference: Negotiating As If Your Life Depended On It",
+      "title_zh": "掌控谈话",
+      "author": "Chris Voss, Tahl Raz",
+      "year": "2016",
+      "type": "book",
+      "modules": [
+        "07",
+        "06"
+      ],
+      "keywords": [
+        "销售与谈判",
+        "个人品牌"
+      ],
+      "priority": "必读",
+      "access": "仅笔记（版权书）",
+      "source_level": "一手（官方节选/摘要）",
+      "verified": "部分原文",
+      "source_url": "https://www.blackswanltd.com/never-split-the-difference",
+      "summary": "谈判主要是处理情绪和获取信息，不是讲道理比输赢。先让对方觉得被理解，听到他说\"就是这样\"，再用\"怎么\"\"什么\"开头的问题，让对方自己去想办法解决你的难题。"
+    },
+    {
+      "path": "library/notes/08-opportunity/andreessen-only-thing-that-matters.md",
+      "title": "The Pmarca Guide to Startups, Part 4: The only thing that matters",
+      "title_zh": "唯一重要的事（产品—市场契合）",
+      "author": "Marc Andreessen",
+      "year": "2007（2007-06-25，原载 blog.pmarca.com）",
+      "type": "essay",
+      "modules": [
+        "08",
+        "02",
+        "03"
+      ],
+      "keywords": [
+        "机会捕捉",
+        "定位与差异化",
+        "价值主张与报价"
+      ],
+      "priority": "必读",
+      "access": "原文已下载（私有）",
+      "source_level": "一手",
+      "verified": "已读原文",
+      "source_url": "https://pmarchive.com/guide_to_startups_part4.html",
+      "summary": "团队、产品、市场三者里，市场最重要。在一个很多人迫切需要的市场里，粗糙的产品也会被抢着用；在没人要的市场里，再好的团队也会失败。所以早期唯一重要的事是做到产品市场契合（PMF）。"
+    },
+    {
+      "path": "library/notes/08-opportunity/drucker-innovation-and-entrepreneurship.md",
+      "title": "Innovation and Entrepreneurship: Practice and Principles（附：The Discipline of Innovation, HBR 1985/2002）",
+      "title_zh": "创新与企业家精神",
+      "author": "Peter F. Drucker",
+      "year": "1985",
+      "type": "book",
+      "modules": [
+        "08",
+        "00",
+        "02"
+      ],
+      "keywords": [
+        "机会捕捉",
+        "营销底层",
+        "定位与差异化"
+      ],
+      "priority": "必读",
+      "access": "仅笔记（版权书）",
+      "source_level": "二手",
+      "verified": "未读原文",
+      "source_url": "https://www.harpercollins.com/products/innovation-and-entrepreneurship-peter-f-drucker",
+      "summary": "创新不靠灵感，而是一门可以练习的功夫：有意识地留意 7 类变化，把变化当作机会，从小处做起，力求简单。"
+    },
+    {
+      "path": "library/notes/08-opportunity/graham-how-to-get-startup-ideas.md",
+      "title": "How to Get Startup Ideas",
+      "title_zh": "如何获得创业点子",
+      "author": "Paul Graham",
+      "year": "2012（2012 年 11 月）",
+      "type": "essay",
+      "modules": [
+        "08",
+        "01",
+        "06"
+      ],
+      "keywords": [
+        "机会捕捉",
+        "用户洞察",
+        "个人品牌"
+      ],
+      "priority": "必读",
+      "access": "原文已下载（私有）",
+      "source_level": "一手",
+      "verified": "已读原文",
+      "source_url": "https://paulgraham.com/startupideas.html",
+      "summary": "好点子不是坐着想出来的，是在生活中注意到的。先让自己站在一个快速变化领域的前沿，再留意那些让你烦、明显缺了什么却没人做的地方。"
+    },
+    {
+      "path": "library/notes/08-opportunity/ries-lean-startup.md",
+      "title": "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses",
+      "title_zh": "精益创业",
+      "author": "Eric Ries",
+      "year": "2011",
+      "type": "book",
+      "modules": [
+        "08",
+        "01",
+        "05"
+      ],
+      "keywords": [
+        "机会捕捉",
+        "用户洞察",
+        "渠道与增长"
+      ],
+      "priority": "必读",
+      "access": "仅笔记（版权书）",
+      "source_level": "一手（官方节选/摘要）",
+      "verified": "部分原文",
+      "source_url": "https://theleanstartup.com/",
+      "summary": "做新东西时不确定性极大，所以衡量进展的不是\"做了多少功能\"，而是\"用真实用户行为验证了什么\"。用最小可行产品（MVP）尽快跑完\"做出来、测数据、学到东西\"的循环，再决定坚持还是转向。"
+    },
+    {
+      "path": "library/notes/08-opportunity/sarasvathy-effectuation.md",
+      "title": "What makes entrepreneurs entrepreneurial?",
+      "title_zh": "是什么让企业家成为企业家？（效果推理 Effectuation 入门）",
+      "author": "Saras D. Sarasvathy（UVA Darden）",
+      "year": "2001（Darden 技术笔记；effectuation.org 官方免费发布）",
+      "type": "paper",
+      "modules": [
+        "08",
+        "06",
+        "07"
+      ],
+      "keywords": [
+        "机会捕捉",
+        "个人品牌",
+        "销售与谈判"
+      ],
+      "priority": "必读",
+      "access": "原文已下载（私有）",
+      "source_level": "一手",
+      "verified": "已读原文",
+      "source_url": "https://effectuation.org/publications-library/what-makes-entrepreneurs-entrepreneurial",
+      "summary": "很多成功的创业者不是先定目标再找资源，而是从手头已有的东西出发：我是谁、我会什么、我认识谁，先控制好最多能亏多少，再边做边找愿意加入的伙伴，让目标慢慢成形。"
+    },
+    {
+      "path": "library/notes/08-opportunity/taleb-antifragile.md",
+      "title": "Antifragile: Things That Gain from Disorder",
+      "title_zh": "反脆弱",
+      "author": "Nassim Nicholas Taleb",
+      "year": "2012",
+      "type": "book",
+      "modules": [
+        "08",
+        "06",
+        "07"
+      ],
+      "keywords": [
+        "机会捕捉",
+        "个人品牌",
+        "销售与谈判"
+      ],
+      "priority": "选读",
+      "access": "仅笔记（版权书）",
+      "source_level": "二手",
+      "verified": "未读原文",
+      "source_url": "https://www.penguinrandomhouse.com/books/176227/antifragile-by-nassim-nicholas-taleb/",
+      "summary": "有些东西不只是扛得住冲击，反而会从波动和犯错中变强，这叫反脆弱。实际做法是：把最坏的损失锁死，同时保留赚大钱的可能。"
+    },
+    {
+      "path": "library/notes/09-capstone/kahl-embedded-entrepreneur.md",
+      "title": "The Embedded Entrepreneur: How to Build an Audience-Driven Business",
+      "title_zh": "《嵌入式创业者：如何打造受众驱动的生意》（暂无通行中译本）",
+      "author": "Arvid Kahl",
+      "year": "2021",
+      "type": "book",
+      "modules": [
+        "09",
+        "01",
+        "06",
+        "08"
+      ],
+      "keywords": [
+        "综合实战",
+        "用户洞察",
+        "个人品牌",
+        "机会捕捉"
+      ],
+      "priority": "必读",
+      "access": "仅笔记（版权书）",
+      "source_level": "一手（官方节选/摘要）",
+      "verified": "部分原文",
+      "source_url": "https://embeddedentrepreneur.com/",
+      "summary": "别先想点子再找人买，先选一群你在乎、也付得起钱的人，混进他们的社区，看他们反复抱怨什么，再和他们一起做产品；受众是起点，不是做完产品之后才去找的东西。"
+    },
+    {
+      "path": "library/notes/09-capstone/levels-make-indie-maker-handbook.md",
+      "title": "MAKE: The Indie Startup Manual（早期版本名 MAKE: Bootstrapper's Handbook / The Indie Maker Handbook）",
+      "title_zh": "《MAKE：独立开发者手册》（暂无通行中译本）",
+      "author": "Pieter Levels（@levelsio）",
+      "year": "2018 首发，作者持续在线更新（本笔记读取 2026-10-20 版本页）",
+      "type": "ebook",
+      "modules": [
+        "09",
+        "05",
+        "06",
+        "08"
+      ],
+      "keywords": [
+        "综合实战",
+        "渠道与增长",
+        "个人品牌",
+        "机会捕捉"
+      ],
+      "priority": "推荐",
+      "access": "仅笔记（版权书）",
+      "source_level": "一手（官方节选/摘要）",
+      "verified": "部分原文",
+      "source_url": "https://readmake.com/",
+      "summary": "一个人也能做产品赚钱：从自己的真实麻烦里找点子，用自己已经会的工具几天内做出最小版本，尽快发到目标用户聚集的地方，看有没有人用、有没有人愿意付钱；不行就换下一个，别花一年闭门造车。"
+    },
+    {
+      "path": "library/notes/09-capstone/steamworks-coming-soon-wishlist-nextfest.md",
+      "title": "Steamworks Documentation — Wishlists / Coming Soon / Steam Next Fest / Visibility on Steam / Demos（附 Steam Platform Analysis: Wishlist Update, 2016）",
+      "title_zh": "Steamworks 官方文档：愿望单、即将推出页、Steam 新品节、Steam 曝光机制、Demo（附 2016 年官方愿望单数据分析）",
+      "author": "Valve（Steamworks 文档团队；数据分析帖署名 Steamworks Development）",
+      "year": "文档持续更新（2026-10-20 读取）；数据分析帖 2016-03-29",
+      "type": "report",
+      "modules": [
+        "09",
+        "05",
+        "07"
+      ],
+      "keywords": [
+        "综合实战",
+        "渠道与增长",
+        "销售与谈判"
+      ],
+      "priority": "必读",
+      "access": "仅笔记（免费原文在线，未存私有副本）",
+      "source_level": "一手",
+      "verified": "已读原文",
+      "source_url": "https://partner.steamgames.com/doc/marketing/wishlist",
+      "summary": "在 Steam 上，商店页越早挂出来越好；玩家点\"加入愿望单\"后，你的游戏发售或打折时 Steam 会替你发邮件提醒他们。但 Steam 决定把你推给谁，主要看真实的购买和游玩，不看你有多少愿望单、多少访问量。"
+    },
+    {
+      "path": "library/notes/09-capstone/walker-launch.md",
+      "title": "Launch: How to Sell Almost Anything Online, Build a Business You Love, and Live the Life of Your Dreams",
+      "title_zh": "《发布》（Product Launch Formula 方法；暂无通行中译名）",
+      "author": "Jeff Walker",
+      "year": "2014 初版；2021 增订版",
+      "type": "book",
+      "modules": [
+        "09",
+        "04",
+        "07",
+        "03"
+      ],
+      "keywords": [
+        "综合实战",
+        "文案与说服",
+        "销售与谈判",
+        "价值主张与报价"
+      ],
+      "priority": "推荐",
+      "access": "仅笔记（版权书）",
+      "source_level": "一手（官方节选/摘要）",
+      "verified": "部分原文",
+      "source_url": "https://jeffwalker.com/programs/book-launch/",
+      "summary": "不要某天突然说\"我的东西上线了，快来买\"。先预告、再连续给几次真正有用的免费内容，让人在能买之前就已经想要；然后只开放几天购买，到期关门。"
+    },
+    {
+      "path": "library/notes/09-capstone/zukowski-how-to-market-a-game.md",
+      "title": "How To Market A Game（博客；核心篇目 \"How To Market Your Indie Game: A 10 Step Plan\" 等）",
+      "title_zh": "《怎样营销一款游戏》（独立游戏营销博客）",
+      "author": "Chris Zukowski",
+      "year": "2017 至今（本笔记依据的篇目发表于 2019–2026，见资料说明）",
+      "type": "article",
+      "modules": [
+        "09",
+        "02",
+        "04",
+        "05"
+      ],
+      "keywords": [
+        "综合实战",
+        "定位与差异化",
+        "文案与说服",
+        "渠道与增长"
+      ],
+      "priority": "必读",
+      "access": "仅笔记（免费原文在线，未存私有副本）",
+      "source_level": "一手",
+      "verified": "已读原文",
+      "source_url": "https://howtomarketagame.com/2021/07/12/how-to-market-your-indie-game-a-10-step-plan/",
+      "summary": "在 Steam 上卖独立游戏，九成取决于你做的是不是玩家想要的那类游戏；剩下的营销，就是早早挂出商店页、让人一眼看懂\"这是什么类型、哪里不一样\"，再用 Demo、主播、游戏节制造几次大流量，把关注存成愿望单，等发售那天一起兑现。"
+    }
+  ]
+}

@@ -9,6 +9,9 @@ priority: 必读
 access: 仅笔记（版权书）
 source_url: https://seths.blog/tim
 local_file: library-raw/godin-blog-this-is-marketing-posts.md
+source_level: 一手（官方节选/摘要）
+verified: 部分原文
+updated: 2026-10-20
 ---
 
 # This Is Marketing（Seth Godin）
@@ -20,9 +23,12 @@ local_file: library-raw/godin-blog-this-is-marketing-posts.md
 > - "Building blocks of marketing"（2025-12-27，作者的"The Method"清单，含"Marketing is the generous act of helping someone solve a problem"）
 > 本仓库模块 README 推荐读第 1–4 章。
 
-## 一句话
+## 30 秒读懂
 
-营销不是喊得更响，而是**为一小群特定的人创造他们想要的改变**——先问"它是给谁的、为了什么"，再去做、去讲；"Marketers create change. No change, no marketing."
+- **一句话**：营销不是把声音喊得更大，而是先选定一小群人，帮他们实现他们想要的改变。先想清楚"给谁、为了什么"，再去做东西、讲故事。
+- **举个例子**：Godin 博客里写过音响厂 PS Audio：外人觉得它的功放又大又贵，一部分发烧友却觉得物超所值。它从不说"适合所有人"，只服务认同自己理念的那群人，反而做成了行业里最成功的公司之一（"Decoding 'who is it for?'"，2015；"The smallest viable audience"，2022）。
+- **什么时候用**：个人、创作者、小团队起步时，决定"先服务谁、承诺什么改变"。
+- **可信度**：部分一手。书为版权书，未读原书，框架部分依据对全书的了解；案例和短引出自 Godin 本人博客原文（已读，存私有目录）。书中细节以原书为准。
 
 ## 核心论点
 

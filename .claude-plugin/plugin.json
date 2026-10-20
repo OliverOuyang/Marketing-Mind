@@ -1,0 +1,10 @@
+{
+  "name": "marketing-mind",
+  "description": "营销思维导师与内容搭档：学营销、拆案例、写发布内容、做运营和视频脚本、评估机会",
+  "version": "1.0.0",
+  "author": {
+    "name": "Oliver Ouyang"
+  },
+  "homepage": "https://github.com/OliverOuyang/Marketing-Mind",
+  "license": "MIT"
+}

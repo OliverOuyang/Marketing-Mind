@@ -9,15 +9,21 @@ priority: 选读
 access: 仅笔记（版权书）
 source_url: https://www.simon-kucher.com/en/insights/monetizing-innovation
 local_file: library-raw/ramanujam-monetizing-innovation-interview.md
+source_level: 一手（官方节选/摘要）
+verified: 部分原文
+updated: 2026-10-20
 ---
 
 # Monetizing Innovation（Ramanujam & Tacke）
 
 > 资料说明：版权书，未下载。辅助资料：The Marketing Journal 2016 年对 Ramanujam 的访谈（免费，已读原文，存私有目录），标【访】；书中方法论按章节主题记述，标【书】，不注页码。
 
-## 一句话
+## 30 秒读懂
 
-**在做产品之前先和客户谈"愿意付多少钱"**——让支付意愿（willingness to pay, WTP）决定做什么功能、卖给谁、怎么收费，而不是做完再想怎么定价。
+- **一句话**：别等产品做完再想卖多少钱。在动手做之前就去问客户"愿意付多少"，让付费意愿决定做什么功能、卖给谁、怎么收费。
+- **举个例子**：保时捷做 Cayenne 之前，先调研目标客户对每个可能功能愿付多少钱，客户愿付的才保留；2003 年上市即热销，到 2015 年约贡献保时捷总利润的一半（The Marketing Journal 2016 年访谈）。
+- **什么时候用**：开发新产品或新服务之前，尤其在决定做哪些功能、分几档、怎么收费时。
+- **可信度**：一手（官方节选/摘要）。书为版权书，未读原书；依据作者本人接受 The Marketing Journal 采访的原文（已读），书中方法论细节以原书为准。
 
 ## 核心论点
 

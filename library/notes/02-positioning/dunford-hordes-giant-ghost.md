@@ -9,15 +9,21 @@ priority: 推荐
 access: 原文已下载（私有）
 source_url: https://www.productmarketingalliance.com/mastering-positioning-for-growth
 local_file: library-raw/dunford-hordes-giant-ghost.md
+source_level: 一手
+verified: 已读原文
+updated: 2026-10-20
 ---
 
 # 定位对抗三类对手：Hordes / Giant / Ghost（April Dunford）
 
 > 资料说明：Product Marketing Alliance 2021-12-02 发布的 Dunford 演讲整理稿（约 25 分钟阅读），免费可读，原文已存私有目录。下文案例均出自该文，按小节标注位置。
 
-## 一句话
+## 30 秒读懂
 
-买家在购买旅程的三个阶段会遇到三类对手——**筛名单时的"群敌"（hordes）、定赢家时的"巨头"（giant）、最后签字前的"幽灵"（ghost，即现状）**——每一类要用不同的定位武器去打。
+- **一句话**：客户买东西要过三关：先从一大堆差不多的选项里筛出短名单（群敌），再在短名单里和大牌比（巨头），最后还要战胜"算了，先不换"（幽灵）。每一关要用不同的打法。
+- **举个例子**：一位烘焙师把棒棒糖形状的小蛋糕当"创新蛋糕"推销给 Starbucks，被评成"四不像蛋糕"；改口说"给咖啡店里的成年人吃的棒棒糖，用蛋糕做的"，棍子和小球立刻从缺点变成了卖点（PMA 演讲整理稿，"Example 1"）。
+- **什么时候用**：B2B 销售、求职或拉合作时，分析自己在哪个阶段、输给了谁。
+- **可信度**：一手。作者本人演讲的官方整理稿（Product Marketing Alliance），全文已读（存私有目录）。
 
 ## 核心论点
 

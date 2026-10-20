@@ -9,15 +9,21 @@ priority: 必读
 access: 原文已下载（私有）
 source_url: https://www.swyx.io/learn-in-public
 local_file: library-raw/swyx-learn-in-public.md
+source_level: 一手
+verified: 已读原文
+updated: 2026-10-20
 ---
 
 # Learn In Public（公开学习）
 
 > 原文来源说明：两篇都是 swyx 个人站免费文章。私有文件前半部分是《Learn In Public》（2018-06-19），后半部分是续篇《Pick Up What They Put Down: The Ultimate Hack for Learning In Public》（2020-01-01，swyx.io/puwtpd）。swyx 后来在《The Coding Career Handbook》里扩写过，本笔记只依据这两篇免费原文。
 
-## 一句话
+## 30 秒读懂
 
-大多数人"私下学习、潜水围观"，你要反过来：**养成持续产出"学习尾气"（learning exhaust）的习惯**，把学的过程公开，让懂行的人纠正你、带你，最终让机会和钱找上门。
+- **一句话**：别只是默默地学。把学习过程写出来、讲出来，写给三个月前的自己看，让懂行的人来纠正你、带你，机会会慢慢找上门。
+- **举个例子**：swyx 举 Chris Coyier 的例子：他多年公开教 CSS，后来众筹网站改版，目标 3,500 美元，最后筹到 89,697 美元（Learn In Public 文末引 Nathan Barry）。学游戏营销的人，可以每读完一篇作者的新文章就写一份总结并 @ 原作者（示例）。
+- **什么时候用**：正在学一个新领域、想同时积累作品和人脉时。
+- **可信度**：一手。作者个人网站两篇免费原文已读（私有保存），文中数字已与原文核对。
 
 ## 核心论点
 

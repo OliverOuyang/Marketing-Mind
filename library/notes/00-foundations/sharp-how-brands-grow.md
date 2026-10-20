@@ -9,6 +9,9 @@ priority: 推荐
 access: 仅笔记（版权书）
 source_url: https://marketingscience.info
 local_file: library-raw/sharp-ehrenberg-bass-interviews.md
+source_level: 一手（官方节选/摘要）
+verified: 部分原文
+updated: 2026-10-20
 ---
 
 # How Brands Grow（Byron Sharp）——"框架会失效"的反方视角
@@ -18,9 +21,12 @@ local_file: library-raw/sharp-ehrenberg-bass-interviews.md
 > 2. Ehrenberg-Bass 研究所官网 marketingscience.info 的 "How do you measure 'How Brands Grow'?"（介绍 Romaniuk《Better Brand Health》，含心智/物理可得性与 Category Entry Points 定义）
 > 本笔记在仓库里的角色：**给 STP、"细分—目标—差异化定位"、Godin 的"最小可行受众"提供一个以数据为据的反方**，训练 Oliver"用框架但不迷信框架"。
 
-## 一句话
+## 30 秒读懂
 
-在成熟品类里，品牌主要靠**渗透率（更多买家，尤其是大量轻度买家）**增长，而不是靠提高忠诚度或打动某个细分人群；做法是建立**心智可得性**（买的时候想得起你）和**物理可得性**（想买时买得到你），并**始终看起来像你自己**。
+- **一句话**：在成熟品类里，品牌变大主要靠让更多人来买，尤其是偶尔才买一次的人，而不是让老顾客更忠诚。关键是让人想买时想得起你、买得到你，并且一眼认出是你。
+- **举个例子**：Sharp 举 Red Bull 为例：它赞助 Ehrenberg-Bass 研究所约 20 年，在任何场合都"always look like Red Bull"。这种长期一致的识别，比反复讲一个新卖点更管用（2025 访谈）。
+- **什么时候用**：产品已有一定规模、考虑扩大覆盖面，或反思"只做小众、只靠忠粉"够不够时。
+- **可信度**：部分一手。书为版权书，未读原书；依据 Sharp 本人 2025 年长访谈和 Ehrenberg-Bass 研究所官网文章（已读，存私有目录），"营销规律"清单基于对该书的了解，细节以原书为准。
 
 ## 核心论点
 
@@ -74,7 +80,7 @@ local_file: library-raw/sharp-ehrenberg-bass-interviews.md
 
 - **Heineken**：Freddie Heineken 在纽约酒吧里点 Heineken（明知没有），随后销售团队跟进让酒吧进货——"Build mental availability, then quickly convert it into physical availability."（访谈）
 - **"wagons west"**：Wrigley、Mars 等早期品牌"go where the people are *not yet buying you*"（访谈）。
-- **Boston Beer 的 Jim Koch**：发现自己花在广告上的钱比啤酒花还多，意识到"他懂啤酒，不懂广告"（访谈）。
+- **Boston Beer 的 Jim Koch**：发现自己花在广告上的钱比啤酒花还多，意识到"他懂啤酒，不懂广告"（访谈；前半句为采访者转述，Sharp 回应称 Koch 本人对他们讲过这件事）。
 - **McDonald's**：把汉堡盒画成笔记本电脑宣传免费 Wi-Fi——瞬间识别（访谈）。
 - **订阅品类也不例外**："Growth still comes from *more* customers—penetration."（访谈）
 - **科学观**：Ehrenberg 把很多营销学术称为"SONK"（the scientification of non-knowledge）；"Science in marketing isn't about one clever model… It's about patterns that keep repeating across hundreds of datasets."（访谈）

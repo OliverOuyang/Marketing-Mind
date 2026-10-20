@@ -7,17 +7,23 @@ type: book
 modules: ["02", "05", "08"]
 priority: 推荐
 access: 仅笔记（版权书）
-source_url: https://www.harpercollins.com/products/crossing-the-chasm-3rd-edition-geoffrey-a-moore
+source_url: https://geoffreyamoore.com/book/crossing-the-chasm/
 local_file:
+source_level: 二手
+verified: 未读原文
+updated: 2026-10-20
 ---
 
 # Crossing the Chasm（Geoffrey Moore）
 
 > 资料说明：版权书，未下载，未找到官方免费章节。本笔记基于对全书（第 3 版结构）的精读整理，只注章节，不注页码；书中具体公司案例随版本更新差异较大，引用前请对照手头版本。模块 README 指定读第 3–6 章，本笔记重点覆盖这几章。
 
-## 一句话
+## 30 秒读懂
 
-新产品从"早期采用者"走向"早期大众"之间有一道**鸿沟**——两群人买东西的理由完全不同；跨过去的方法是**像诺曼底登陆一样，集中全部兵力拿下一个小而具体的滩头阵地（beachhead），在那里提供"完整产品"并成为第一，再一个接一个地推倒相邻的保龄球瓶。**
+- **一句话**：新产品从少数尝鲜者走向普通大众，中间有一道"鸿沟"，因为两群人买东西的理由完全不同。跨过去的办法是集中全部力量，先拿下一个很小但很具体的细分市场，在那里做到第一、提供完整方案，再一个个拿下相邻市场。
+- **举个例子**：一款独立小游戏在开发者圈里被夸"有创意"，但普通玩家要看到身边的人在玩、有完整教程和稳定更新才肯下载。与其全网投放，不如先拿下一个具体社群（比如某个解谜游戏论坛），在那里做到人人知道，再扩到相邻的圈子（示例）。
+- **什么时候用**：产品已有一些早期粉丝，却迟迟扩不到更多普通用户时。
+- **可信度**：二手。版权书，未读原书，也没有找到官方免费章节；依据对第 3 版全书结构的了解，细节以原书为准。
 
 ## 核心论点
 
@@ -98,7 +104,8 @@ local_file:
 
 ## 获取方式
 
-- 出版社页（HarperBusiness，第 3 版 2014）：https://www.harpercollins.com/products/crossing-the-chasm-3rd-edition-geoffrey-a-moore
+- 作者官网书页：https://geoffreyamoore.com/book/crossing-the-chasm/
+- 出版社页（HarperBusiness，第 3 版 2014；本环境访问被反爬拦截返回 403）：https://www.harpercollins.com/products/crossing-the-chasm-3rd-edition-geoffrey-a-moore
 - 作者官网：https://geoffreyamoore.com
 - Open Library / 图书馆借阅：https://openlibrary.org/search?q=crossing+the+chasm
 - 中译本：《跨越鸿沟》（机械工业出版社等）

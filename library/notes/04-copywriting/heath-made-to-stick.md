@@ -9,15 +9,21 @@ priority: 必读
 access: 仅笔记（版权书）
 source_url: https://heathbrothers.com/books/made-to-stick/
 local_file: ""
+source_level: 二手
+verified: 未读原文
+updated: 2026-10-20
 ---
 
 # Made to Stick（让创意更有黏性）
 
 > 来源说明：这本书受版权保护，本笔记只整理框架，案例按**章节**标注，不写页码。全书结构是 Introduction（What Sticks?），加上 Simple、Unexpected、Concrete、Credible、Emotional、Stories 六章，最后是 Epilogue。作者网站上的配套资源（如 "Teaching That Sticks"）需要注册才能下载，所以没有获取。
 
-## 一句话
+## 30 秒读懂
 
-能"粘住"的想法有 6 个共同特征，合起来叫 **SUCCESs**：Simple、Unexpected、Concrete、Credible、Emotional、Stories。最大的敌人是 **Curse of Knowledge**：你一旦知道了某件事，就再也无法想象"不知道"是什么感觉，于是说出来的话抽象、跳步，别人记不住。
+- **一句话**：一个想法能不能被人记住，有 6 个可以学的特征：简单、出人意料、具体、可信、有情感、有故事（合称 SUCCESs）。最大的障碍是"知识的诅咒"：你懂了之后就想不起不懂是什么感觉，于是说得太抽象、太跳跃。
+- **举个例子**：书中引用的斯坦福实验：让一个人用手指敲出《生日快乐》这类歌的节奏让另一个人猜。敲的人以为对方能猜中一半，实际 120 首里只猜中 3 首（Introduction）。
+- **什么时候用**：写一句话介绍、电梯演讲、README 首段，或者别人总是"听不懂你在做什么"时。
+- **可信度**：二手。版权书，未读原书；依据作者官网书页和书中被广泛引用的案例整理，案例按章节标注，细节以原书为准。
 
 ## 核心论点
 
@@ -71,7 +77,7 @@ local_file: ""
 
 ## 适用边界与常见误用
 
-- **SUCCESs 不必 6 项全满**。书里也说多数成功的想法只具备其中两三项。为了凑齐 Unexpected 硬造反转，会显得做作。
+- **SUCCESs 不必 6 项全满**。书里也说多数成功的想法只具备其中两三项（待核实）。为了凑齐 Unexpected 硬造反转，会显得做作。
 - **Unexpected 必须服务核心信息**。无关的惊吓（"免费 iPhone！"然后转到正文）得到的是注意，却破坏了可信度，Halbert 管这叫 "cheap shot"（Boron Letters Ch14）。
 - **Emotional 和 Rokia 实验的启示**：一篇文案里同时放大段数据和个人故事，效果可能互相抵消。要决定读者此刻该用"分析脑"还是"感受脑"。
 - **"黏"不等于"卖"**。被记住只是第一步，转化还需要 offer 和 CTA，这部分要靠 Hopkins 和 StoryBrand。

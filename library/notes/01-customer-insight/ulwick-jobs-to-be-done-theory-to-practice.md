@@ -9,6 +9,9 @@ priority: 选读
 access: 仅笔记（版权书）
 source_url: https://jobs-to-be-done-book.com
 local_file: library-raw/ulwick-strategyn-jtbd-pages.md
+source_level: 一手（官方节选/摘要）
+verified: 部分原文
+updated: 2026-10-20
 ---
 
 # Jobs to be Done: Theory to Practice（Tony Ulwick）
@@ -16,9 +19,12 @@ local_file: library-raw/ulwick-strategyn-jtbd-pages.md
 > 资料说明：Strategyn 官方声明本书电子版和有声书"free"下载（jobs-to-be-done-book.com），但下载需要在弹窗表单里填写姓名和邮箱（Pardot/HubSpot 表单）。这等于用 Oliver 的个人信息换资料，**未代填**；Oliver 如需全书可自行在官网登记下载。
 > 本笔记所据原文（Strategyn / Ulwick 官方免费网页，已存私有目录）：Strategyn "Jobs-to-be-Done (A Comprehensive Guide)"、"3 Jobs-to-Be-Done examples"、Eric Eskey "Quantify Your Customer's Unmet Needs"（Opportunity Algorithm 官方说明）、anthonyulwick.com 的 ODI 页与本书介绍页。书中细节（章节、84 步）基于官方介绍，不标页码。
 
-## 一句话
+## 30 秒读懂
 
-把 job 看成**一个稳定的、可拆解的功能性流程**（"jobs are stable; products are not"），用客户自己衡量成功的指标（desired outcomes）把需求**量化**——找出"重要但不满意"的结果，就知道该在哪里创新。
+- **一句话**：把 job 看成一串稳定的步骤，再请用户给每一步的"成功标准"打两个分：有多重要、现在有多满意。重要但不满意的地方，就是最值得改进的机会。
+- **举个例子**：Strategyn 的官方示例：81% 的外科医生认为某项结果重要，只有 30% 满意，这一项就是"服务不足"，值得投入；反过来 30% 认为重要、81% 满意，就是"过度服务"，可以考虑降成本（Eskey，"Quantify Your Customer's Unmet Needs"）。
+- **什么时候用**：功能性强、用户多、能发问卷的产品，用来给改进方向排优先级。
+- **可信度**：部分一手。书需登记邮箱才能下载，未读原书；依据 Strategyn 与 Ulwick 的官方网页（已读，存私有目录）。案例和成功率数字都是咨询公司自述，没有独立审计。
 
 ## 核心论点
 
@@ -47,7 +53,7 @@ local_file: library-raw/ulwick-strategyn-jtbd-pages.md
 - Importance = 评"非常/极其重要"的受访者比例（top-two-box）；Satisfaction = 评"非常/极其满意"的比例。
 - 官方示例：81% 的外科医生认为某结果重要、仅 30% 满意 → **underserved**（价值创造目标）；30% 重要、81% 满意 → **overserved**（降本目标）。
 - 四条假设：outcome 是衡量成功的指标；需求与方案分离；高重要低满意 = 价值创造机会；低重要高满意 = 降本机会。
-- 实际计分常把比例换成 0–10 分（如 8.1 + (8.1 − 3.0) = 13.2），Strategyn 通常把 >10 视为机会、>15 视为极佳机会（这一阈值为行业常见用法，官方页未写，教学时说明来源不同）。
+- 实际计分常把比例换成 0–10 分（如 8.1 + (8.1 − 3.0) = 13.2），Strategyn 通常把 >10 视为机会、>15 视为极佳机会（这一阈值为行业常见用法，官方页未写，教学时说明来源不同）（待核实）。
 
 ### C. Desired Outcome Statement 写法（基于对 Ulwick 著作的了解）
 

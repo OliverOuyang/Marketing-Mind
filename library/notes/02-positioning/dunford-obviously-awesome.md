@@ -9,6 +9,9 @@ priority: 必读
 access: 仅笔记（版权书）
 source_url: https://www.aprildunford.com/obviously-awesome
 local_file: library-raw/dunford-quickstart-guide-to-positioning.md; library-raw/dunford-positioning-and-competition.md; library-raw/dunford-job-of-a-market-category.md
+source_level: 一手（官方节选/摘要）
+verified: 部分原文
+updated: 2026-10-20
 ---
 
 # Obviously Awesome（April Dunford）
@@ -17,9 +20,12 @@ local_file: library-raw/dunford-quickstart-guide-to-positioning.md; library-raw/
 > ① "A Quickstart Guide to Positioning"（2021-03，作者自述"是本书的高层次导读"）；② "Positioning and Competition"（2020-12）；③ "Understanding the Job of a Market Category"（Substack，2024-01）。
 > 下文凡标【文①②③】的案例、数字、短引均出自这三篇原文；标【书】的是书中方法论结构，只注章节/步骤，不注页码。
 
-## 一句话
+## 30 秒读懂
 
-定位不是口号，而是**给产品设定"语境"（context）**：选对竞争参照和市场类别，让目标客户一眼就"自动"得出关于你的正确假设——而找到它的唯一可靠起点，是问"**如果没有我，客户会用什么？**"
+- **一句话**：定位就是给产品搭一个"语境"：选对和谁比、属于哪一类，让目标客户一看就自动得出正确的判断。找定位的起点是问一句："如果没有我，客户会用什么？"
+- **举个例子**：Dunford 早年负责的一款数据库产品，当作"Access 杀手"来卖时只卖出约 200 份。她给 100 个客户打电话，94 个不记得买过，6 个拿它让外勤人员在笔记本和移动设备上离线录单、再同步回公司。产品改定位为"移动设备嵌入式数据库"后高速增长，一年后被收购（"A Quickstart Guide to Positioning"）。
+- **什么时候用**：产品或作品已经有一批用户，却讲不清"为什么选我"时。
+- **可信度**：部分一手。版权书，未读原书；依据作者本人三篇免费文章（已读，存私有目录，其中一篇自述为本书导读），十步流程基于对该书的了解，细节以原书为准。
 
 ## 核心论点
 
@@ -70,7 +76,7 @@ local_file: library-raw/dunford-quickstart-guide-to-positioning.md; library-raw/
 ## 案例与数据
 
 - **"Microsoft Access 杀手"→"移动设备嵌入式数据库"**【文①】：作者毕业后第一份工作，产品卖了约 200 份就准备砍掉。她打了 100 个客户电话：94 个连自己买过都不记得，6 个靠它改变了业务（销售在现场离线下单再同步、外勤服务能力提升 60%）。重新定位后一年高速增长、被大数据库公司收购，衍生产品线创造数亿美元收入。**教学用法**：定位的答案藏在"最爱你的少数人"如何使用你，而不在你本来想卖给谁。
-- **Janna Systems vs Siebel**【文①】：Siebel 8000 员工、20 亿美元收入、400 客户；Janna 几十人、不到 200 万美元、6 个客户。唯一差异是"能以不同方式建模人际关系"，但团队一直答不出这功能的价值（"Anything you want!"）。直到签下一家投行，才明白价值是"看清人际关系网，开启新商机、找出谁影响交易"，于是定位改为"投行专用 CRM"。18 个月从不到 200 万做到接近 8000 万美元，最后被 Siebel 以 13 亿美元收购。
+- **Janna Systems vs Siebel**【文①】：Siebel 8000 员工、20 亿美元收入、400 客户；Janna 几十人、不到 200 万美元、6 个客户。唯一差异是"能以不同方式建模人际关系"，但团队一直答不出这功能的价值（"Anything you want!"）。直到签下一家投行，才明白价值是"看清人际关系网，开启新商机、找出谁影响交易"，于是定位改为"投行专用 CRM"。18 个月从不到 200 万做到接近 8000 万美元，最后被 Siebel 收购。收购金额作者原文写"$1.3B"，CNNfn 2000-09-11 报道为约 9.75 亿美元换股（https://money.cnn.com/2000/09/11/deals/siebel/），Globe and Mail 报约 14 亿（应为加元）；各方口径不同，引用时注明出处。
 - **"email vs chat"**【文①】：功能大量重叠，但买家对两者期待完全不同；"great chat is lousy email and vice versa"。
 - **"CRM 卖给没有销售团队的市场部"**【文③】：类别选错，所有自动假设都错，不如定位为"营销自动化"或"给市场人的潜客追踪器"。
 

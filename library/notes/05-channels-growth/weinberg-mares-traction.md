@@ -9,6 +9,9 @@ priority: 必读
 access: 仅笔记（版权书）
 source_url: https://www.penguinrandomhouse.com/books/319121/traction-by-gabriel-weinberg-and-justin-mares/
 local_file: ""
+source_level: 二手
+verified: 未读原文
+updated: 2026-10-20
 ---
 
 # Traction（牵引力）
@@ -21,9 +24,12 @@ local_file: ""
 >
 > 第一作者 Gabriel Weinberg 是 DuckDuckGo 的创始人。
 
-## 一句话
+## 30 秒读懂
 
-大多数创业者在**产品**上花了 100% 的精力，在**获客渠道**上几乎为零，而且只尝试自己熟悉的那一两个渠道。Traction 给出一套系统方法：**把 19 个渠道全部过一遍（Bullseye），便宜地并行测试，找到那一个能"动针"的渠道，然后全力聚焦**。
+- **一句话**：大多数创业者只顾做产品，只试自己熟悉的一两个渠道。正确做法是把 19 种获客渠道都过一遍，挑 3 个便宜地测试，找到那个真正有效的，再全力投入。
+- **举个例子**：书里把"做一个免费小工具来获客"单独列为一种渠道（Engineering as Marketing），典型例子是 HubSpot 给网站打分的 Website Grader。会写代码的学生，可以先做一个免费的小网页工具，把人引到自己的主项目上（示例）。
+- **什么时候用**：不知道该去哪里找用户、或者总是只在一两个熟悉渠道里打转时。
+- **可信度**：二手。版权书，未读原书；官方网站检索时无法访问，笔记依据对全书框架的掌握，具体数字以原书为准。
 
 ## 核心论点
 
@@ -92,7 +98,7 @@ local_file: ""
 - **Engineering as Marketing**：做一个免费的小工具来获客，比如 HubSpot 的 Website Grader 这类"给网站打分"的工具。这对 Oliver 这样会写代码的人特别相关。
 - **Targeting Blogs**：用小众博客为产品预热和获客，典型例子是 Mint 发布前的博客策略。
 - **Existing Platforms**：寄生在已有的大平台上增长，比如应用商店、浏览器插件市场、Airbnb 早期和 Craigslist 的对接。
-- **Offline Events**：Twitter 在 2007 年 SXSW 上的引爆。
+- **Offline Events**：Twitter 在 2007 年 SXSW 上的引爆（待核实：是否为书中案例）。
 - **Community Building**：用户社区本身成为渠道，例如 Wikipedia、Stack Overflow 这类社区驱动的产品。
 
 ## 适用边界与常见误用

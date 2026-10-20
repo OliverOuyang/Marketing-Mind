@@ -21,7 +21,7 @@
 - **帮他完成什么任务**：功能、情感、社会三层（来自 01 JTBD）。
 - **为什么是我而不是替代方案**：替代方案包括竞品、自己动手、什么都不做。
 
-> 例：Superhuman 早期的价值主张不是"更好的邮箱"，而是"每天处理邮件的时间砍半，回到收件箱清零"。目标用户（创业者、VC）每天在邮件里泡 3 小时，30 美元/月对他们是小钱。
+> 例：Superhuman 早期的价值主张不是"更好的邮箱"，而是"快"：最爱它的用户说"处理收件箱的时间减半"，追求的是收件箱清零。目标用户（创业者、高管、经理、BD）每天要读 100–200 封邮件，30 美元/月对他们是小钱。
 
 ### 2. 用户买的是"结果"，付的是"总成本"
 
@@ -95,15 +95,29 @@
 ## 案例速读
 
 - **Dollar Shave Club**：剃须刀不是新东西，报价才是。每月 1 美元起、送上门、随时取消，把"去超市买贵刀片"的痛点（价格、麻烦、柜台锁着）全部对上。
-- **Zappos 365 天免费退货**：网上买鞋最大的成本是"不合脚的风险"，它直接把风险全接过来，退货率上升，但转化和复购涨得更多。
+- **Zappos 365 天免费退货**：网上买鞋最大的成本是"不合脚的风险"，它直接把风险全接过来。退货确实多，但 Zappos 高管说过，退货最多的客户恰恰花钱最多、最赚钱。
 - **求职场景**：一个设计实习申请者在邮件里附上"我为贵司 App 重做的注册页，3 张图"，就是在用作品把"实现可能性"拉满，同时让面试官"付出的努力"降到看三张图。
 
 ## 推荐阅读
 
 - Alex Osterwalder 等《价值主张设计》（Value Proposition Design）：画布的原典，配图多，翻着看。
 - Alex Hormozi《$100M Offers》：价值方程和报价设计，读前 8 章即可。
-- Dan Ariely《怪诞行为学》（Predictably Irrational）：第 1 章讲锚定和诱饵效应。
+- Dan Ariely《怪诞行为学》（Predictably Irrational）：第 1 章讲相对性与诱饵效应，第 2 章讲锚定。
 - Madhavan Ramanujam《Monetizing Innovation》（选读）：先定价再做产品的思路。
+
+### 资料库笔记
+
+每篇开头有"30 秒读懂"和可信度说明，出题和点评以笔记为准。全部资料见 [library/INDEX.md](../../library/INDEX.md)。
+
+- ["连贯的任意性"：没有稳定偏好的稳定需求曲线](../../library/notes/03-value-proposition/ariely-loewenstein-prelec-2003-coherent-arbitrariness.md)（Dan Ariely, George Loewenstein, Drazen Prelec）：一样东西"值多少钱"，人心里其实没数。第一个看到的数字，哪怕是社保号尾数这种毫不相关的数，就能把报价整体拉高或压低；但起点定下之后，"多一点就多付一点"的判断又很有条理。所以市场价格看着井然有序，起点却可能是随便来的。
+- [《怪诞行为学》第 1 章（相对性）与第 2 章（锚定）](../../library/notes/03-value-proposition/ariely-predictably-irrational-ch1-2.md)（Dan Ariely）：人很少判断一样东西"本身值多少"，而是拿身边容易比较的东西来比（相对性）；第一次看到的价格会像刚孵出的小鹅认妈妈一样，变成以后的参照（锚定）。卖家可以用它设计价格档位，买家要知道自己正在被这样设计。
+- [在多维空间中寻求主观占优：对"非对称占优效应"（诱饵效应）的解释](../../library/notes/03-value-proposition/ariely-wallsten-1995-asymmetric-dominance.md)（Dan Ariely & Thomas S. Wallsten）：两个选项各有优劣、难以取舍时，再加一个"跟 A 很像但明显差一点"的选项，人就会更多地选 A。这个陪衬选项几乎没人要，但它给了人一个轻松选 A 的理由，这就是诱饵效应。
+- [《1 亿美元报价》](../../library/notes/03-value-proposition/hormozi-100m-offers.md)（Alex Hormozi）：别靠降价卖东西，而是把报价做得"好到对方拒绝都觉得自己傻"：先找一群真正着急、付得起钱的人，再让结果更诱人、更可信、来得更快、更省事，最后加上真实的稀缺、赠品和保证。这样就能收高价。
+- [《价值主张设计》](../../library/notes/03-value-proposition/osterwalder-value-proposition-design.md)（Alexander Osterwalder, Yves Pigneur, Gregory Bernarda, Alan Smith（Strategyzer））：先老老实实观察客户要完成什么事、被什么困扰、想得到什么，再设计你的产品怎么帮他，最后拿证据检验两边是否真的对得上。不要从"我的产品有什么功能"出发，去想象客户需要它。
+- [别再自称"程序员"——以及其他职业建议](../../library/notes/03-value-proposition/patio11-dont-call-yourself-a-programmer.md)（Patrick McKenzie (patio11)）：公司雇工程师不是为了写代码，而是为了多赚钱或少花钱。所以别用"我会 Java"介绍自己，要说你帮别人带来了什么商业结果；沟通、销售、谈判也是工程师的核心技能。
+- [如何从时薪 100 美元的程序员，变成周薪数万美元的顾问](../../library/notes/03-value-proposition/patio11-growing-consulting-business.md)（Patrick McKenzie (patio11)）：客户为结果付钱，不为你花的时间付钱。所以按周报价而不是按小时，预算不够就砍范围、不砍价，每做出一个可量化的成果就把它变成案例，再往上涨价。
+- [《创新变现：先定价，再做产品》](../../library/notes/03-value-proposition/ramanujam-monetizing-innovation.md)（Madhavan Ramanujam & Georg Tacke（Simon-Kucher & Partners））：别等产品做完再想卖多少钱。在动手做之前就去问客户"愿意付多少"，让付费意愿决定做什么功能、卖给谁、怎么收费。
+- [不确定性下的判断：启发式与偏差](../../library/notes/03-value-proposition/tversky-kahneman-1974-judgment-under-uncertainty.md)（Amos Tversky & Daniel Kahneman）：人在拿不准的时候，会用几条省力的"捷径"做判断：看它像不像、看自己容易想起什么、从一个现成的数字出发再调整。捷径大多好用，但会犯有规律的错。对营销最有用的一条是：第一个出现的数字会把后面的估计拖向它，而且人总是调整得不够。
 
 ## 练习题
 

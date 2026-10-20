@@ -1,6 +1,6 @@
 # 复盘长文：research-crawler（市场调研数据采集）
 
-- 用的方法：baifu-lens 模式一 · 长文 10 步结构；属于"没有大结果的踩坑复盘"，结果用实测数字代替
+- 用的方法：baifu-lens（现 marketing-mind 写作模式） · 长文 10 步结构；属于"没有大结果的踩坑复盘"，结果用实测数字代替
 - 推的对象：[research-crawler](https://github.com/OliverOuyang/research-crawler) 和 Oliver-Skills 里的 staged-market-scrape 技能
 - 读者：想做产品前先做市场调研的学生和独立开发者；他们的顾虑是"爬数据要么被封，要么很贵，要么违规"
 - 目标：收藏，Star 仓库，关注账号等下一篇

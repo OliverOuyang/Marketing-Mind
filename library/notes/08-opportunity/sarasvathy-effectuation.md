@@ -9,15 +9,21 @@ priority: 必读
 access: 原文已下载（私有）
 source_url: https://effectuation.org/publications-library/what-makes-entrepreneurs-entrepreneurial
 local_file: library-raw/sarasvathy-what-makes-entrepreneurs-entrepreneurial.pdf ；library-raw/effectuation-org-effectuation-101.md（官网五原则介绍）
+source_level: 一手
+verified: 已读原文
+updated: 2026-10-20
 ---
 
 # What makes entrepreneurs entrepreneurial?（效果推理入门）
 
 > 来源说明：Sarasvathy 的经典入门短文（PDF 共 9 页），由效果推理研究社群官网 effectuation.org 免费发布（官网称之为"An easy 8-page introduction"），已存私有目录。页码按 PDF 页码（第 1 页为封面，正文从第 2 页开始）。另用官网《Effectuation 101》页面核对了后来正式化的"五原则"名称。注意：本文本身只系统讲了**三条原则**（可承受损失、战略伙伴、利用意外）加"三类手段"；"手中鸟""疯狂拼布""柠檬水""飞行员"这些名称是后续著作（《Effectual Entrepreneurship》等）和官网的正式说法，下文会标明哪些出自本文、哪些出自官网。
 
-## 一句话
+## 30 秒读懂
 
-企业家的推理方式和 MBA 教的"因果推理"（causal reasoning）相反：不是**先定目标、再找最优手段**，而是**从手头已有的手段出发，让目标在行动和与人的互动中逐步浮现**。逻辑是："**只要我们能控制未来，就不需要预测未来。**"
+- **一句话**：很多成功的创业者不是先定目标再找资源，而是从手头已有的东西出发：我是谁、我会什么、我认识谁，先控制好最多能亏多少，再边做边找愿意加入的伙伴，让目标慢慢成形。
+- **举个例子**：1945 年 Leonard Shoen 只有约 5,000 美元，他全家住进拖车，自己造出第一批拖车，再把拖车卖给亲友和员工、租回给公司，和加油站合作设点，最后建成了 U-Haul（p.8–9）。
+- **什么时候用**：资源很少、前路不明，又想马上开始行动的时候。
+- **可信度**：一手。作者本人的入门文章，effectuation.org 官方免费 PDF 已读（私有保存），研究样本数字已与原文核对。
 
 ## 核心论点
 

@@ -9,6 +9,9 @@ priority: 必读
 access: 原文已下载（私有）
 source_url: https://brianbalfour.com/essays/product-market-fit-isnt-enough
 local_file: library-raw/balfour-four-fits.md
+source_level: 一手
+verified: 已读原文
+updated: 2026-10-20
 ---
 
 # The Four Fits（四个匹配）
@@ -21,9 +24,12 @@ local_file: library-raw/balfour-four-fits.md
 >
 > 原系列中单独讲 Model Market Fit 的那一篇没有收进来，它的核心内容（Christoph Janz 的五种动物）在 ④ 里有完整复述。下文用 ①–④ 加小标题标注出处。
 
-## 一句话
+## 30 秒读懂
 
-做到 product-market fit 还远远不够。增长要靠四个"匹配"**同时成立并彼此咬合**：**Product–Market、Product–Channel、Channel–Model、Model–Market**。其中最反直觉的一条是："**Products are built to fit with channels. Channels do not mold to products.**"（② §1）
+- **一句话**：光有好产品不够。产品、用户、渠道、收费方式这四样要互相配得上，增长才会顺；而且是产品去适配渠道，渠道不会迁就你的产品。
+- **举个例子**：Pinterest 早期靠 Facebook 的分享接口起飞，接口关掉后，只好转向 SEO，并把产品改成"个人收藏工具"去适配新渠道（文章 ②）。一个免费的开源小工具如果去投付费广告，收入根本撑不起广告费，这就是渠道和收费方式不匹配（示例）。
+- **什么时候用**：选主渠道、定价，或者产品有人用却怎么也长不大时，用来检查是哪一对"匹配"断了。
+- **可信度**：一手。作者本人 4 篇免费文章，原文已读（私有保存）；文中引用的公司数据（Chegg、Replit 等）是作者转述的第三方数据，只能当量级参考。
 
 ## 核心论点
 

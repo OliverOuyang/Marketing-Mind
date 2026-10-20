@@ -7,8 +7,11 @@ type: ebook
 modules: ["04", "05", "08"]
 priority: 推荐
 access: 原文已下载（私有）
-source_url: https://www.thegaryhalbertletter.com/Boron/
+source_url: https://www.thegaryhalbertletter.com/Boron/BoronLetterCh1.htm
 local_file: library-raw/halbert-boron-letters.md
+source_level: 一手
+verified: 已读原文
+updated: 2026-10-20
 ---
 
 # The Boron Letters（博伦书信）
@@ -20,9 +23,12 @@ local_file: library-raw/halbert-boron-letters.md
 >
 > ⚠️ 原文中有粗俗和带种族色彩的措辞，也有大量私人和狱中内容。教学时只引用营销部分，见"适用边界"。
 
-## 一句话
+## 30 秒读懂
 
-**先找到"饥饿的人群"（A Starving Crowd），再找产品。** 判断人们想要什么，看他们的钱包，不要听他们的嘴。然后用像私人信件一样的文案，把有吸引力的提议、具体的细节和一个明确的行动指令，送到最可能买的人手里。
+- **一句话**：先找一群"饿着肚子"、已经在为某类东西掏钱的人，再决定卖什么。判断人们想要什么，看他们怎么花钱，别听他们怎么说。然后写一封像私人信件一样的文案，把具体、可信的提议和清楚的下一步，交给最可能买的人。
+- **举个例子**：Halbert 在课堂上问学生：如果比赛卖汉堡，你最想要什么优势？学生答肉好、面包好、地段好、价格低，他说他只要"一群饿着肚子的人"（A Starving Crowd，Ch6）。
+- **什么时候用**：产品做出来了却没人用、不知道该先推给谁，或者要写冷邮件时。
+- **可信度**：一手。作者本人的书信，官方网站免费公开的网页版，原文已读；文中数字是作者的口述推演，未经审计。
 
 ## 核心论点
 
@@ -40,7 +46,7 @@ local_file: library-raw/halbert-boron-letters.md
    - 用 AIDA 写，结尾要"牵着读者的手"告诉他**现在**具体做什么（Ch16）。
    - 用手抄写经典广告，培养语感（Ch16–17）。
 7. **为钱写，不为掌声写**（Ch17）："If you are writing for applause... you will go home with empty pockets! Write for money!" 用简单的词、短句、过渡句、提问、文字画面；用括号给眼睛减负。
-8. **看起来不像推销，才卖得最好**（Ch18）："YOU CAN DO A BETTER SELLING JOB WHEN AT FIRST IT DOES NOT APPEAR YOU ARE ATTEMPTING TO DO A SALES JOB." 社论式广告的读者是普通广告的 5 倍。一封带快照的私人信件，比四色目录卖得多得多。
+8. **看起来不像推销，才卖得最好**（Ch18）："YOU CAN DO A BETTER SELLING JOB WHEN AT FIRST IT DOES NOT APPEAR YOU ARE ATTEMPTING TO DO A SALES JOB." 他的依据是：在多数刊物里，编辑内容的读者是广告内容的 5 倍，所以广告应尽量做出"编辑内容"的样子。一封带快照的私人信件，比四色目录卖得多得多。
 
 ## 框架 / 模型
 
@@ -104,6 +110,6 @@ local_file: library-raw/halbert-boron-letters.md
 
 ## 获取方式
 
-- 官方免费网页版：https://www.thegaryhalbertletter.com/Boron/ （第 1–3 章文件名为 BoronLetterChN.htm，第 4–25 章为 TChapterN.htm）。
+- 官方免费网页版（第 1 章）：https://www.thegaryhalbertletter.com/Boron/BoronLetterCh1.htm 。第 1–3 章文件名为 BoronLetterChN.htm，第 4–25 章为 TChapterN.htm；目录页 /Boron/ 在 2026-10-20 复查时已返回 404。
 - 私有副本：`library-raw/halbert-boron-letters.md`（25 章合并）。
 - 也有官方出版的纸书和电子书（Bond Halbert 编），可在主流书店检索 "The Boron Letters"。

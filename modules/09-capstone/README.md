@@ -56,6 +56,20 @@
 
 结果不达标不等于失败。能讲清楚**卡在哪一环、为什么、下次怎么改**，这个实战就是成功的。
 
+## 推荐阅读
+
+本模块不教新框架，下面这些资料专门针对"从 0 发布一个真东西"，尤其是独立开发者和独立游戏。
+
+### 资料库笔记
+
+每篇开头有"30 秒读懂"和可信度说明，出题和点评以笔记为准。全部资料见 [library/INDEX.md](../../library/INDEX.md)。
+
+- [《嵌入式创业者：如何打造受众驱动的生意》（暂无通行中译本）](../../library/notes/09-capstone/kahl-embedded-entrepreneur.md)（Arvid Kahl）：别先想点子再找人买，先选一群你在乎、也付得起钱的人，混进他们的社区，看他们反复抱怨什么，再和他们一起做产品；受众是起点，不是做完产品之后才去找的东西。
+- [《MAKE：独立开发者手册》（暂无通行中译本）](../../library/notes/09-capstone/levels-make-indie-maker-handbook.md)（Pieter Levels（@levelsio））：一个人也能做产品赚钱：从自己的真实麻烦里找点子，用自己已经会的工具几天内做出最小版本，尽快发到目标用户聚集的地方，看有没有人用、有没有人愿意付钱；不行就换下一个，别花一年闭门造车。
+- [Steamworks 官方文档：愿望单、即将推出页、Steam 新品节、Steam 曝光机制、Demo（附 2016 年官方愿望单数据分析）](../../library/notes/09-capstone/steamworks-coming-soon-wishlist-nextfest.md)（Valve（Steamworks 文档团队；数据分析帖署名 Steamworks Development））：在 Steam 上，商店页越早挂出来越好；玩家点"加入愿望单"后，你的游戏发售或打折时 Steam 会替你发邮件提醒他们。但 Steam 决定把你推给谁，主要看真实的购买和游玩，不看你有多少愿望单、多少访问量。
+- [《发布》（Product Launch Formula 方法；暂无通行中译名）](../../library/notes/09-capstone/walker-launch.md)（Jeff Walker）：不要某天突然说"我的东西上线了，快来买"。先预告、再连续给几次真正有用的免费内容，让人在能买之前就已经想要；然后只开放几天购买，到期关门。
+- [《怎样营销一款游戏》（独立游戏营销博客）](../../library/notes/09-capstone/zukowski-how-to-market-a-game.md)（Chris Zukowski）：在 Steam 上卖独立游戏，九成取决于你做的是不是玩家想要的那类游戏；剩下的营销，就是早早挂出商店页、让人一眼看懂"这是什么类型、哪里不一样"，再用 Demo、主播、游戏节制造几次大流量，把关注存成愿望单，等发售那天一起兑现。
+
 ## 实战记录
 
 每一轮实战在本目录下建一个子文件夹，例如 `09-capstone/2026-11-personal-brand/`，建议包含：

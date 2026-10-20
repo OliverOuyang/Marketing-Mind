@@ -9,15 +9,21 @@ priority: 必读
 access: 仅笔记（版权书）
 source_url: https://theleanstartup.com/
 local_file: "library-raw/ries-lean-startup-principles-official.md ；library-raw/ries-minimum-viable-product-guide.md（辅助资料：官网原则页、作者 2009 年博客《Minimum Viable Product — a guide》）"
+source_level: 一手（官方节选/摘要）
+verified: 部分原文
+updated: 2026-10-20
 ---
 
 # The Lean Startup（精益创业）
 
 > 来源说明：版权书，未下载全书。笔记依据：对全书三部分 14 章的掌握；官网 theleanstartup.com/principles 的原则页；作者博客 Startup Lessons Learned 上的《Minimum Viable Product: a guide》（2009-08-03，MVP 定义的原始出处）。两份辅助资料已存私有目录。只标章节，不标页码。
 
-## 一句话
+## 30 秒读懂
 
-创业是在**极端不确定**的条件下做新产品，进展的单位不是"做出了多少东西"，而是**经过验证的学习**（validated learning）。用 **MVP** 尽快跑完"**构建—测量—学习**"循环，用**创新会计**判断该**转型（pivot）还是坚持**。
+- **一句话**：做新东西时不确定性极大，所以衡量进展的不是"做了多少功能"，而是"用真实用户行为验证了什么"。用最小可行产品（MVP）尽快跑完"做出来、测数据、学到东西"的循环，再决定坚持还是转向。
+- **举个例子**：Zappos 创始人一开始不囤货，只是去鞋店拍照放到网上，有人下单再去店里买来寄出，用最小代价验证"人们会不会在网上买鞋"（书中案例，细节以原书为准）。做游戏前先发一段玩法视频看有多少人加愿望单，也是同样的思路（示例）。
+- **什么时候用**：有一个新点子、想在花大量时间做之前先验证它时。
+- **可信度**：一手（官方节选/摘要）。书是版权书，未读原书；已读官网原则页和作者 2009 年 MVP 博文（私有保存），书中案例数字以原书为准。
 
 ## 核心论点
 

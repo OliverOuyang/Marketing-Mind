@@ -9,6 +9,9 @@ priority: 推荐
 access: 原文已下载（私有）
 source_url: https://andrewchen.com/the-law-of-shitty-clickthroughs/
 local_file: library-raw/andrew-chen-law-of-shitty-clickthroughs.md
+source_level: 一手
+verified: 已读原文
+updated: 2026-10-20
 ---
 
 # The Law of Shitty Clickthroughs（点击率必烂定律）
@@ -19,9 +22,12 @@ local_file: library-raw/andrew-chen-law-of-shitty-clickthroughs.md
 >
 > 搜索时发现作者网站上挂着一份整本书的 PDF，但书内明确写着版权保留，不能确认是有意公开，所以**没有保存**。
 
-## 一句话
+## 30 秒读懂
 
-"Over time, all marketing strategies result in shitty clickthrough rates." 任何营销渠道和手法，效果都会随时间**必然衰减**。真正的解法不是把旧渠道再优化 10%，而是**找到下一个还没人用的渠道**。
+- **一句话**：任何营销渠道，刚开始效果都好，用的人一多就会变差，这是规律不是你做错了。与其把旧渠道再优化一点，不如早点找到别人还没用的新渠道。
+- **举个例子**：1994 年 HotWired 上第一个横幅广告的点击率是 78%，到 2011 年 Facebook 横幅广告只有 0.05%（First it works... 一节）。同样，你在 50 人的同学群里发小游戏链接，第一次很多人点，第五次就没人理了（示例）。
+- **什么时候用**：复盘一个渠道"突然不灵了"、或者在决定下一步该把精力投到哪个新渠道时。
+- **可信度**：一手。博文原文已读（私有保存）；附录的《The Cold Start Problem》是版权书，只读了作者公开的 Introduction 预览，书目部分细节以原书为准。
 
 ## 核心论点
 

@@ -9,6 +9,9 @@ priority: 必读
 access: 仅笔记（版权书）
 source_url: https://jonahberger.com/books/contagious/
 local_file: ""
+source_level: 二手
+verified: 未读原文
+updated: 2026-10-20
 ---
 
 # Contagious（疯传）
@@ -17,13 +20,16 @@ local_file: ""
 >
 > Ch3 Emotion 的实证核心是 Berger & Milkman 2012 年的论文，本库有单独的笔记（`notes/05-channels-growth/berger-milkman-2012-what-makes-online-content-viral.md`），那篇论文的原文已私有下载。
 
-## 一句话
+## 30 秒读懂
 
-东西能"火"，不是靠运气、广告预算或少数 influencer，而是因为它具备 6 个让人**想谈、想分享**的特征，合起来叫 **STEPPS**：Social Currency、Triggers、Emotion、Public、Practical Value、Stories。口碑是可以设计的。
+- **一句话**：东西能火不是靠运气，而是因为它让人想聊、想转。Berger 总结了 6 个原因，合称 STEPPS：让分享者有面子、常被想起、能激起情绪、看得见、有用、有故事。
+- **举个例子**：费城一家餐厅推出 100 美元的芝士牛排三明治，贵得离谱，大家就忍不住谈论它（Introduction）。Hotmail 在每封邮件末尾加一句"来 Hotmail 注册免费邮箱"，用户每发一封信就替它做一次广告（Ch4 Public）。
+- **什么时候用**：写发布帖、设计分享机制，或者拆解一个爆款"为什么会被转发"时，用 STEPPS 逐项打分。
+- **可信度**：二手。版权书，未读原书；笔记依据对全书框架的掌握和作者官网介绍，案例按章节标注，细节以原书为准。其中 Emotion 一章的实证部分可以回查本库已读原文的 Berger & Milkman（2012）论文笔记。
 
 ## 核心论点
 
-1. **口碑比广告更有效，而且大部分发生在线下**（Introduction）。书里引用的研究说，只有约 7% 的口碑发生在网上，所以不能把"传播"简单等同于"社交媒体"。
+1. **口碑比广告更有效，而且大部分发生在线下**（Introduction）。书里引用的研究说，只有约 7% 的口碑发生在网上（书中数据来自口碑研究公司 Keller Fay Group，待核实原始报告），所以不能把"传播"简单等同于"社交媒体"。
    - Introduction 的开篇案例：费城餐厅 Barclay Prime 推出一款 **$100 的芝士牛排三明治**。它很贵、很荒诞，但值得一谈，于是人们口口相传。
 2. **Social Currency：人们分享让自己显得好的东西**（Ch1）。
    - 让人觉得"知道这件事说明我是圈内人"：纽约的隐藏酒吧 Please Don't Tell，入口藏在热狗店的电话亭里。

@@ -9,15 +9,21 @@ priority: 推荐
 access: 原文已下载（私有）
 source_url: https://www.ycombinator.com/library/LF-enterprise-sales-for-founders
 local_file: library-raw/koomen-enterprise-sales-for-founders.md
+source_level: 一手
+verified: 已读原文
+updated: 2026-10-20
 ---
 
 # Enterprise Sales for Founders（创始人的企业销售课）
 
 > 来源说明：YC Startup Library 免费视频，页面附完整逐字稿，已转文本存私有目录。视频约 22 分钟，章节时间戳：Intro 0:00、Prospecting 3:29、Outreach 5:15、Qualification 10:09、Pricing 15:00、Closing 18:13、Procurement 18:58、Implement 20:02。下文用这些章节定位。
 
-## 一句话
+## 30 秒读懂
 
-在找到 product-market fit 之前，**销售是创始人的工作，没法外包**。它不是心理战，而是"深入理解客户的问题并帮他解决"。按漏斗走：**假设 → 找人 → 触达 → 资格判断（多问少讲）→ 讲故事式演示 → 敢报高价 → 不被采购流程意外打断 → 把落地当成自己的项目**。
+- **一句话**：找到产品市场契合之前，销售只能创始人自己做。销售不是忽悠，而是先问清客户的问题、预算和谁拍板，再讲一个贴合他的方案，敢报高价，并负责到客户真正用起来。
+- **举个例子**：Optimizely 的联合创始人第一次鼓起勇气报价每月 1 万美元，客户砍到每月 2,000 美元后照样买了，Koomen 说他们的初始报价是对方愿付价格的 5 倍（Pricing）。
+- **什么时候用**：第一次向公司或机构卖产品或服务，包括准备第一次销售通话和报价时。
+- **可信度**：一手。YC Startup Library 免费视频和官方逐字稿已读（私有保存）。
 
 ## 核心论点
 

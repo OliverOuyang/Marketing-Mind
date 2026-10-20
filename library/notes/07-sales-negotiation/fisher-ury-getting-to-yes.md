@@ -9,15 +9,21 @@ priority: 必读
 access: 仅笔记（版权书）
 source_url: https://www.pon.harvard.edu/shop/getting-to-yes-negotiating-agreement-without-giving-in/
 local_file: library-raw/pon-what-is-batna.md ；library-raw/pon-batna-three-sources-of-power.md（辅助资料：哈佛法学院谈判项目 PON 官网免费文章）
+source_level: 一手（官方节选/摘要）
+verified: 部分原文
+updated: 2026-10-20
 ---
 
 # Getting to Yes（谈判力）
 
 > 来源说明：版权书，未下载全书。笔记依据：对全书结构和核心案例的掌握，以及 Harvard Program on Negotiation（PON）官网两篇免费文章（BATNA 的定义和"翻译 BATNA"、谈判的三种力量来源），已存私有目录。只标章节或部分，不标页码。
 
-## 一句话
+## 30 秒读懂
 
-不要在**立场**上讨价还价，要用**原则谈判**（principled negotiation）：**把人和问题分开、关注利益而非立场、为共同利益创造选项、坚持客观标准**；谈判力的底气来自你的 **BATNA**（谈不成时的最佳替代方案）。
+- **一句话**：谈判时别死守"我要多少"，要弄清双方"为什么想要"，一起想出更多方案，用公平的外部标准来定；你的底气来自谈不成时的最好退路（BATNA）。
+- **举个例子**：图书馆里两人为开窗吵架，一个要新鲜空气，一个怕风吹，管理员打开了隔壁房间的窗，两人都满意（第 3 章）。谈实习薪水时，手上另一个真实 offer 就是你的 BATNA，"我再找找"不算（示例）。
+- **什么时候用**：谈薪水、谈合作、谈价格，任何需要和别人达成协议的场合。
+- **可信度**：一手（官方节选/摘要）。书是版权书，未读原书；已读哈佛法学院谈判项目（PON）官网两篇免费文章（私有保存），书中案例细节以原书为准。
 
 ## 核心论点
 

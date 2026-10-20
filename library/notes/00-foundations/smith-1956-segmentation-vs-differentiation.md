@@ -9,21 +9,27 @@ priority: 选读
 access: 仅笔记（付费墙）
 source_url: https://journals.sagepub.com/doi/10.1177/002224295602100102
 local_file:
+source_level: 二手
+verified: 未读原文
+updated: 2026-10-20
 ---
 
 # Product Differentiation and Market Segmentation（Wendell Smith, 1956）
 
 > 资料说明：原文在 SAGE / JSTOR 付费墙后（SAGE 页面对本环境返回 403）；网上可见的副本在 academia.edu、Scribd 等用户上传站，无法确认授权，**未下载**。1956 年美国出版物是否已进入公版取决于版权是否续展，无法核实，故按版权文处理。本笔记基于对这篇 6 页短文的了解写成；第一条短引已与 SAGE/JSTOR 页面公开的原文片段核对；其余表述为广泛转引，使用时请注明"转引"。伯克利学生可经图书馆 JSTOR 免费读原文（6 页，强烈建议亲自读一遍）。
 
-## 一句话
+## 30 秒读懂
 
-面对**异质的市场需求**，企业有两条路：用推广把需求"掰"向自己的产品（**产品差异化**——让供给不动、改变需求），或者承认需求本来就分成好几块、调整产品去适应每一块（**市场细分**——让供给适应需求）；这是"细分"一词进入营销学的原点。
+- **一句话**：面对需求各不相同的顾客，企业有两条路：一是靠广告让大家相信"我的不一样"（差异化），二是承认顾客本来就分成好几类，为每一类调整产品（细分）。这篇 1956 年的短文让"市场细分"成了营销学的正式概念。
+- **举个例子**：同一个独立开发者推一款小游戏，可以只改宣传语，把同一个版本说成"最好玩的休闲游戏"投给所有平台（差异化）；也可以给通勤党做 3 分钟一局的版本、给硬核玩家加排行榜模式（细分）（示例）。
+- **什么时候用**：决定"改说法"还是"改产品"，或追溯 STP 里 Segmentation 的本意时。
+- **可信度**：二手。原文在付费墙后，未读全文；第一条短引已与出版方公开片段核对，其余依据对该文的了解和广泛转引，细节以原文为准。
 
 ## 核心论点
 
 1. **市场不是同质的。** 经济学的完全竞争假设需求同质；现实中顾客需求、偏好、用途各不相同——这是不完全竞争（imperfect competition）的常态。两种战略都建立在这一认识上。
 2. **产品差异化 = 让需求屈从于供给。** 原文："In its simplest terms, product differentiation is concerned with the bending of demand to the will of supply. It is an attempt to shift or to change the slope of the demand curve…"（已核对出版方公开片段）。手段主要是广告与促销，目的是让顾客认为"我的"和"别人的"不同，从而在一个宽市场上拿到一层更有保障的份额（Smith 的比喻：争取市场这块"蛋糕"上的一**层**）。
-3. **市场细分 = 让供给适应需求。** 细分"is based upon developments on the demand side of the market and represents a rational and more precise adjustment of product and marketing effort to consumer or user requirements"；即把一个异质市场看成若干个较小的、较同质的市场（蛋糕被切成若干**楔块**，在每块里做深）。
+3. **市场细分 = 让供给适应需求。** 细分"is based upon developments on the demand side of the market and represents a rational and more precise adjustment of product and marketing effort to consumer or user requirements"（待核实：广泛转引，未逐字核对原文）；即把一个异质市场看成若干个较小的、较同质的市场（蛋糕被切成若干**楔块**，在每块里做深）。
 4. **两者不是对错关系，而是可选、可组合的战略。** 很多成功企业同时用两种；问题是在什么条件下侧重哪一种。
 5. **为什么细分在 1950 年代变得更重要**（Smith 的判断）：许多行业的生产规模已经越过"最低有效规模"，再扩产的成本优势变小、可以负担较短的生产批次；消费者对产品差异更挑剔；营销研究能力提高、能识别细分需求；产品线扩张、渠道变化。——即：**当"大批量单一产品"的成本优势减弱时，按需求切分就更划算**。
 
@@ -47,7 +53,7 @@ local_file:
 ## 案例与数据
 
 - 本文是概念性短文（6 页），**没有实证数据或具体公司案例**；它的价值在于定义和区分。
-- 历史地位：被普遍视为"market segmentation"概念在营销文献中的首次系统表述，后被 Kotler 等教材吸收为 STP 中的 S；2006 年前后 Journal of Marketing 曾组织回顾其影响（作为学术史常识引用，未核对具体文献）。
+- 历史地位：被普遍视为"market segmentation"概念在营销文献中的首次系统表述，后被 Kotler 等教材吸收为 STP 中的 S；2006 年前后 Journal of Marketing 曾组织回顾其影响（作为学术史常识引用，未核对具体文献）（待核实）。
 
 ## 适用边界与常见误用
 
@@ -72,9 +78,9 @@ local_file:
 ## 原文短引
 
 1. "In its simplest terms, product differentiation is concerned with the bending of demand to the will of supply. It is an attempt to shift or to change the slope of the demand curve…"（Smith 1956, JM 21(1)；已与 SAGE / JSTOR 页面公开的原文片段核对）
-2. "[Segmentation] is based upon developments on the demand side of the market and represents a rational and more precise adjustment of product and marketing effort to consumer or user requirements"（同上；广泛转引的表述，未能逐字核对）
+2. "[Segmentation] is based upon developments on the demand side of the market and represents a rational and more precise adjustment of product and marketing effort to consumer or user requirements"（同上；广泛转引的表述，未能逐字核对）（待核实）
 
 ## 获取方式
 
-- SAGE（Journal of Marketing）：https://journals.sagepub.com/doi/10.1177/002224295602100102
+- SAGE（Journal of Marketing，DOI 10.1177/002224295602100102，出版方官方页；本环境访问被出版方反爬拦截返回 403）：https://journals.sagepub.com/doi/10.1177/002224295602100102
 - JSTOR：https://www.jstor.org/stable/1247695 （伯克利学生通过 UC Berkeley Library 登录免费读）

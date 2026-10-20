@@ -9,13 +9,19 @@ priority: 推荐
 access: 原文已下载（私有）
 source_url: https://www.firstround.com/review/how-superhuman-built-an-engine-to-find-product-market-fit
 local_file: library-raw/vohra-superhuman-product-market-fit.md
+source_level: 一手
+verified: 已读原文
+updated: 2026-10-20
 ---
 
 # How Superhuman Built an Engine to Find Product/Market Fit
 
-## 一句话
+## 30 秒读懂
 
-PMF 不必只靠"感觉"：问用户"如果再也不能用这个产品，你会有多失望？"，把"非常失望"的比例做成**领先指标**（≥40% 为门槛），再围绕这群人**细分—分析—排路线图—重复**，就能把 PMF 从 22% 推到 58%。
+- **一句话**：判断产品有没有找到市场，可以直接问用户："如果以后再也不能用了，你会有多失望？"选"非常失望"的人达到 40%，通常说明产品站住了；没到就围绕最爱它的那群人继续改。
+- **举个例子**：Superhuman 第一次测只有 22%。只看最爱它的那几类用户后升到 33%；之后一半精力强化用户最看重的"速度"，一半精力补移动端等短板，三个季度后升到 58%（First Round Review，2018）。
+- **什么时候用**：已经有一批真实用户，想决定下一步是加倍投入长处还是先补短板时。
+- **可信度**：一手。作者本人在 First Round Review 发表的原文，全文已读（存私有目录）。40% 门槛是 Sean Ellis 的经验基准，不是定律。
 
 ## 核心论点
 

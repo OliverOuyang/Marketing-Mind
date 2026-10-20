@@ -74,6 +74,19 @@
 - April Dunford《Obviously Awesome》：最实用的现代定位方法论，必读。
 - Geoffrey Moore《跨越鸿沟》（Crossing the Chasm）：定位陈述和"抢滩"思维，读第 3–6 章。
 
+### 资料库笔记
+
+每篇开头有"30 秒读懂"和可信度说明，出题和点评以笔记为准。全部资料见 [library/INDEX.md](../../library/INDEX.md)。
+
+- [定位对抗三类对手：群敌、巨头、幽灵](../../library/notes/02-positioning/dunford-hordes-giant-ghost.md)（April Dunford（Product Marketing Alliance 演讲整理稿））：客户买东西要过三关：先从一大堆差不多的选项里筛出短名单（群敌），再在短名单里和大牌比（巨头），最后还要战胜"算了，先不换"（幽灵）。每一关要用不同的打法。
+- [《显而易见的好》（暂无通行中译名）](../../library/notes/02-positioning/dunford-obviously-awesome.md)（April Dunford）：定位就是给产品搭一个"语境"：选对和谁比、属于哪一类，让目标客户一看就自动得出正确的判断。找定位的起点是问一句："如果没有我，客户会用什么？"
+- [蓝海战略](../../library/notes/02-positioning/kim-mauborgne-blue-ocean-strategy.md)（W. Chan Kim & Renée Mauborgne）：与其和对手在同样几项指标上拼刺刀，不如重新组合顾客看重的东西：砍掉一些、减少一些、加强一些、新创一些，同时压成本、提价值，开出一块暂时没人竞争的市场。
+- [《跨越鸿沟》](../../library/notes/02-positioning/moore-crossing-the-chasm.md)（Geoffrey A. Moore）：新产品从少数尝鲜者走向普通大众，中间有一道"鸿沟"，因为两群人买东西的理由完全不同。跨过去的办法是集中全部力量，先拿下一个很小但很具体的细分市场，在那里做到第一、提供完整方案，再一个个拿下相邻市场。
+- [什么是战略？](../../library/notes/02-positioning/porter-what-is-strategy.md)（Michael E. Porter）：比别人做得更好不等于有战略。战略是选择和对手不一样的做事方式，明确放弃一些东西，并让各项活动互相配合，使对手没法整套照抄。
+- [《定位：争夺用户心智的战争》](../../library/notes/02-positioning/ries-trout-positioning-battle-for-your-mind.md)（Al Ries & Jack Trout）：定位不是你对产品做了什么，而是你在潜在客户脑子里占了什么位置。信息太多的时代，只有极度简化的信息、加上心智里还空着的位置，才能打进去。这一点对个人求职同样成立。
+- [定位时代来临](../../library/notes/02-positioning/ries-trout-positioning-era-cometh.md)（Al Ries & Jack Trout）：在信息爆炸的社会里，广告靠的不是创意，而是在客户心里占一个和对手相对照的位置。还有一条铁律：不要正面硬拼已经站稳的领导者。
+- [彼得·蒂尔 CS183 第 4 课笔记：最后行动者优势（竞争是失败者的游戏）](../../library/notes/02-positioning/thiel-cs183-last-mover-advantage.md)（Blake Masters（记录 Peter Thiel 2012 年 4 月 11 日斯坦福课堂））：完全竞争的市场里谁都赚不到钱。更好的做法是先找一个小到你能独占的市场，做到最好，再向相邻市场扩张；同时要诚实估计自己的市场有多大、有多独特。
+
 ## 练习题
 
 1. **格子游戏**：列出 5 个品牌，写出它们在你心里占据的"格子"（一个词或短语）。再列 3 个你记不住的品牌，分析为什么没占住。
