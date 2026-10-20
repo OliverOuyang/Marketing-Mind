@@ -1,5 +1,11 @@
 # Marketing Mind · 营销思维训练场
 
+[![GitHub Stars](https://img.shields.io/github/stars/OliverOuyang/Marketing-Mind?style=flat-square&color=DAA520)](https://github.com/OliverOuyang/Marketing-Mind/stargazers)
+[![License: MIT](https://img.shields.io/badge/skill-MIT-green?style=flat-square)](LICENSE)
+[![Content: CC BY 4.0](https://img.shields.io/badge/content-CC%20BY%204.0-lightgrey?style=flat-square)](LICENSE-CONTENT)
+[![Agent Skills](https://img.shields.io/badge/Agent%20Skills-Standard-blueviolet?style=flat-square)](https://agentskills.io)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-ready-D97757?style=flat-square)](skills/marketing-mind/SKILL.md)
+
 > 【待补：首屏钩子一句。由 Oliver 写初稿，算模块 04 的练习；要求挂一个可验证的数字或事实】
 
 一个给独立开发者、学生和创作者用的营销训练场：**一个 Claude skill + 10 个模块的课程 + 70 多份带出处的精读笔记 + 真实爆款拆解**。它能直接帮你写发布帖、复盘长文、小红书图卡和视频脚本，也能当导师带你把营销练成本能。
@@ -123,7 +129,7 @@ Marketing-Mind/
 
 ## 作者
 
-Oliver Ouyang。自己做小游戏，作品做出来了却没人看；后来看到小王子和 BaiFu 的作品被大规模传播，决定把营销吃透，于是有了这个项目。完整心路见 [docs/origin-story.md](docs/origin-story.md)。
+[Oliver Ouyang](https://github.com/OliverOuyang)。自己做小游戏，作品做出来了却没人看；后来看到小王子和 BaiFu 的作品被大规模传播，决定把营销吃透，于是有了这个项目。完整心路见 [docs/origin-story.md](docs/origin-story.md)。
 
 【待补：各平台入口（公众号、小红书、X、B 站）】
 
