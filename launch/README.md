@@ -4,7 +4,7 @@ Marketing Mind 自己也要按自己教的方法发布。这里放发布用的�
 
 | 物料 | 平台 | 状态 | 位置 |
 |---|---|---|---|
-| README 首屏钩子 | GitHub | 待 Oliver 写初稿（模块 04 练习） | [README.md](../README.md) 第一行 |
+| README 首屏钩子 | GitHub | 已定：Oliver 写的"这也许是你用过最实用的营销 skill"（2026-10-20） | [README.md](../README.md) 第一行 |
 | 项目介绍长文（心路 + 方法 + 怎么用） | 公众号 / 知乎 | 待写，素材见 [docs/origin-story.md](../docs/origin-story.md) | `launch/article-zh.md` |
 | 发布推文串 | X（英文） | 待写 | `launch/x-thread-en.md` |
 | 小红书图卡 | 小红书 | 待写 | `launch/xhs-cards.md` |
