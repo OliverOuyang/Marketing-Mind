@@ -2,6 +2,11 @@
 
 （新条目追加在最上方）
 
+### [2026-10-20] 用产品口号给自己的成绩当包袱
+- 来源：[@mirofish_ai](https://x.com/mirofish_ai) 2026-03-07 登顶 GitHub Trending 当天
+- 原文：MiroFish: Predict Anything —— Including #1 on GitHub Trending.
+- 为什么打动我：社会证明和品牌口号用同一句话说完，读者记住成绩的同时也记住了"预测万物"。
+
 ### [2026-10-20] Auday 首发帖开头：反问 + 你已经拥有
 - 来源：[@auday_ai 首发帖](https://x.com/auday_ai/status/2106281145545719983)，约 210 万浏览；拆解见 [cases/2026-10-20-baifu-auday.md](../cases/2026-10-20-baifu-auday.md)
 - 原文：The best AI recording hardware? You may already own it.
