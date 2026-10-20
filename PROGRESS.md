@@ -29,7 +29,7 @@
 |---|---|---|
 | 练习记录（`practice/`） | 0 | 36 |
 | 案例拆解（`cases/`） | 1 | 20 |
-| 素材收集（`swipe-file/`） | 7 | 100 |
+| 素材收集（`swipe-file/`） | 10 | 100 |
 | 机会卡片（`opportunities/`） | 0 | 10 |
 | 真实对外行动 | 0 | 12 |
 
@@ -53,3 +53,4 @@
 - 2026-10-11 · 模块 03–09 内容补全，01 模块加入分阶段数据调研方法
 - 2026-10-20 · 案例拆解 · BaiFu × Auday 的发布打法（产品官号 vs 创始人长文），收 6 条素材 · [cases/2026-10-20-baifu-auday.md](cases/2026-10-20-baifu-auday.md)
 - 2026-10-20 · 案例补充 · 加入 MiroFish 与三项目共性打法，产出 BaiFu 营销思维画像和 baifu-lens 点评 Skill 草稿 · [cases/profiles/baifu.md](cases/profiles/baifu.md)
+- 2026-10-20 · 案例补充 · 加入 BaiFu 小红书（7 条笔记数据 + 《1K+ Star》原帖拆解），画像与 baifu-lens 同步更新
