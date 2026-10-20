@@ -28,8 +28,8 @@
 | 项目 | 数量 | 目标（前 3 个月） |
 |---|---|---|
 | 练习记录（`practice/`） | 1 | 36 |
-| 案例拆解（`cases/`） | 1 | 20 |
-| 素材收集（`swipe-file/`） | 10 | 100 |
+| 案例拆解（`cases/`） | 2 | 20 |
+| 素材收集（`swipe-file/`） | 16 | 100 |
 | 机会卡片（`opportunities/`） | 0 | 10 |
 | 真实对外行动 | 0 | 12 |
 
@@ -56,3 +56,4 @@
 - 2026-10-20 · 案例补充 · 加入 BaiFu 小红书（7 条笔记数据 + 《1K+ Star》原帖拆解），画像与 baifu-lens 同步更新
 - 2026-10-20 · 示范稿 · 用 baifu-lens 写 3 篇：demo-video 发布帖（中英）、research-crawler 复盘长文、Marketing-Mind 短视频脚本；Skill 据此补"先挖素材""没有大结果时"等规则 · [drafts/](drafts/README.md)
 - 2026-10-20 · 精读心得 · Oliver 读 BaiFu 文章 A 的心得，新发现"功能翻成情绪价值"等手法，已补进案例 3.7 和 baifu-lens · [practice/2026-10-20-读BaiFu文章心得.md](practice/2026-10-20-读BaiFu文章心得.md)
+- 2026-10-20 · 案例拆解 · Sac《小王子：星辰之旅》的发布周（预告定时、首小时转发链、第三天教程、赞助变现），附人物画像和给 Skill 的打法要点，收 6 条素材 · [cases/2026-10-20-sac-little-prince.md](cases/2026-10-20-sac-little-prince.md)
