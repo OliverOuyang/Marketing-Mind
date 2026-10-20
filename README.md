@@ -131,9 +131,9 @@ Marketing-Mind/
 
 [Oliver Ouyang](https://github.com/OliverOuyang)。自己做小游戏，作品做出来了却没人看，于是开始系统学营销；两天后小王子刷屏，后来又看到 BaiFu 的发布，决定把营销吃透，把学到的东西做成了这个项目。完整心路见 [docs/origin-story.md](docs/origin-story.md)。
 
-作者的猫猫小游戏开发日更在小红书 [Cypher.](https://www.xiaohongshu.com/user/profile/647307c6000000001100214d)，也在经营宠物用品独立站 [PawPlay](https://www.shoppawplay.com)。
+作者的猫猫小游戏开发日更在小红书 [Cypher.](https://www.xiaohongshu.com/user/profile/647307c6000000001100214d) 和 X [@cypher_dot](https://x.com/cypher_dot)，也在经营宠物用品独立站 [PawPlay](https://www.shoppawplay.com)。
 
-<!-- 【待补：X 链接；公众号、B 站有了再加】 -->
+<!-- 【待补：公众号、B 站有了再加】 -->
 
 [![Star History](https://api.star-history.com/svg?repos=OliverOuyang/Marketing-Mind&type=Date)](https://star-history.com/#OliverOuyang/Marketing-Mind&Date)
 
