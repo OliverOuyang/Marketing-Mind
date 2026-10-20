@@ -9,7 +9,7 @@
 | 镜头 | 适合 | 一句话 | 完整拆解 |
 |---|---|---|---|
 | [BaiFu](baifu.md) | 独立开发者的产品发布、开源项目、复盘长文 | 让作品先说话，用热故事认领，大口号挂硬数字 | [案例](https://github.com/OliverOuyang/Marketing-Mind/blob/main/cases/2026-10-20-baifu-auday.md) · [画像](https://github.com/OliverOuyang/Marketing-Mind/blob/main/cases/profiles/baifu.md) |
-| [Sac](sac.md) | 小游戏、Demo、视觉作品的首发，受众是同行 | 熟悉的题材 + 发布周日历 + 首小时转发名单 + 第三天发教程 | [案例](https://github.com/OliverOuyang/Marketing-Mind/blob/main/cases/2026-10-20-sac-little-prince.md) · [画像](https://github.com/OliverOuyang/Marketing-Mind/blob/main/cases/profiles/sac.md) |
+| [Sac](sac.md) | 小游戏、Demo、视觉作品的首发；做作品 + 分享方法的个人账号起号 | 借热选小赛道，几周一件作品并交出做法；发布是一周，首小时有人接力 | [案例](https://github.com/OliverOuyang/Marketing-Mind/blob/main/cases/2026-10-20-sac-little-prince.md) · [画像](https://github.com/OliverOuyang/Marketing-Mind/blob/main/cases/profiles/sac.md) |
 
 ## 怎么加一个新镜头
 
@@ -17,4 +17,4 @@
 2. 新建 `lenses/<人名>.md`，固定五节：**什么时候用这个镜头**、**核心打法（3–5 条，带出处代号）**、**表达特征**、**和通用结构的差异**（只写叠加或替换的部分）、**不适用的情况**。
 3. 在上表登记一行。
 
-镜头文件保持在 3 KB 左右，细节和证据留在画像里。
+镜头文件保持在 3–5 KB，细节和证据留在画像里。

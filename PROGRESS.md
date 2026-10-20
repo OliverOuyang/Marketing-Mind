@@ -59,3 +59,4 @@
 - 2026-10-20 · 精读心得 · Oliver 读 BaiFu 文章 A 的心得，新发现"功能翻成情绪价值"等手法，已补进案例 3.7 和 baifu-lens · [practice/2026-10-20-读BaiFu文章心得.md](practice/2026-10-20-读BaiFu文章心得.md)
 - 2026-10-20 · 案例拆解 · Sac《小王子：星辰之旅》的发布周（预告定时、首小时转发链、第三天教程、赞助变现），附人物画像和给 Skill 的打法要点，收 6 条素材 · [cases/2026-10-20-sac-little-prince.md](cases/2026-10-20-sac-little-prince.md)
 - 2026-10-20 · 开源准备 · skill 收成一个总 skill marketing-mind（原 baifu-lens 并入，BaiFu、Sac 两个案例镜头）；资料库 72 篇全部加"30 秒读懂"和来源等级，新增写作 5 篇、模块 09 实战 5 篇；课程事实核查改 19 处；加 README 首屏、双许可、一行安装、心路文档 · [docs/origin-story.md](docs/origin-story.md)
+- 2026-10-20 · 案例补充 · Sac 拆成完整人物：账号全史（3 月起号到小王子，四个阶段）、作品通用公式、变现路径；画像重写为 6 个心智模型 + 14 条启发式；Sac 镜头补全到可单独调用（写作/运营/视频规则） · [skills/marketing-mind/lenses/sac.md](skills/marketing-mind/lenses/sac.md)
