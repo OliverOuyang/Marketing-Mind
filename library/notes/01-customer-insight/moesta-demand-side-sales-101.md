@@ -9,15 +9,21 @@ priority: 推荐
 access: 仅笔记（版权书）
 source_url: https://jobstobedone.org/the-four-forces
 local_file: library-raw/moesta-forces-of-progress-talks.md
+source_level: 一手（官方节选/摘要）
+verified: 部分原文
+updated: 2026-10-20
 ---
 
 # Demand-Side Sales 101（Bob Moesta）
 
 > 资料说明：书为版权书，未下载；"书的核心框架"一节基于对该书的了解，只标章节主题不标页码。**四力模型、时间线、访谈技巧、案例与短引全部来自 Moesta & Spiek 官方免费资料**（jobstobedone.org 的 Four Forces 页、JTBD Radio "Unpacking the Progress Making Forces Diagram" 文字稿、Business of Software 2013 演讲 "Uncovering the Jobs to be Done" 文字稿），已存私有目录 `library-raw/moesta-forces-of-progress-talks.md`。Moesta 是 Christensen 奶昔案例与底特律公寓案例的实际研究者（BoS 讲者简介称他为"the milkshake guy"）。
 
-## 一句话
+## 30 秒读懂
 
-人不是被"卖"动的，而是在**推力 + 拉力 > 焦虑 + 习惯**时自己"切换"的；销售/营销的工作是帮对方取得进步——大多数时候不是加卖点，而是**拆掉焦虑和习惯**。
+- **一句话**：人不是被推销动的。当"对现状的不满 + 新方案的吸引"大过"对新东西的担心 + 旧习惯"时，人会自己换过去。所以推广的重点常常不是多加卖点，而是帮对方消除担心、降低换的麻烦。
+- **举个例子**：底特律公寓的样板房装修得太漂亮，买家反而担心"还得再花 3 万美元买家具才能住成这样"。开发商调整户型、在样板房里摆上 70 年代的笨重旧家具，让人看到自己的旧东西也放得下，销量提升 17%（JTBD Radio，Moesta 口述）。
+- **什么时候用**：分析"别人感兴趣却迟迟不行动"的原因，或设计降低试用门槛的动作时。
+- **可信度**：部分一手。版权书，未读原书；四力模型、案例和短引来自 Moesta 与 Spiek 的官方免费资料（演讲和电台文字稿，已读，存私有目录），书的框架基于对该书的了解。
 
 ## 核心论点
 

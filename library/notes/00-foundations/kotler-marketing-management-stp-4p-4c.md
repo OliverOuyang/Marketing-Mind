@@ -9,15 +9,21 @@ priority: 推荐
 access: 仅笔记（版权书）
 source_url: https://www.pearson.com/en-us/subject-catalog/p/marketing-management/P200000006325
 local_file:
+source_level: 二手
+verified: 未读原文
+updated: 2026-10-20
 ---
 
 # Marketing Management（STP / 4P）+ Lauterborn 4C
 
 > 资料说明：Kotler 教材为版权书，未下载；Lauterborn 原文刊于《Advertising Age》（Crain Communications）1990 年 10 月 1 日，未找到出版方授权的免费副本（网上流传的扫描件来源不明，未下载）。本笔记基于对教材与该文的了解；**教材各版本章号不同，故只写章节主题**（如 "Identifying Market Segments and Targets" "Crafting the Brand Positioning"）。模块 README 的建议是"只看 STP 和 4P 相关章节，当教科书查"。本笔记的定位就是"查表用的标准答案 + 导师判卷标准"。
 
-## 一句话
+## 30 秒读懂
 
-营销管理 = 先选**谁**（细分 Segmentation → 选择目标 Targeting），再决定在他们心里**占什么位置**（Positioning），最后用**营销组合**（4P：产品、价格、渠道、推广）把这个位置兑现；4C 提醒你把每个 P 换成买方视角再检查一遍。
+- **一句话**：做营销的基本顺序是：先把市场分成几类人，挑一类做目标，想好要在他们心里留下什么印象，再用产品、价格、渠道、推广这四个手段把印象做实。4C 提醒你再从买方的角度检查一遍。
+- **举个例子**：会剪视频的大学生不接"所有人"的单，只做"给小餐饮店拍 15 秒探店短视频，48 小时交付"：先细分（小商家）、再选目标（餐饮店）、再定位（快、懂探店），最后才定价格和接单渠道（示例，来自本仓库模块 README）。
+- **什么时候用**：把一个想法变成完整的推广计划，或检查计划有没有漏项时。
+- **可信度**：二手。教材与 Lauterborn 1990 原文都未读，依据对教材的通行了解和广泛引用的表述；教材各版章号不同，细节以原书为准。
 
 ## 核心论点
 
@@ -75,7 +81,7 @@ B2B 常加：行业、公司规模、采购方式、情境因素、个人特征�
 | Place | **Convenience to buy** | 想想顾客在哪里、怎么最方便买到 |
 | Promotion | **Communication** | 推广是单向操纵；沟通是双向对话 |
 
-（注：Lauterborn 的 4C 与 Shimizu Koichi 1973 年提出的另一套"4C"〔Commodity, Cost, Channel, Communication〕同名不同义，教学时注意区分。）
+（注：Lauterborn 的 4C 与 Shimizu Koichi 1973 年提出的另一套"4C"〔Commodity, Cost, Channel, Communication〕同名不同义，教学时注意区分。Shimizu 的提出年份与四个词依据二手转述（待核实）。）
 
 ### F. 教材后来的"现代 4P"（Kotler & Keller 新版本）
 

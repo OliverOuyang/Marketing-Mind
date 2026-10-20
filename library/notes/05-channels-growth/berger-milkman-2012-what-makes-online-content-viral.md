@@ -9,6 +9,9 @@ priority: 必读
 access: 原文已下载（私有）
 source_url: https://jonahberger.com/wp-content/uploads/2013/02/ViralityB.pdf
 local_file: library-raw/berger-milkman-2012-what-makes-online-content-viral.pdf
+source_level: 一手
+verified: 已读原文
+updated: 2026-10-20
 ---
 
 # What Makes Online Content Viral?（什么让网络内容疯传？）
@@ -17,9 +20,12 @@ local_file: library-raw/berger-milkman-2012-what-makes-online-content-viral.pdf
 >
 > 下文按论文结构标注出处：Study 1（NYT 实地数据）、Study 2a / 2b / 3（实验）、General Discussion。另有 **Figure 2**（各特征 +1SD 的效果）。这篇论文是 Berger 后来那本书《Contagious》里 STEPPS 中 **E（Emotion）** 和 **P（Practical Value）** 两项的实证基础。
 
-## 一句话
+## 30 秒读懂
 
-决定内容会不会被转发的，不只是正面还是负面，更关键的是**唤醒度**（arousal）。让人"激动起来"的情绪，包括敬畏、愤怒、焦虑，会让内容更容易被分享；让人"泄气"的情绪，比如悲伤，会让内容更少被分享。
+- **一句话**：内容会不会被转发，关键不在正面还是负面，而在于它能不能让人"激动起来"。敬畏、愤怒、焦虑让人更想转，悲伤让人更不想转。
+- **举个例子**：作者分析了 2008 年三个月里约 7,000 篇《纽约时报》文章：愤怒程度高一个标准差，进入"最多转发榜"的概率提高 34%；悲伤程度高一个标准差，概率下降 16%（Study 1，Figure 2）。
+- **什么时候用**：写标题、选内容角度时，判断这条内容属于高唤醒还是低唤醒情绪。
+- **可信度**：一手。同行评审论文（Journal of Marketing Research, 2012），作者主页 PDF 已读（私有保存），文中数字已与 PDF 核对。
 
 ## 核心论点
 

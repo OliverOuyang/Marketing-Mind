@@ -7,17 +7,23 @@ type: paper
 modules: ["03", "07"]
 priority: 推荐
 access: 原文已下载（私有）
-source_url: https://academic.oup.com/qje/article-abstract/118/1/73/1917051
+source_url: https://doi.org/10.1162/00335530360535153
 local_file: library-raw/ariely-loewenstein-prelec-2003-coherent-arbitrariness.pdf
+source_level: 一手
+verified: 已读原文
+updated: 2026-10-20
 ---
 
 # "Coherent Arbitrariness"（Ariely, Loewenstein & Prelec, 2003）
 
 > 资料说明：QJE 原刊为付费；本笔记所据 PDF 来自 MIT 神经经济学实验室（Prelec 所在实验室，nel.mit.edu）公开挂出的作者版本（34 页），已存私有目录。下文所有数字均出自该 PDF，按实验编号与表/图标注。这是《怪诞行为学》第 2 章"社保号实验"的学术原文。
 
-## 一句话
+## 30 秒读懂
 
-人们对一样东西"值多少钱"的**绝对水平**可以被一个毫不相关的数字（比如社保号尾数）任意拉高拉低，但一旦定下第一个价，之后对"多一点/少一点"的**相对判断**却非常有条理——于是市场看上去井然有序，背后的价格起点却可能是任意的。
+- **一句话**：一样东西"值多少钱"，人心里其实没数。第一个看到的数字，哪怕是社保号尾数这种毫不相关的数，就能把报价整体拉高或压低；但起点定下之后，"多一点就多付一点"的判断又很有条理。所以市场价格看着井然有序，起点却可能是随便来的。
+- **举个例子**：MIT 的 MBA 学生先回答"愿不愿意按自己社保号后两位的美元价格买下无线键盘"，再报真实愿付价。尾号最高的五分之一平均出价 55.64 美元，最低的五分之一只有 16.09 美元；但几乎所有人都认为键盘比轨迹球值钱（实验 1，表 I）。
+- **什么时候用**：给一个别人没有参照的新东西定价时，比如新服务的第一次报价、第一份实习薪资。
+- **可信度**：一手。QJE 期刊论文，依据作者实验室公开的作者版本 PDF，原文已读，数字按实验编号与表格标注。
 
 ## 核心论点
 
@@ -96,7 +102,7 @@ local_file: library-raw/ariely-loewenstein-prelec-2003-coherent-arbitrariness.pd
 
 ## 获取方式
 
-- QJE 原刊：https://academic.oup.com/qje/article-abstract/118/1/73/1917051
+- QJE 原刊（DOI）：https://doi.org/10.1162/00335530360535153 ；出版社页面：https://academic.oup.com/qje/article-abstract/118/1/73/1917051
 - 作者实验室公开版本（本笔记所据）：https://nel.mit.edu/wp-content/uploads/2016/10/20coherentarbcopy.pdf
 - 杜克大学学者页：https://scholars.duke.edu/display/pub859259
 - 通俗版：Ariely《怪诞行为学》第 2 章（见同目录笔记）

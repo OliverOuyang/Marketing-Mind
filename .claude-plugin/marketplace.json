@@ -1,0 +1,17 @@
+{
+  "name": "marketing-mind",
+  "owner": {
+    "name": "Oliver Ouyang"
+  },
+  "metadata": {
+    "description": "营销思维导师与内容搭档：学营销、拆案例、写发布内容、做运营和视频脚本"
+  },
+  "plugins": [
+    {
+      "name": "marketing-mind",
+      "source": "./",
+      "description": "一个 skill 覆盖学、拆、做：导师带练、案例拆解、发布帖/长文/图卡写作、运营计划、视频脚本、机会评估",
+      "version": "1.0.0"
+    }
+  ]
+}

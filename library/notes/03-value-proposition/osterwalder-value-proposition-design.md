@@ -9,15 +9,21 @@ priority: 必读
 access: 仅笔记（版权书）
 source_url: https://www.strategyzer.com/library/value-proposition-design-2
 local_file: library-raw/strategyzer-vpc-5-common-mistakes.md
+source_level: 一手（官方节选/摘要）
+verified: 部分原文
+updated: 2026-10-20
 ---
 
 # Value Proposition Design（Osterwalder 等）
 
 > 资料说明：书为版权书，未下载。**关于"官方免费 VPC PDF 是 CC BY-SA"的核实结果**：Strategyzer 的 Business Model Canvas 早年确以 CC BY-SA 3.0 发布，但 **Value Proposition Canvas 模板 PDF 标注的是"Copyright Business Model Foundry AG"**（已核对匹兹堡大学创新中心网站转载的官方模板 PDF 页脚，未存），官网称"免费下载并与团队分享"，但没有开放协议——因此**不能放进公开仓库的 texts/**，只给官方下载链接。辅助资料：Strategyzer 官方博客"5 common mistakes to avoid when using the Value Proposition Canvas"（Benson Garner，2015，书的合著团队成员），原文已读，标【博】。书中内容按章节结构记述，不注页码。
 
-## 一句话
+## 30 秒读懂
 
-价值主张设计 = 先**只观察**客户（任务、痛点、收益），再**设计**你的产品如何缓解痛点、创造收益，最后**用证据检验契合**——而不是从你的产品出发去想象客户需要它。
+- **一句话**：先老老实实观察客户要完成什么事、被什么困扰、想得到什么，再设计你的产品怎么帮他，最后拿证据检验两边是否真的对得上。不要从"我的产品有什么功能"出发，去想象客户需要它。
+- **举个例子**：Strategyzer 官方博客列出的常见错误之一，是"透过自己产品的镜头写客户"，只写自己能解决的痛点（Garner 2015，错误 #3）。比如做选课小工具的学生只问"想不想要课表导出"，却没发现同学真正头疼的是抢不到课（示例）。
+- **什么时候用**：做新产品、改版，或者写自我介绍、简历之前，先搞清楚对方到底要什么。
+- **可信度**：一手（官方节选/摘要）。书为版权书，未读原书；依据 Strategyzer 官网 VPC 页面与官方博客原文（已读），书中细节以原书为准。
 
 ## 核心论点
 

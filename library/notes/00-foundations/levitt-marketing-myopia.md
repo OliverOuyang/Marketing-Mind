@@ -9,15 +9,21 @@ priority: 必读
 access: 原文已下载（私有）
 source_url: https://hbr.org/2004/07/marketing-myopia
 local_file: library-raw/levitt-marketing-myopia.pdf
+source_level: 一手
+verified: 已读原文
+updated: 2026-10-20
 ---
 
 # Marketing Myopia（营销短视症）
 
 > 原文来源说明：HBR 官网为付费墙；本笔记所据全文为沙特国王大学（King Saud University）教师课程页公开挂出的 HBR 2004 重印版 PDF（faculty.ksu.edu.sa），已存私有目录。下文所有案例、数字、短引均出自该 PDF（共 15 页，页码按 PDF 页脚 page 1–14 标注）。
 
-## 一句话
+## 30 秒读懂
 
-企业（和人）停止增长，几乎从来不是因为市场饱和，而是因为**把自己的生意定义成"我做的东西"而不是"我满足的需要"**——铁路以为自己在做铁路，不知道自己在做运输。
+- **一句话**：生意停止增长，通常不是因为市场饱和，而是因为你把自己定义成"我做的东西"，而不是"我满足的需要"。铁路公司以为自己在做铁路，没意识到自己做的是运输，于是眼看着汽车和飞机把客人拿走。
+- **举个例子**：Levitt 说，人们其实不是在买汽油，而是在买"继续开车的权利"（p.9）；干洗店最大的威胁也不是更好的干洗店，而是根本不需要干洗的合成纤维（p.3）。
+- **什么时候用**：判断"我的竞争对手到底是谁"，或项目增长停滞、想找原因时。
+- **可信度**：一手。HBR 2004 重印版全文已读（大学课程页公开的 PDF，存私有目录），页码按 PDF 页脚标注。
 
 ## 核心论点
 
@@ -28,7 +34,7 @@ local_file: library-raw/levitt-marketing-myopia.pdf
    - ② 相信自家主产品没有竞争替代品（Idea of Indispensability）；
    - ③ 过度迷信大规模生产和单位成本下降（Production Pressures）；
    - ④ 沉迷于便于做受控实验、改良和降本的产品本身（Dangers of R&D）。
-4. **销售 ≠ 营销。** "Selling focuses on the needs of the seller, marketing on the needs of the buyer."（p.6）销售关心把产品变成现金；营销关心用产品以及"创造、交付、最终消费它的整套东西"去满足顾客（p.6）。真正营销导向的公司，卖什么由买方决定，"the product becomes a consequence of the marketing effort, not vice versa"（p.6）。
+4. **销售 ≠ 营销。** "Selling focuses on the needs of the seller, marketing on the needs of the buyer."（p.7）销售关心把产品变成现金；营销关心用产品以及"创造、交付、最终消费它的整套东西"去满足顾客（p.7）。真正营销导向的公司，卖什么由买方决定，"the product becomes a consequence of the marketing effort, not vice versa"（p.7）。
 5. **行业应从顾客需要向后倒推。** 行业的起点是顾客及其需要，然后才是交付、制造，最后才是找原材料；石油业却把自己定义为"从找油开始、到炼厂分销结束"，恰好反过来（p.11–12，"The Beginning and End"）。
 6. **要愿意自我毁灭（creative destruction）。** 石油公司必须抢在别人之前开发燃料电池、电池、太阳能，哪怕这会杀死现有产品线，否则就会成为"companies without an industry"（p.9）。
 
@@ -57,7 +63,7 @@ local_file: library-raw/levitt-marketing-myopia.pdf
 顾客需要 → 交付满足的方式 → 创造满足所需的东西 → 制造方式 → 原材料。
 用法：让学生先写自己的"正向链"（我有什么技能 → 做什么 → 卖给谁），再强制倒着写一遍。
 
-### D. 营销 vs 销售对照表（p.6、p.12）
+### D. 营销 vs 销售对照表（p.7、p.12）
 
 | 销售 | 营销 |
 |---|---|
@@ -67,14 +73,14 @@ local_file: library-raw/levitt-marketing-myopia.pdf
 
 ## 案例与数据
 
-- **铁路**：运输需求增长，但被汽车、卡车、飞机、电话拿走；原因是"railroad oriented instead of transportation oriented"（p.1–2）。约 60 年前铁路是华尔街最爱，30 年后"flat on their backs, broke, and pleading for government subsidies"（p.13）。
+- **铁路**：运输需求增长，但被汽车、卡车、飞机、电话拿走；原因是"railroad oriented instead of transportation oriented"（p.1–2）。Levitt 写道：如果 60 年前有人告诉铁路大亨，30 年后他们会"flat on their backs, broke, and pleading for government subsidies"，他们会觉得对方疯了（p.12）。
 - **好莱坞 vs 电视**：把自己当"电影业"，把电视当威胁而非扩大娱乐业的机会；最后救好莱坞的是在电视圈成功的新一代编剧导演（p.2）。
 - **反例：杜邦（尼龙）、康宁（玻璃）、Kaiser 与 Reynolds（铝）**：技术强不是关键，关键是持续寻找"customer-satisfying uses"（p.2）。
 - **干洗业**：竞争不是来自更好的干洗，而是合成纤维和化学添加剂减少了干洗需要（p.3）——典型"跨品类替代"。
 - **杂货连锁 vs 超市**：第一家真正的超市 1930 年开在长岛 Jamaica；老连锁称其"cheapy""horse-and-buggy"；1936 年行业协会仍说不用怕；最后"They kept their pride but lost their shirts."（p.3）。
 - **石油业的"侥幸史"**：专利药 → 煤油灯（被爱迪生电灯威胁）→ 取暖炉（被燃煤中央供暖淘汰）→ 内燃机（外人发明）→ 中央燃油供暖 → 天然气（石油公司自己拥有气，却反对；由出走的管道高管创办输气公司做成）（p.5–6）。1950 年各公司预测国内年增长约 6% 到 1975 年；储采比 1952 年中东发现后从约 20:1 跳到 42:1（p.6）。
-- **底特律**：每年花数百万做消费者研究，却被小型车打了个措手不及——因为它"only researched their preferences between the kinds of things it had already decided to offer them"（p.7）。雪佛兰 7,000 家经销商里只有 57 家提供夜间维修（p.7）。→ 这是"问错问题的调研"的经典例子，直接连到 01 模块 Mom Test。
-- **福特**：真正的天才是营销而非生产——他先认定 $500 能卖几百万辆车，然后为此发明流水线；"Mass production was the result, not the cause, of his low prices."（p.7）。附福特自述"先降价、再逼成本下来"（p.7）。
+- **底特律**：每年花数百万做消费者研究，却被小型车打了个措手不及——因为它"only researched their preferences between the kinds of things it had already decided to offer them"（p.7）。雪佛兰 7,000 家经销商里只有 57 家提供夜间维修（p.8）。→ 这是"问错问题的调研"的经典例子，直接连到 01 模块 Mom Test。
+- **福特**：真正的天才是营销而非生产——他先认定 $500 能卖几百万辆车，然后为此发明流水线；"Mass production was the result, not the cause, of his low prices."（p.8）。附福特自述"先降价、再逼成本下来"（p.8）。
 - **加油站**："People actually do not buy gasoline… What they buy is the right to continue driving their cars."加油站像收税员，只能变得"不那么讨人厌"（p.9–10）。
 - **石油业刊物**：1959 年 API Quarterly 百年特刊 21 篇文章只有 1 篇谈营销（还只是加油站建筑图片）；"电子化的革命潜力"系列列出勘探、生产、炼化、管道四块，唯独没有营销（p.11）。
 
@@ -102,7 +108,7 @@ local_file: library-raw/levitt-marketing-myopia.pdf
 
 ## 原文短引
 
-1. "Selling focuses on the needs of the seller, marketing on the needs of the buyer."（p.6, "Production Pressures"）
+1. "Selling focuses on the needs of the seller, marketing on the needs of the buyer."（p.7, "Production Pressures"）
 2. "People actually do not buy gasoline… What they buy is the right to continue driving their cars."（p.9, "Creative Destruction"）
 3. "In truth, there is no such thing as a growth industry, I believe. There are only companies organized and operated to create and capitalize on growth opportunities."（p.4）
 

@@ -7,17 +7,23 @@ type: paper
 modules: ["03", "04"]
 priority: 选读
 access: 原文已下载（私有）
-source_url: https://erationality.media.mit.edu/papers/dan/eRational/Context%20effects/ade.pdf
+source_url: https://doi.org/10.1006/obhd.1995.1075
 local_file: library-raw/ariely-wallsten-1995-asymmetric-dominance.pdf
+source_level: 一手
+verified: 已读原文
+updated: 2026-10-20
 ---
 
 # Seeking Subjective Dominance（Ariely & Wallsten, 1995）——诱饵效应的原理
 
 > 资料说明：诱饵效应的开山论文是 Huber, Payne & Puto (1982) "Adding Asymmetrically Dominated Alternatives"（Journal of Consumer Research 9:90–98），**付费墙，未找到作者或大学合法开放副本**（网上只有 ResearchGate/Scribd 上传件，未采用）。本篇改用 Ariely 本人在 MIT 媒体实验室网站公开的这篇论文（10 页，已存私有目录）：它复述了 Huber 等人的范式与一个微波炉实验，并用三个实验检验"为什么会有诱饵效应"。下文数据均出自该 PDF。
 
-## 一句话
+## 30 秒读懂
 
-当两个选项难以取舍时，人会主动**重构选择空间、寻找"主观占优"**——加入一个"明显不如 A、但和 A 很像"的诱饵 A'，就给了人一个轻松选 A 的理由，并且会**提高诱饵所差的那个维度在决策中的权重**。
+- **一句话**：两个选项各有优劣、难以取舍时，再加一个"跟 A 很像但明显差一点"的选项，人就会更多地选 A。这个陪衬选项几乎没人要，但它给了人一个轻松选 A 的理由，这就是诱饵效应。
+- **举个例子**：只有微波炉 A（贵、质量好）和 B（便宜、质量一般）时，40% 的人选 A；加入一个和 A 差不多但更贵的 A' 后，选 A 的人升到 56%，选 A' 的只有 8%（论文引言，Ariely & Hayout 1991 的实验）。
+- **什么时候用**：设计两三个价格档位、希望客户更容易选中某一档时；也用来识别别人对你用的诱饵。
+- **可信度**：一手。期刊论文，依据 Ariely 在 MIT 网站公开的论文 PDF，原文已读；注意论文 5 类商品中只有 3 类效应显著。
 
 ## 核心论点
 
@@ -88,6 +94,6 @@ local_file: library-raw/ariely-wallsten-1995-asymmetric-dominance.pdf
 
 ## 获取方式
 
-- 作者公开版本（本笔记所据，MIT Media Lab eRationality 页面）：https://erationality.media.mit.edu/papers/dan/eRational/Context%20effects/ade.pdf
-- 原刊：Organizational Behavior and Human Decision Processes, 1995, 63(3), 223–232
+- 原刊（DOI，Elsevier）：https://doi.org/10.1006/obhd.1995.1075 ；Organizational Behavior and Human Decision Processes, 1995, 63(3), 223–232
+- 作者公开版本（本笔记所据，MIT Media Lab eRationality 页面；2026-10-20 复查时连接超时，可能已下线）：https://erationality.media.mit.edu/papers/dan/eRational/Context%20effects/ade.pdf
 - 开山论文（付费墙）：Huber, Payne & Puto (1982), Journal of Consumer Research 9(1):90–98，https://academic.oup.com/jcr/article-abstract/9/1/90/1839380

@@ -9,15 +9,21 @@ priority: 必读
 access: 原文已下载（私有）
 source_url: https://pmarchive.com/guide_to_startups_part4.html
 local_file: library-raw/andreessen-the-only-thing-that-matters.md
+source_level: 一手
+verified: 已读原文
+updated: 2026-10-20
 ---
 
 # The only thing that matters（唯一重要的事）
 
 > 来源说明：Andreessen 2007 年的博客早已下线，现由 Fictive Kin 维护的静态存档 pmarchive.com 免费提供，已转文本存私有目录。全文约 2,100 词，下文按论证顺序（定义 → 论点 → 三个追问 → PMF）定位。
 
-## 一句话
+## 30 秒读懂
 
-决定创业成败的三要素（团队、产品、市场）里，**市场最重要**；所以对创业公司来说，**唯一重要的事是达到产品—市场契合（product/market fit）**：处在一个好市场里，有一个能满足这个市场的产品。
+- **一句话**：团队、产品、市场三者里，市场最重要。在一个很多人迫切需要的市场里，粗糙的产品也会被抢着用；在没人要的市场里，再好的团队也会失败。所以早期唯一重要的事是做到产品市场契合（PMF）。
+- **举个例子**：Andreessen 举的反例是"给一个没人用的操作系统做世界上最好的软件"，比如 BeOS、NeXT 上的应用：产品再好，市场不存在也没用（定义部分）。
+- **什么时候用**：判断一个项目值不值得继续做，或者纠结该先改产品、换人还是换目标用户时。
+- **可信度**：一手。作者 2007 年博文的存档版 pmarchive.com 免费全文已读（私有保存）。
 
 ## 核心论点
 

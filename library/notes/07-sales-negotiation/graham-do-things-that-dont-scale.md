@@ -9,15 +9,21 @@ priority: 必读
 access: 原文已下载（私有）
 source_url: https://paulgraham.com/ds.html
 local_file: library-raw/graham-do-things-that-dont-scale.md
+source_level: 一手
+verified: 已读原文
+updated: 2026-10-20
 ---
 
 # Do Things that Don't Scale（做那些不可规模化的事）
 
 > 来源说明：Paul Graham 个人网站免费全文，已转文本存私有目录。原文按小标题分节：Recruit / Fragile / Delight / Experience / Fire / Meraki / Consult / Manual / Big / Vector，外加 12 条注释。下文用这些小标题定位。
 
-## 一句话
+## 30 秒读懂
 
-创业公司不会自己"起飞"，是**创始人让它起飞的**：一开始就要**亲手一个个地拉用户**，并且**过分地取悦他们**。这些事无法规模化，但正是它们发动了引擎。
+- **一句话**：创业公司不会自己火起来。一开始要亲手一个一个地拉用户，并且对他们好到夸张，这些事没法规模化，但正是它们让项目转起来。
+- **举个例子**：Stripe 的创始人遇到说"可以试试"的人，不发链接，而是说"把电脑给我"，当场帮对方装好（Recruit）。Wufoo 给每个新用户寄手写感谢卡（Delight）。
+- **什么时候用**：项目刚起步、用户很少，又觉得"一个个找人太慢"的时候。
+- **可信度**：一手。作者个人网站免费全文已读（私有保存）。
 
 ## 核心论点
 

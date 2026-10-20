@@ -9,15 +9,21 @@ priority: 必读
 access: 全文（仓库）
 source_url: https://archive.org/details/scientific-advertising
 local_file: library/texts/scientific-advertising.md
+source_level: 一手
+verified: 已读原文
+updated: 2026-10-20
 ---
 
 # Scientific Advertising（科学的广告）
 
 > 来源说明：全文在 `library/texts/scientific-advertising.md`。底本是 Internet Archive 上 Carl Galletti 的转录本（"The Original Text"），共 21 章，每章一个 `## Chapter N` 标题。下文的"Ch N"就指这些章节。该书 1923 年在美国出版，2019-01-01 起在美国进入公有领域。作者卒于 1932 年，所以在"作者终身 + 70 年"的法域同样是公有领域。
 
-## 一句话
+## 30 秒读懂
 
-广告就是**印在纸上的推销员**：它只有一个目的，就是卖出东西。用**可追踪的回应**（coupon、keyed ad）去测试每一个标题、每一种诉求，让数据而不是品味来做决定。
+- **一句话**：广告就是印在纸上的推销员，唯一的目的是卖出东西。用能追踪回应的办法（优惠券、给每个广告编号）去测试每个标题和卖点，让数据而不是个人品味来做决定。
+- **举个例子**：同样卖一件 5 美元的商品，三个广告的每次回复成本分别是 85 美分、14.20 美元和 41 美分；不给广告编号追踪，就不知道自己在哪一版上白花钱（Ch4）。
+- **什么时候用**：写任何需要带来行动的文案，比如落地页、推广帖、邮件，以及想知道"哪一版更好"时。
+- **可信度**：一手。1923 年原著，已进入美国公有领域，全文在仓库 `library/texts/scientific-advertising.md`，原文已读。
 
 ## 核心论点
 
@@ -87,7 +93,7 @@ local_file: library/texts/scientific-advertising.md
 - 正面广告的回应是负面广告的 4 倍："Tell people what to do, not what to avoid."
 
 **测试广告有没有人读（Ch21）**
-- 有个广告主每年花 $700,000，却不知道广告有没有用。Hopkins 在一则广告里写"读到这句话的人来领 $5"，用来测试有多少人读到了。
+- 有个广告主每年花 $700,000，却不知道广告有没有用。Hopkins 回答说一周内就能证明它不赚钱：在广告末尾承诺给每个来信说自己读完了这则广告的人 $5，回信之少会让他吃惊。这是 Hopkins 提出的测试办法，原文没说对方实际做了。
 
 ## 适用边界与常见误用
 

@@ -9,15 +9,21 @@ priority: 必读
 access: 原文已下载（私有）
 source_url: https://ries.com/about/positioning-articles
 local_file: library-raw/ries-trout-positioning-era-cometh.md
+source_level: 一手
+verified: 已读原文
+updated: 2026-10-20
 ---
 
 # The Positioning Era Cometh（Ries & Trout, 1972）
 
 > 资料说明：1972 年 4–5 月刊登于 Advertising Age 的三篇系列文章，是"定位"概念的出生证，也是 1981 年《定位》一书的底稿。全文由 Ries 公司官网（ries.com）官方重刊，免费可读；已存私有目录（约 8,500 词）。下文案例与短引均出自该全文，按原文小标题标注位置。
 
-## 一句话
+## 30 秒读懂
 
-在一个"信息过度传播的社会"（over-communicated society）里，广告不再靠创意和功能取胜，而是要**在潜在客户心智中占据一个位置——这个位置必须和竞争对手的位置相对照来定义**，而且"永远不要正面攻击一个已经牢固占位的领导者"。
+- **一句话**：在信息爆炸的社会里，广告靠的不是创意，而是在客户心里占一个和对手相对照的位置。还有一条铁律：不要正面硬拼已经站稳的领导者。
+- **举个例子**：Avis 租车连续 13 年亏损，后来公开承认"我们只是第二"，从此年年盈利。它没有去抢 Hertz 的第一，而是把自己定义在 Hertz 旁边，占住了"第二"这个位置（"Avis Took 'Against' Position"）。
+- **什么时候用**：决定拿谁做参照来介绍自己，或判断某个位置是否已被别人牢牢占住时。
+- **可信度**：一手。Ries 公司官网官方重刊的 1972 年三篇原文，全文已读（存私有目录）。
 
 ## 核心论点
 

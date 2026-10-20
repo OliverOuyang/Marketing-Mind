@@ -1,6 +1,6 @@
 # drafts/ · 待发布的稿子
 
-用 [baifu-lens](../skills/baifu-lens/SKILL.md) 为 Oliver 自己的真实作品写的稿子。每篇末尾都有五镜头自检、最弱的地方、待补素材清单和下一步。正文里的 `【待补：…】` 是必须由 Oliver 补上的真实素材，补齐之前不要发。
+用 baifu-lens（现已并入总 skill [marketing-mind](../skills/marketing-mind/SKILL.md) 的写作模式 + [BaiFu 镜头](../skills/marketing-mind/lenses/baifu.md)）为 Oliver 自己的真实作品写的稿子。每篇末尾都有五个检验自检、最弱的地方、待补素材清单和下一步。正文里的 `【待补：…】` 是必须由 Oliver 补上的真实素材，补齐之前不要发。
 
 | 文件 | 体裁 | 推的对象 | 平台 | 状态 |
 |---|---|---|---|---|

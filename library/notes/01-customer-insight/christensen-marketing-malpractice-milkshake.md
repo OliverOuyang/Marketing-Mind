@@ -9,15 +9,21 @@ priority: 必读
 access: 原文已下载（私有）
 source_url: https://www.library.hbs.edu/working-knowledge/clay-christensens-milkshake-marketing
 local_file: library-raw/hbswk-christensen-milkshake-marketing.md
+source_level: 一手（官方节选/摘要）
+verified: 部分原文
+updated: 2026-10-20
 ---
 
 # Marketing Malpractice + Milkshake Marketing（奶昔案例）
 
 > 原文来源说明：HBR 2005 原文（https://hbr.org/2005/12/marketing-malpractice-the-cause-and-the-cure）在付费墙后；网上流传的 PDF 均为非授权转载（律所、个人博客），未下载。本笔记的案例细节与短引**全部取自 HBS 官方 Working Knowledge 2011 年免费报道**（作者 Carmen Nobel，内含 Christensen 采访与对其教学笔记的引用），已存私有目录。关于 2005 原文结构的描述基于对该文的了解，标注为"原文结构"，不给页码。
 
-## 一句话
+## 30 秒读懂
 
-按"产品类别"或"人口统计"切市场是在研究**相关性**；真正导致购买的是**一个待完成的 job**——所以细分的基本单位应该是 job，而不是人或产品。
+- **一句话**：按产品类别或人口特征切市场，找到的只是"相关"；真正让人掏钱的，是他想完成的一件事（job）。所以细分市场应该按 job 来切。
+- **举个例子**：一家快餐连锁发现，40% 的奶昔是清晨卖给开车上班的人。他们要的是能单手拿、能撑到中午、让漫长通勤不那么无聊的东西，所以奶昔真正的对手是贝果和甜甜圈，不是别家的奶昔（HBS Working Knowledge，2011）。
+- **什么时候用**：问卷问不出结果、需要换个角度理解"人为什么买"时。
+- **可信度**：部分一手。HBR 2005 原文在付费墙后未读；案例和短引全部出自 HBS 官方 Working Knowledge 2011 年报道（含 Christensen 采访和教学笔记引文，已读）。奶昔故事是教学版本，没有公开的严格数据。
 
 ## 核心论点
 

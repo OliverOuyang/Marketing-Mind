@@ -4,7 +4,7 @@
 >
 > **材料范围**：只用他本人公开发表的内容（公众号文章、X 帖子、项目 README、App Store 商店页）和公开报道。不收集、不推测任何私人信息。截止 2026-10-20。
 >
-> **怎么用**：配合案例拆解 [cases/2026-10-20-baifu-auday.md](../2026-10-20-baifu-auday.md) 读；对应的点评用 Skill 草稿在 [skills/baifu-lens/SKILL.md](../../skills/baifu-lens/SKILL.md)。
+> **怎么用**：配合案例拆解 [cases/2026-10-20-baifu-auday.md](../2026-10-20-baifu-auday.md) 读；浓缩成可调用规则的版本是总 skill 里的 [BaiFu 镜头](../../skills/marketing-mind/lenses/baifu.md)（原 baifu-lens，2026-10-20 并入 [marketing-mind](../../skills/marketing-mind/SKILL.md)）。
 
 ## 来源代号
 

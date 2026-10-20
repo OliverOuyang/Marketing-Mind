@@ -9,15 +9,21 @@ priority: 必读
 access: 仅笔记（版权书）
 source_url: https://www.blackswanltd.com/never-split-the-difference
 local_file: library-raw/blackswan-accusation-audits-not-confessions.md（辅助资料：Voss 公司 Black Swan Group 官方 newsletter 关于 Accusation Audit 的文章）
+source_level: 一手（官方节选/摘要）
+verified: 部分原文
+updated: 2026-10-20
 ---
 
 # Never Split the Difference（掌控谈话）
 
 > 来源说明：版权书，未下载全书。笔记依据：对全书十章内容的掌握，以及 Voss 所在的 Black Swan Group 官网免费文章《Why Accusation Audits® are not confessions》（已存私有目录）。只标章节，不标页码。
 
-## 一句话
+## 30 秒读懂
 
-谈判不是逻辑辩论，而是**处理情绪、获取信息**。用**战术共情**（tactical empathy）让对方感到被理解，直到他说出"**你说得对（That's right）**"；再用"**怎么/什么**"开头的**校准式问题**，让对方自己去解决你的问题。
+- **一句话**：谈判主要是处理情绪和获取信息，不是讲道理比输赢。先让对方觉得被理解，听到他说"就是这样"，再用"怎么""什么"开头的问题，让对方自己去想办法解决你的难题。
+- **举个例子**：面对不合理要求，Voss 常用一句"我该怎么做到这一点？"，既礼貌地拒绝，又把问题交还给对方（第 7 章）。谈实习薪水时，对方说"预算就这么多"，可以先回一句"听起来你们预算卡得很紧"，再问"在这个预算下，还有哪些地方可以调整？"（示例）。
+- **什么时候用**：对方情绪激动、立场强硬，或者你处在弱势、需要多拿信息的谈话里。
+- **可信度**：一手（官方节选/摘要）。书是版权书，未读原书；已读作者公司 Black Swan Group 的官方 newsletter 文章（私有保存），书中案例和数字以原书为准。
 
 ## 核心论点
 
@@ -86,7 +92,7 @@ local_file: library-raw/blackswan-accusation-audits-not-confessions.md（辅助�
 - **海地绑架案**（第 1 章）：绑匪要求赎金，Voss 方用"How am I supposed to do that?"之类的校准式问题，让绑匪自己去解决"怎么拿到钱"的问题，赎金被大幅压低。
 - **哈佛谈判课**（第 1 章）：Voss 以 FBI 谈判员身份参加哈佛法学院的谈判课程，用"怎么/什么"问题和共情，在模拟谈判中胜过受过理性谈判训练的学生和教授。这是他"情绪优先"论点的开场故事。
 - **1993 年布鲁克林大通银行劫持案**（第 2 章）：用镜像和深夜 DJ 声音拖住劫匪、获取信息。
-- **餐厅服务员实验**（第 2 章，引 Rick van Baaren 的研究）：一字不差地重复顾客的点单（镜像）比只说"好的"拿到的小费明显更多（书中说平均高出约 70%）。
+- **餐厅服务员实验**（第 2 章，引 Rick van Baaren 的研究）：一字不差地重复顾客的点单（镜像）比只说"好的"拿到的小费明显更多（书中说平均高出约 70%；原始研究是 van Baaren 等人 2003 年发表在 Journal of Experimental Social Psychology 上的荷兰餐厅实验，具体幅度待核实）。
 - **Jeffrey Schilling 人质案**（第 5 章，菲律宾阿布沙耶夫组织）：谈判转折点是对方首领说出"That's right"。
 - **Black Swan 官方文章补充**（私有原文）：Voss 用"你们可能觉得'教不了的人才去教书'"作为培训开场的指控审计，全场笑了，戒备消除。他强调指控审计"不是忏悔"：忏悔讲的是你做了什么，审计讲的是**对方可能怎么想你**。时机是对话开头、提出要求前、坏消息前，中途也可以补。并用医生打针前说"会有点疼"作比喻。
 

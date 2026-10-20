@@ -9,6 +9,9 @@ priority: 推荐
 access: 仅笔记（书未获取，作者文章已下载至私有文件夹）
 source_url: http://www.whencoffeeandkalecompete.com
 local_file: library-raw/klement-jtbd-articles.md
+source_level: 一手（官方节选/摘要）
+verified: 部分原文
+updated: 2026-10-20
 ---
 
 # When Coffee and Kale Compete（Alan Klement）
@@ -20,9 +23,12 @@ local_file: library-raw/klement-jtbd-articles.md
 > 3. "Replacing The User Story With The Job Story"（2013-11-12）
 > 书中其余章节（四力、竞争、案例章）基于对该书的了解，只写主题不标页码。
 
-## 一句话
+## 30 秒读懂
 
-Job 不是"一项任务/活动"，而是**一个人想把现在的生活处境变成更好的处境、却被约束卡住时经历的过程**——人们买的是"一个更好的我"（a better me），所以功能毫不相干的东西（咖啡和羽衣甘蓝）也会彼此竞争。
+- **一句话**：Job 不是一项任务，而是一个人想把现在的处境变得更好、却被某些限制卡住的过程。人买的是"更好的自己"，所以功能毫不相干的东西也会互相竞争，比如咖啡和羽衣甘蓝。
+- **举个例子**：Klement 写过小公司老板 Andreas：5 个人用 Google 表格和邮件管公司，他以为公司到头了；朋友提起 Basecamp 后他很快注册，公司第一次超过 5 人。他雇用 Basecamp 的 job，是从"到顶的小作坊"变成"还能继续长大的公司"（"What is Jobs to be Done (JTBD)?"，2016）。
+- **什么时候用**：写 Job Story，或想找出"功能不同但抢同一份预算"的竞争者时。
+- **可信度**：部分一手。书本身未获取、未读；依据作者本人在 JTBD.info / Medium 发表的三篇文章（已读，存私有目录，其中一篇是书前两章的改写），书中其余章节只写主题。
 
 ## 核心论点
 

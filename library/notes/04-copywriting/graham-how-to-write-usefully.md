@@ -9,6 +9,9 @@ priority: 必读
 access: 原文已下载（私有）
 source_url: https://paulgraham.com/useful.html
 local_file: library-raw/graham-how-to-write-usefully.md
+source_level: 一手
+verified: 已读原文
+updated: 2026-10-20
 ---
 
 # How to Write Usefully（如何写出有用的文字）
@@ -22,9 +25,12 @@ local_file: library-raw/graham-how-to-write-usefully.md
 >
 > 附文《Writing, Briefly》（paulgraham.com/writing44.html）只有一个长段落，是一串写作建议的清单。
 
-## 一句话
+## 30 秒读懂
 
-有用的文字 = **真（correct）× 重要（important）× 新（novel）× 强（strong）**。这四项相乘，任何一项为零，整体就为零。"强"的意思是：在不变成错误的前提下，**把话说到最强**。
+- **一句话**：有用的文字要同时做到四点：说得对、话题重要、读者没想到、说得足够有力。四项是相乘关系，任何一项为零，整篇就没用。"有力"指的是在不说错的前提下把话说到最强，不是夸张。
+- **举个例子**：PG 自己的例子：说 Pike's Peak"在科罗拉多某处"没错但没用，说"在科罗拉多中部"更有用，说"在正中间"就错了，因为它略偏东（§1）。
+- **什么时候用**：写博客、项目介绍、README、求职信这类需要别人认真读的文字，尤其是改稿时。
+- **可信度**：一手。作者个人网站公开文章，原文已读。
 
 ## 核心论点
 

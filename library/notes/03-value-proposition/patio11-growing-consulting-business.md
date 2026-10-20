@@ -9,15 +9,21 @@ priority: 必读
 access: 原文已下载（私有）
 source_url: https://training.kalzumeus.com/newsletters/archive/consulting_1
 local_file: library-raw/patio11-growing-consulting-business.md
+source_level: 一手
+verified: 已读原文
+updated: 2026-10-20
 ---
 
 # Growing One's Consulting Business（patio11）
 
 > 资料说明：作者邮件通讯的公开存档页，免费全文（约 3,800 词），文末作者明确欢迎转发链接；已存私有目录。下文案例、数字、短引均出自原文，按原文小标题标注。作者的标志性口号"Charge more"贯穿全文，也是他与 Ramit Sethi 两期对谈的主题（见获取方式）。
 
-## 一句话
+## 30 秒读懂
 
-**客户为价值付费，不为时间付费**——所以按周（而不是按小时）报价、用"可量化的业务结果"做案例和推荐语，每拿到一个新案例就把价格往上推一级。
+- **一句话**：客户为结果付钱，不为你花的时间付钱。所以按周报价而不是按小时，预算不够就砍范围、不砍价，每做出一个可量化的成果就把它变成案例，再往上涨价。
+- **举个例子**：作者和 Matasano 创始人喝咖啡聊了 3 小时营销，他心算"3 小时乘 100 美元，才 300 美元"，对方却说"我从这次谈话里至少得到了 15,000 美元的价值"（"Clients Pay For Value, Not For Time"）。
+- **什么时候用**：第一次给自由职业、咨询或接单服务定价，或者被客户压价时。
+- **可信度**：一手。作者本人邮件通讯的公开存档，原文已读；文中数字为作者自述的个人经营经验。
 
 ## 核心论点
 

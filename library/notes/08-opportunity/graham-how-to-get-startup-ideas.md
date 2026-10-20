@@ -9,15 +9,21 @@ priority: 必读
 access: 原文已下载（私有）
 source_url: https://paulgraham.com/startupideas.html
 local_file: library-raw/graham-how-to-get-startup-ideas.md
+source_level: 一手
+verified: 已读原文
+updated: 2026-10-20
 ---
 
 # How to Get Startup Ideas（如何获得创业点子）
 
 > 来源说明：Paul Graham 个人网站免费全文，已转文本存私有目录。原文分节：Problems / Well / Self / Noticing / School / Competition / Filters / Recipes / Organic，外加 17 条注释。下文用这些小标题定位。
 
-## 一句话
+## 30 秒读懂
 
-好点子不是"想出来"的，是"**注意到**"的。**活在未来，然后做出缺失的东西**（Live in the future, then build what's missing）：先让自己站到一个快速变化领域的前沿，再关掉"不够性感""太麻烦""会不会成大公司"这些过滤器，看见那些显而易见、却还没人做的问题。
+- **一句话**：好点子不是坐着想出来的，是在生活中注意到的。先让自己站在一个快速变化领域的前沿，再留意那些让你烦、明显缺了什么却没人做的地方。
+- **举个例子**：Dropbox 的创始人 Drew Houston 是因为忘带 U 盘才想到这个点子的（Self）。Graham 自己 1995 年想把画廊搬上网，做了 6 个月才发现画廊根本不想上网，这是"解决没人有的问题"的反例（Problems）。
+- **什么时候用**：正在找项目方向、想判断一个点子是真需求还是自己编出来的时候。
+- **可信度**：一手。作者个人网站免费全文已读（私有保存）。
 
 ## 核心论点
 

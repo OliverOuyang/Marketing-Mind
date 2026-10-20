@@ -9,6 +9,9 @@ priority: 推荐
 access: 仅笔记（版权书）
 source_url: https://www.penguinrandomhouse.com/books/545936/hacking-growth-by-sean-ellis-founder-of-growthhackerscom-and-morgan-brown/
 local_file: ""
+source_level: 二手
+verified: 未读原文
+updated: 2026-10-20
 ---
 
 # Hacking Growth（增长黑客）
@@ -21,9 +24,12 @@ local_file: ""
 >
 > Sean Ellis 是 "growth hacker" 一词的提出者（2010 年），曾负责 Dropbox、LogMeIn、Eventbrite 早期的增长。
 
-## 一句话
+## 30 秒读懂
 
-增长不是靠一个"绝招"，而是一套**可重复的流程**：先确认产品是 must-have，再找出驱动增长的**唯一核心指标**（North Star），然后由跨职能团队按 **分析 → 想点子 → 排优先级 → 测试** 的循环**高频**做实验，覆盖整个漏斗。
+- **一句话**：增长靠的不是某个绝招，而是一套固定流程：先确认产品是用户离不开的，再选一个最能代表用户价值的核心指标，然后每周不断做小实验。
+- **举个例子**：Sean Ellis 测试只问一个问题："如果再也不能用这个产品，你会有多失望？"超过 40% 的用户选"非常失望"，才说明产品已经站稳（判断 must-have 的章节）。你的小游戏如果只有 10% 的试玩者这么回答，就该先改游戏，而不是花钱拉人（示例）。
+- **什么时候用**：产品已经有一些用户、想系统地提高增长，或者需要给一堆增长点子排优先级时。
+- **可信度**：二手。版权书，未读原书；依据对全书框架的掌握，书中各公司的具体数字一律没有复述，细节以原书为准。
 
 ## 核心论点
 

@@ -9,6 +9,9 @@ priority: 必读
 access: 仅笔记（版权书）
 source_url: https://www.influenceatwork.com/
 local_file: library-raw/cialdini-goldstein-2002-science-and-practice-of-persuasion.pdf
+source_level: 一手（官方节选/摘要）
+verified: 部分原文
+updated: 2026-10-20
 ---
 
 # Influence（影响力）
@@ -19,9 +22,12 @@ local_file: library-raw/cialdini-goldstein-2002-science-and-practice-of-persuasi
 >
 > 另一篇常被引用的 HBR 2001 年文章《Harnessing the Science of Persuasion》在付费墙后，没有找到合法的免费版本。
 
-## 一句话
+## 30 秒读懂
 
-人在信息过载时靠"捷径"做决定。Cialdini 归纳出 6 条（新版是 7 条）几乎普遍有效的影响力原则：Reciprocity、Commitment/Consistency、Social Proof、Liking、Authority、Scarcity，再加 Unity。会用它们的人能让别人说"是"。但这些原则**只能指向真实存在的东西**，否则会反噬。
+- **一句话**：人在信息太多时会靠"捷径"决定要不要答应别人。Cialdini 总结了几条最常见的捷径：互惠、承诺与一致、社会认同、喜好、权威、稀缺，新版又加了"自己人"（Unity）。用好它们能让人更愿意说"是"，但前提是你指向的东西是真的，造假会反噬。
+- **举个例子**：一位餐厅老板把订位电话里的"如有变动请来电"改成"如有变动，您会来电告知吗？"，然后停下来等客人回答"会"，爽约率从 30% 降到 10%（Cialdini & Goldstein 2002，论文 p.44）。
+- **什么时候用**：写邀约、推广文案、设计试用活动时；也用来识别别人对你施压，比如"这个 offer 只保留 24 小时"。
+- **可信度**：一手（官方节选/摘要）。书为版权书，未读原书；数据依据作者本人合著、在其公司网站公开的 2002 年论文（原文已读），书中案例按章节标注，细节以原书为准。
 
 ## 核心论点
 
@@ -98,6 +104,7 @@ local_file: library-raw/cialdini-goldstein-2002-science-and-practice-of-persuasi
 - **效果有边界条件**：笑脸实验在男服务员身上无效甚至反效果。Reactance 也说明，过分强调"不许""限量"会激起逆反。论文里提到的 "Don't Litter" 标语，可能反而让人更想乱扔。
 - **社会认同要"相似的人"**：给 Berkeley 学生看"500 强 CTO 推荐"，不如看"同系学长在用"。
 - **不要把 Influence 当成"技巧清单"去堆砌**：一篇文案里塞满 6 条原则，读起来像传销。通常 1–2 条用到位就够了。
+- **书中个别案例的事实基础已被修正**：Ch4 引用的 Kitty Genovese 案"38 名目击者无人报警"，《纽约时报》2016 年已承认当年报道严重夸大。讲旁观者效应时，应引用后续的实验研究，不要把这个案例当确证事实。
 - **书和论文的版本差异**：论文说 social validation，书里叫 social proof；论文里没有 Unity。
 
 ## 出题素材

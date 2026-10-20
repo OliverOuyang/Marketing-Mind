@@ -88,6 +88,18 @@ Clayton Christensen 的经典例子：快餐店想提升奶昔销量，按人口
 - Clayton Christensen《与运气竞争》（Competing Against Luck）：JTBD 的原典，重点读第 1–3 章。
 - Bob Moesta《Demand-Side Sales 101》：JTBD 在销售里的应用，进阶。
 
+### 资料库笔记
+
+每篇开头有"30 秒读懂"和可信度说明，出题和点评以笔记为准。全部资料见 [library/INDEX.md](../../library/INDEX.md)。
+
+- [了解客户的"待办任务"（附《与运气竞争》）](../../library/notes/01-customer-insight/christensen-know-your-customers-jobs-to-be-done.md)（Clayton M. Christensen, Taddy Hall, Karen Dillon, David S. Duncan）：人买东西，不是因为他"属于某类人"，而是因为在某个具体处境下想让自己的生活往前走一步。这件想完成的事叫 job。年龄、收入这类画像只和购买相关，并不是购买的原因。
+- [营销失职：病因与解药（奶昔案例）](../../library/notes/01-customer-insight/christensen-marketing-malpractice-milkshake.md)（Clayton M. Christensen, Scott Cook, Taddy Hall（HBR 2005）；Carmen Nobel（HBS Working Knowledge 2011 报道））：按产品类别或人口特征切市场，找到的只是"相关"；真正让人掏钱的，是他想完成的一件事（job）。所以细分市场应该按 job 来切。
+- [妈妈测试](../../library/notes/01-customer-insight/fitzpatrick-the-mom-test.md)（Rob Fitzpatrick）：别问别人"我的点子好不好"，要问他过去实际做过什么。只要你不提自己的点子，连最爱你的妈妈也没法用客套话骗你。
+- [当咖啡和羽衣甘蓝竞争](../../library/notes/01-customer-insight/klement-when-coffee-and-kale-compete.md)（Alan Klement）：Job 不是一项任务，而是一个人想把现在的处境变得更好、却被某些限制卡住的过程。人买的是"更好的自己"，所以功能毫不相干的东西也会互相竞争，比如咖啡和羽衣甘蓝。
+- [需求侧销售 101](../../library/notes/01-customer-insight/moesta-demand-side-sales-101.md)（Bob Moesta（with Greg Engle）；辅助原文 Bob Moesta & Chris Spiek）：人不是被推销动的。当"对现状的不满 + 新方案的吸引"大过"对新东西的担心 + 旧习惯"时，人会自己换过去。所以推广的重点常常不是多加卖点，而是帮对方消除担心、降低换的麻烦。
+- [待办任务：从理论到实践（结果导向创新 ODI）](../../library/notes/01-customer-insight/ulwick-jobs-to-be-done-theory-to-practice.md)（Anthony W. Ulwick（Strategyn））：把 job 看成一串稳定的步骤，再请用户给每一步的"成功标准"打两个分：有多重要、现在有多满意。重要但不满意的地方，就是最值得改进的机会。
+- [Superhuman 如何搭建一台"寻找 PMF 的引擎"（Sean Ellis 40% 测试）](../../library/notes/01-customer-insight/vohra-superhuman-product-market-fit-engine.md)（Rahul Vohra（First Round Review））：判断产品有没有找到市场，可以直接问用户："如果以后再也不能用了，你会有多失望？"选"非常失望"的人达到 40%，通常说明产品站住了；没到就围绕最爱它的那群人继续改。
+
 ## 练习题
 
 1. **任务陈述**：为你自己做的一件东西（项目、作品、技能），写 3 个不同用户的 JTBD 任务陈述。

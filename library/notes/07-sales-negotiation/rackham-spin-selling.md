@@ -9,19 +9,25 @@ priority: 必读
 access: 仅笔记（版权书）
 source_url: https://www.huthwaiteinternational.com/spin-methodology
 local_file: library-raw/huthwaite-complete-guide-to-spin-selling.md（辅助资料：Huthwaite International 官方免费指南）
+source_level: 一手（官方节选/摘要）
+verified: 部分原文
+updated: 2026-10-20
 ---
 
 # SPIN Selling（销售巨人）
 
 > 来源说明：版权书，未下载全书。笔记依据：对全书八章内容的掌握，以及 SPIN 方法的创立机构 Huthwaite International 官网免费文章《SPIN Selling: Complete Guide》（已存私有目录，核对了研究规模和四类问题的官方定义）。只标章节，不标页码。书中具体百分比我不确定的一律不写。
 
-## 一句话
+## 30 秒读懂
 
-**大单和小单是两种完全不同的销售**。在大单里，决定成败的不是开场和"逼单"（closing）技巧，而是**调查阶段**：用 **Situation → Problem → Implication → Need-payoff** 四类问题，把客户的"隐含需求"发展成"明确需求"，让客户自己说出解决方案的价值。
+- **一句话**：卖贵的东西，靠的不是开场白和逼单，而是会提问：先了解现状，再问难处，接着问难处带来的后果，最后让客户自己说出解决它有什么价值（SPIN）。
+- **举个例子**：客户说"我们人工看竞品，还行吧"。你可以问"这件事每周占用团队多少时间？漏掉一个竞品动作会有什么后果？"，再问"如果每周自动出一份报告，对你意味着什么？"（示例）。
+- **什么时候用**：和客户、面试官或合作方做需求沟通，尤其是金额较大、要多次接触才能成交的场合。
+- **可信度**：一手（官方节选/摘要）。书是版权书，未读原书；已读 SPIN 方法创立机构 Huthwaite International 的官方免费指南（私有保存），书中百分比没有写入，细节以原书为准。
 
 ## 核心论点
 
-1. **研究基础**（第 1 章 Major Sales: Where Does Success Lie?）：Rackham 和 Huthwaite 团队从 1970 年代开始，观察分析了 **35,000 多次真实销售拜访**（官方说法，Huthwaite 页确认），跨越约 12 年、20 多个国家。用"行为分析"（Behaviour Analysis）记录顶尖销售在拜访中**实际说了什么、做了什么**。核心发现："在小单中有效的东西，在大单中往往无效，甚至有害。"
+1. **研究基础**（第 1 章 Major Sales: Where Does Success Lie?）：Rackham 和 Huthwaite 团队从 1970 年代开始，观察分析了 **35,000 多次真实销售拜访**（官方说法，Huthwaite 官网和官方指南均确认），据出版社图书介绍，研究历时约 12 年、覆盖 23 个国家、约 1 万名销售人员（Huthwaite 页面未给出年限和国家数，待核实）。用"行为分析"（Behaviour Analysis）记录顶尖销售在拜访中**实际说了什么、做了什么**。核心发现："在小单中有效的东西，在大单中往往无效，甚至有害。"
 2. **一次拜访的四个阶段**：开场（Preliminaries）→ **调查**（Investigating）→ 展示能力（Demonstrating Capability）→ 获得承诺（Obtaining Commitment）。大单成败主要取决于"调查"。
 3. **拜访结果的四种分类**（第 2 章 Closing the Sale）：**订单**（Order）、**推进**（Advance：客户同意了一个让销售向前推进的具体行动，比如安排和决策人见面、试用）、**延续**（Continuation：客户说"挺好，以后再联系"，没有具体行动）、**未成交**（No-sale）。大单很少一次成交，所以要把每次拜访的目标定为拿到"推进"，而不是"延续"。这是 07 模块"每次对话都要有下一步"的研究来源。
 4. **逼单技巧在大单里适得其反**（第 2 章）：传统培训强调的 closing 技巧（假设成交、二选一等）在低价、一次性的小单里可能有用。但在高价、长周期、关系持续的大单里，它会增加客户的压力和戒备，与成交负相关。顶尖销售"很少使用 closing 技巧"，他们靠的是前面的调查和价值建立。
@@ -73,7 +79,7 @@ local_file: library-raw/huthwaite-complete-guide-to-spin-selling.md（辅助资�
 
 ## 案例与数据
 
-- **研究规模**：35,000 多次销售拜访，约 12 年，Huthwaite 官网称其为"同类研究中规模最大"。
+- **研究规模**：35,000 多次销售拜访，Huthwaite 官方指南称其为"同类研究中规模最大"（"the largest of its kind"）；"约 12 年、23 个国家"出自出版社图书介绍（如 Routledge 版书页），待核实。
 - **Huthwaite 官方指南中的示例**（私有原文）：卖方以 Huthwaite 自己为例，客户在欧洲四个城市有办公室，过去一年快速扩张，销售团队没人受过正式培训、没完成目标。
   - P：在一个分散在全球的销售团队上，你们遇到了什么问题？
   - I：如果团队完不成目标，会不会降低你们在这个领域的市场份额、增加竞争风险？不实施一套一致的销售方法，你看到的后果是什么？

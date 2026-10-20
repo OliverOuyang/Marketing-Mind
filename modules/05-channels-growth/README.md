@@ -103,16 +103,31 @@ Paul Graham 的名文 *Do Things That Don't Scale*：Airbnb 创始人早期亲�
 ## 案例速读
 
 - **Hotmail**：每封邮件底部自动加一句"PS: I love you. Get your free email at Hotmail"，产品本身就是渠道，半年用户破百万。
-- **Dropbox 推荐计划**：邀请好友，双方各得 500MB 空间。把"推荐"环节做成了对双方都有实用价值的交易，15 个月内用户从约 10 万涨到约 400 万。
+- **Dropbox 推荐计划**：邀请好友，双方各得额外空间（当时各 250MB，后来免费用户提到各 500MB）。把"推荐"环节做成了对双方都有实用价值的交易，15 个月内用户从约 10 万涨到约 400 万。
 - **Notion 模板社区**：用户自发做模板、卖模板、教模板，用户变成了渠道。
 - **个人版**：一个学生把自己整理的"实习面试题库"免费发到小红书，评论区留言领取，同时附上简介。实用价值带来了曝光，曝光带来了私信内推。
+- **仓库里的完整拆解**：[Sac《小王子》发布周](../../cases/2026-10-20-sac-little-prince.md)（预告定时、首小时转发、第三天发教程）；[BaiFu × Auday](../../cases/2026-10-20-baifu-auday.md)（零粉丝官号首发，再由创始人长文认领）。
 
 ## 推荐阅读
 
 - Gabriel Weinberg & Justin Mares《Traction》：牛眼框架和 19 类渠道，先读第 1–3 章，其余按需查。
 - Jonah Berger《疯传》（Contagious）：STEPPS，案例丰富，好读。
-- Sean Ellis《增长黑客》（Hacking Growth）：实验驱动的增长流程。
+- Sean Ellis & Morgan Brown《增长黑客》（Hacking Growth）：实验驱动的增长流程。
 - Paul Graham *Do Things That Don't Scale*（网文，免费）：早期该怎么拿到第一批用户。
+
+### 资料库笔记
+
+每篇开头有"30 秒读懂"和可信度说明，出题和点评以笔记为准。全部资料见 [library/INDEX.md](../../library/INDEX.md)。
+
+- [点击率必烂定律（附：冷启动）](../../library/notes/05-channels-growth/andrew-chen-law-of-shitty-clickthroughs.md)（Andrew Chen）：任何营销渠道，刚开始效果都好，用的人一多就会变差，这是规律不是你做错了。与其把旧渠道再优化一点，不如早点找到别人还没用的新渠道。
+- [四个匹配：产品-市场、产品-渠道、渠道-模式、模式-市场](../../library/notes/05-channels-growth/balfour-four-fits.md)（Brian Balfour）：光有好产品不够。产品、用户、渠道、收费方式这四样要互相配得上，增长才会顺；而且是产品去适配渠道，渠道不会迁就你的产品。
+- [疯传：让你的产品、思想、行为像病毒一样入侵](../../library/notes/05-channels-growth/berger-contagious.md)（Jonah Berger）：东西能火不是靠运气，而是因为它让人想聊、想转。Berger 总结了 6 个原因，合称 STEPPS：让分享者有面子、常被想起、能激起情绪、看得见、有用、有故事。
+- [什么让网络内容疯传？](../../library/notes/05-channels-growth/berger-milkman-2012-what-makes-online-content-viral.md)（Jonah Berger & Katherine L. Milkman）：内容会不会被转发，关键不在正面还是负面，而在于它能不能让人"激动起来"。敬畏、愤怒、焦虑让人更想转，悲伤让人更不想转。
+- [增长黑客](../../library/notes/05-channels-growth/ellis-brown-hacking-growth.md)（Sean Ellis & Morgan Brown）：增长靠的不是某个绝招，而是一套固定流程：先确认产品是用户离不开的，再选一个最能代表用户价值的核心指标，然后每周不断做小实验。
+- [头部消费级应用如何拿到前 1,000 个用户](../../library/notes/05-channels-growth/lenny-first-1000-users.md)（Lenny Rachitsky）：大公司拿到前 1,000 个用户，基本都只靠一种办法，没有谁同时用了三种以上。先想清楚你的用户到底是谁、在哪，再挑一种办法做透。
+- [海盗指标：AARRR](../../library/notes/05-channels-growth/mcclure-startup-metrics-for-pirates.md)（Dave McClure）：把用户从"第一次来"到"付钱"拆成 5 步：获取、激活、留存、推荐、收入（AARRR）。每一步都定义一个能数出来的动作，找到流失最多的那一步，先修它。
+- [爆款制造者（中文译名待核实）](../../library/notes/05-channels-growth/thompson-hit-makers.md)（Derek Thompson）：东西火起来，很少是因为"好东西自己会传开"，而是因为它被足够多的人反复看到，而且它"新得刚刚好"，让人觉得又新鲜又眼熟。
+- [牵引力：获客渠道的系统化测试](../../library/notes/05-channels-growth/weinberg-mares-traction.md)（Gabriel Weinberg & Justin Mares）：大多数创业者只顾做产品，只试自己熟悉的一两个渠道。正确做法是把 19 种获客渠道都过一遍，挑 3 个便宜地测试，找到那个真正有效的，再全力投入。
 
 ## 练习题
 

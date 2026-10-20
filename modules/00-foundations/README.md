@@ -33,7 +33,7 @@
 
 ### 3. 人买的不是产品，是"进步"
 
-> 人们不想要四分之一英寸的钻头，他们想要墙上四分之一英寸的洞。——Theodore Levitt
+> 人们不想要四分之一英寸的钻头，他们想要墙上四分之一英寸的洞。——Theodore Levitt（出自他 1983 年的《The Marketing Imagination》，他在书中注明是转述 Leo McGinneva 的话；不在《营销短视症》原文里）
 
 再往前一步：他们想要的是挂上那幅画之后，家里看起来更好的感觉。
 这条线索在 01 模块（JTBD）里会展开。
@@ -73,6 +73,17 @@
 - Seth Godin《这才是营销》（This Is Marketing）：第 1–4 章，建立"营销是为特定人群创造改变"的基本观念。
 - Philip Kotler《营销管理》：只看 STP 和 4P 相关章节，当教科书查，不必通读。
 - Theodore Levitt《营销短视症》（Marketing Myopia，1960，HBR 文章）：短，经典，讲"你到底在什么生意里"。
+
+### 资料库笔记
+
+每篇开头有"30 秒读懂"和可信度说明，出题和点评以笔记为准。全部资料见 [library/INDEX.md](../../library/INDEX.md)。
+
+- [这才是营销](../../library/notes/00-foundations/godin-this-is-marketing.md)（Seth Godin）：营销不是把声音喊得更大，而是先选定一小群人，帮他们实现他们想要的改变。先想清楚"给谁、为了什么"，再去做东西、讲故事。
+- [释放创意病毒](../../library/notes/00-foundations/godin-unleashing-the-ideavirus.md)（Seth Godin（Foreword by Malcolm Gladwell））：硬塞给人的广告越来越没用。更好的办法是做一个值得别人转述的东西，先在一个小圈子里做到人人都知道，再让圈子里最可信的人替你传出去。
+- [营销管理（STP 与 4P）+ 4C 原始出处](../../library/notes/00-foundations/kotler-marketing-management-stp-4p-4c.md)（Philip Kotler & Kevin Lane Keller（后续版本加入 Alexander Chernev）；Robert F. Lauterborn）：做营销的基本顺序是：先把市场分成几类人，挑一类做目标，想好要在他们心里留下什么印象，再用产品、价格、渠道、推广这四个手段把印象做实。4C 提醒你再从买方的角度检查一遍。
+- [营销短视症](../../library/notes/00-foundations/levitt-marketing-myopia.md)（Theodore Levitt）：生意停止增长，通常不是因为市场饱和，而是因为你把自己定义成"我做的东西"，而不是"我满足的需要"。铁路公司以为自己在做铁路，没意识到自己做的是运输，于是眼看着汽车和飞机把客人拿走。
+- [品牌如何增长](../../library/notes/00-foundations/sharp-how-brands-grow.md)（Byron Sharp（Ehrenberg-Bass Institute for Marketing Science））：在成熟品类里，品牌变大主要靠让更多人来买，尤其是偶尔才买一次的人，而不是让老顾客更忠诚。关键是让人想买时想得起你、买得到你，并且一眼认出是你。
+- [产品差异化与市场细分：两种可替代的营销战略](../../library/notes/00-foundations/smith-1956-segmentation-vs-differentiation.md)（Wendell R. Smith）：面对需求各不相同的顾客，企业有两条路：一是靠广告让大家相信"我的不一样"（差异化），二是承认顾客本来就分成好几类，为每一类调整产品（细分）。这篇 1956 年的短文让"市场细分"成了营销学的正式概念。
 
 ## 练习题
 
