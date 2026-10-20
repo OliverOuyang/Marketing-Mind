@@ -54,3 +54,4 @@
 - 2026-10-20 · 案例拆解 · BaiFu × Auday 的发布打法（产品官号 vs 创始人长文），收 6 条素材 · [cases/2026-10-20-baifu-auday.md](cases/2026-10-20-baifu-auday.md)
 - 2026-10-20 · 案例补充 · 加入 MiroFish 与三项目共性打法，产出 BaiFu 营销思维画像和 baifu-lens 点评 Skill 草稿 · [cases/profiles/baifu.md](cases/profiles/baifu.md)
 - 2026-10-20 · 案例补充 · 加入 BaiFu 小红书（7 条笔记数据 + 《1K+ Star》原帖拆解），画像与 baifu-lens 同步更新
+- 2026-10-20 · 示范稿 · 用 baifu-lens 写 3 篇：demo-video 发布帖（中英）、research-crawler 复盘长文、Marketing-Mind 短视频脚本；Skill 据此补"先挖素材""没有大结果时"等规则 · [drafts/](drafts/README.md)
