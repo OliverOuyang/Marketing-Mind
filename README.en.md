@@ -6,6 +6,8 @@
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-Standard-blueviolet?style=flat-square)](https://agentskills.io)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-ready-D97757?style=flat-square)](skills/marketing-mind/SKILL.md)
 
+> **Maybe the most practical marketing skill you'll ever use.**
+
 A marketing training ground for indie developers, students and creators: **one Claude skill + a 10-module course + 70+ sourced reading notes + teardowns of real viral launches**. The skill writes launch posts, retrospective long-form articles, Xiaohongshu (RedNote) card posts and video scripts for your own work, and can act as a Socratic mentor that only critiques when you want to practice. Content is in Chinese; the skill can write in English.
 
 [中文](README.md)

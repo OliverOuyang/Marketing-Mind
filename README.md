@@ -6,7 +6,7 @@
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-Standard-blueviolet?style=flat-square)](https://agentskills.io)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-ready-D97757?style=flat-square)](skills/marketing-mind/SKILL.md)
 
-> 【待补：首屏钩子一句。由 Oliver 写初稿，算模块 04 的练习；要求挂一个可验证的数字或事实】
+> **这也许是你用过最实用的营销 skill。**
 
 一个给独立开发者、学生和创作者用的营销训练场：**一个 Claude skill + 10 个模块的课程 + 70 多份带出处的精读笔记 + 真实爆款拆解**。它能直接帮你写发布帖、复盘长文、小红书图卡和视频脚本，也能当导师带你把营销练成本能。
 
@@ -129,7 +129,7 @@ Marketing-Mind/
 
 ## 作者
 
-[Oliver Ouyang](https://github.com/OliverOuyang)。自己做小游戏，作品做出来了却没人看；后来看到小王子和 BaiFu 的作品被大规模传播，决定把营销吃透，于是有了这个项目。完整心路见 [docs/origin-story.md](docs/origin-story.md)。
+[Oliver Ouyang](https://github.com/OliverOuyang)。自己做小游戏，作品做出来了却没人看，于是开始系统学营销；两天后小王子刷屏，后来又看到 BaiFu 的发布，决定把营销吃透，把学到的东西做成了这个项目。完整心路见 [docs/origin-story.md](docs/origin-story.md)。
 
 【待补：各平台入口（公众号、小红书、X、B 站）】
 
