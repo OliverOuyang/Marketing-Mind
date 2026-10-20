@@ -1,5 +1,11 @@
 # Marketing Mind
 
+[![GitHub Stars](https://img.shields.io/github/stars/OliverOuyang/Marketing-Mind?style=flat-square&color=DAA520)](https://github.com/OliverOuyang/Marketing-Mind/stargazers)
+[![License: MIT](https://img.shields.io/badge/skill-MIT-green?style=flat-square)](LICENSE)
+[![Content: CC BY 4.0](https://img.shields.io/badge/content-CC%20BY%204.0-lightgrey?style=flat-square)](LICENSE-CONTENT)
+[![Agent Skills](https://img.shields.io/badge/Agent%20Skills-Standard-blueviolet?style=flat-square)](https://agentskills.io)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-ready-D97757?style=flat-square)](skills/marketing-mind/SKILL.md)
+
 A marketing training ground for indie developers, students and creators: **one Claude skill + a 10-module course + 70+ sourced reading notes + teardowns of real viral launches**. The skill writes launch posts, retrospective long-form articles, Xiaohongshu (RedNote) card posts and video scripts for your own work, and can act as a Socratic mentor that only critiques when you want to practice. Content is in Chinese; the skill can write in English.
 
 [中文](README.md)
