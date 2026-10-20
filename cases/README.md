@@ -14,3 +14,4 @@
 |---|---|---|---|
 | 2026-10-20 | [BaiFu × Auday：一个人，两种声音](2026-10-20-baifu-auday.md)（附 MiroFish、跨项目打法、[人物画像](profiles/baifu.md)） | 产品发布 + 个人走红 | 产品官号先替自己说话，创始人再用长文"认领" |
 | 2026-10-20 | [Sac：从 AI 搞钱号到《小王子：星辰之旅》](2026-10-20-sac-little-prince.md)（账号全史 + 发布周，附[人物画像](profiles/sac.md)、[Sac 镜头](../skills/marketing-mind/lenses/sac.md)） | 个人账号起号 + 独立游戏发布 | 选能排进前三的小赛道，几周一件作品并交出做法；小王子预告定时首发，首小时接力转发，第三天发教程 |
+| 2026-10-20 | [数字生命卡兹克的小红书标题和封面](2026-10-20-kazike-xhs-titles-covers.md)（26 条笔记逐条数据，附[人物画像](profiles/kazike.md)、[卡兹克镜头](../skills/marketing-mind/lenses/kazike.md)） | 内容网感（标题 + 封面） | 标题写反应，封面放证据（带浏览数的 X 截图），正文交能拿走的东西 |

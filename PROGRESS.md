@@ -29,8 +29,8 @@
 | 项目 | 数量 | 目标（前 3 个月） |
 |---|---|---|
 | 练习记录（`practice/`） | 1 | 36 |
-| 案例拆解（`cases/`） | 2 | 20 |
-| 素材收集（`swipe-file/`） | 16 | 100 |
+| 案例拆解（`cases/`） | 3 | 20 |
+| 素材收集（`swipe-file/`） | 19 | 100 |
 | 机会卡片（`opportunities/`） | 0 | 10 |
 | 真实对外行动 | 0 | 12 |
 
@@ -60,3 +60,4 @@
 - 2026-10-20 · 案例拆解 · Sac《小王子：星辰之旅》的发布周（预告定时、首小时转发链、第三天教程、赞助变现），附人物画像和给 Skill 的打法要点，收 6 条素材 · [cases/2026-10-20-sac-little-prince.md](cases/2026-10-20-sac-little-prince.md)
 - 2026-10-20 · 开源准备 · skill 收成一个总 skill marketing-mind（原 baifu-lens 并入，BaiFu、Sac 两个案例镜头）；资料库 72 篇全部加"30 秒读懂"和来源等级，新增写作 5 篇、模块 09 实战 5 篇；课程事实核查改 19 处；加 README 首屏、双许可、一行安装、心路文档 · [docs/origin-story.md](docs/origin-story.md)
 - 2026-10-20 · 案例补充 · Sac 拆成完整人物：账号全史（3 月起号到小王子，四个阶段）、作品通用公式、变现路径；画像重写为 6 个心智模型 + 14 条启发式；Sac 镜头补全到可单独调用（写作/运营/视频规则） · [skills/marketing-mind/lenses/sac.md](skills/marketing-mind/lenses/sac.md)
+- 2026-10-20 · 案例拆解 · 数字生命卡兹克的小红书标题和封面：26 条笔记逐条数据，结论是"标题写反应，封面放证据，正文交东西"，能拿走东西的帖点赞中位数是其他的 2.8 倍；附画像和卡兹克镜头，收 3 条素材 · [cases/2026-10-20-kazike-xhs-titles-covers.md](cases/2026-10-20-kazike-xhs-titles-covers.md)

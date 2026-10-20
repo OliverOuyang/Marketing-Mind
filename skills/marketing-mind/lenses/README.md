@@ -10,6 +10,7 @@
 |---|---|---|---|
 | [BaiFu](baifu.md) | 独立开发者的产品发布、开源项目、复盘长文 | 让作品先说话，用热故事认领，大口号挂硬数字 | [案例](https://github.com/OliverOuyang/Marketing-Mind/blob/main/cases/2026-10-20-baifu-auday.md) · [画像](https://github.com/OliverOuyang/Marketing-Mind/blob/main/cases/profiles/baifu.md) |
 | [Sac](sac.md) | 小游戏、Demo、视觉作品的首发；做作品 + 分享方法的个人账号起号 | 借热选小赛道，几周一件作品并交出做法；发布是一周，首小时有人接力 | [案例](https://github.com/OliverOuyang/Marketing-Mind/blob/main/cases/2026-10-20-sac-little-prince.md) · [画像](https://github.com/OliverOuyang/Marketing-Mind/blob/main/cases/profiles/sac.md) |
+| [数字生命卡兹克](kazike.md) | 小红书标题、封面、短帖；分享工具、提示词、外网新东西 | 标题写反应，封面放证据，正文交东西 | [案例](https://github.com/OliverOuyang/Marketing-Mind/blob/main/cases/2026-10-20-kazike-xhs-titles-covers.md) · [画像](https://github.com/OliverOuyang/Marketing-Mind/blob/main/cases/profiles/kazike.md) |
 
 ## 怎么加一个新镜头
 
